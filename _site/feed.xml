@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIPIC, Spring 15</title>
+    <description>Saturdays 9:30-12:30pm, Room 515&lt;br&gt; February 21 - April 25
+</description>
+    <link>http://laras126.github.io//uipic-spring15/</link>
+    <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Feb 2015 11:50:22 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2015 11:50:22 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Present Projects + Next Steps</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-intros-syllabus-and-whatnot&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Intros, Syllabus, and whatnot&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hi!&lt;/li&gt;
+  &lt;li&gt;Course Goals, why learn this?&lt;/li&gt;
+  &lt;li&gt;Teaching Approach
+    &lt;ul&gt;
+      &lt;li&gt;Self teaching, tutorials&lt;/li&gt;
+      &lt;li&gt;Pair programming&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Syllabus and stuff
+    &lt;ul&gt;
+      &lt;li&gt;Course site, what we’ll cover	&lt;/li&gt;
+      &lt;li&gt;Tasks and Assignments&lt;/li&gt;
+      &lt;li&gt;Your blogs&lt;/li&gt;
+      &lt;li&gt;Grading&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-hack&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Hack!&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;Download this&lt;/a&gt;, pair up and hack away!&lt;/p&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-file-structure&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; File Structure&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Absolute vs. Relative file paths&lt;/li&gt;
+  &lt;li&gt;How folder structures work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-create-your-class-folder-in-the-command-line&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Create your class folder in the command line.&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-hacking&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue hacking&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Switch coders&lt;/li&gt;
+  &lt;li&gt;Work through this task list&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;todos&quot;&gt;Todos:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/getting-to-know-html/&quot;&gt;Shaw Howe, Lesson 1: Building Your First Web Page&lt;/a&gt; (tutorial)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/25/class-10.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/25/class-10.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Work Time</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;h4 id=&quot;lecture&quot;&gt;Lecture:&lt;/h4&gt;
+
+&lt;h4 id=&quot;exercise&quot;&gt;Exercise:&lt;/h4&gt;
+
+&lt;h4 id=&quot;lecture-1&quot;&gt;Lecture:&lt;/h4&gt;
+
+&lt;h4 id=&quot;exercise-1&quot;&gt;Exercise:&lt;/h4&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/18/class-9.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/18/class-9.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Plugins + Best Practices</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/11/class-8.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/11/class-8.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>JS and jQuery</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/04/class-7.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/04/class-7.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Grids + Frameworks</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/03/28/class-6.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/03/28/class-6.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Work Time</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/03/14/class-5.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/03/14/class-5.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsive Design</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Begin Assignment 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Mar 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/03/07/class-4.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/03/07/class-4.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Semantics and the SOC.</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/02/28/class-3.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/02/28/class-3.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Oh, the Internet.</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Housekeeping - all good?&lt;/li&gt;
+  &lt;li&gt;Present clickhole&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-how-the-internet-works&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; How the Internet works&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;http://www.submarinecablemap.com/&quot;&gt;Cable Map&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How it works (metaphor on the whiteboard)&lt;/li&gt;
+  &lt;li&gt;Difference between front-end and back-end&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; servers, DNS, bandwidth, client, browser.&lt;/p&gt;
+
+&lt;h4 id=&quot;span-classpost-title-precodespan-take-a-look-at-welcome-exercise&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Code:&lt;/span&gt; Take a look at Welcome exercise&lt;/h4&gt;
+
+&lt;p&gt;Answer questions, demos.&lt;/p&gt;
+
+&lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-whats-on-a-server&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; What’s on a server?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s just a computer!&lt;/li&gt;
+  &lt;li&gt;Absolute vs. relative file paths&lt;/li&gt;
+  &lt;li&gt;The command line&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; Unix, LAMP, command line&lt;br /&gt;
+&lt;strong&gt;Unix Commands:&lt;/strong&gt; &lt;code&gt;cd&lt;/code&gt;, &lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;touch&lt;/code&gt;, &lt;code&gt;mkdir&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-create-site-folder-in-command-line&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Create site folder in command line.&lt;/h4&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-start-on-assignment-1&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Start on Assignment 1.&lt;/h4&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get about 1/2 way through Assignment 1. Bring questions.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 21 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/02/21/class-2.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/02/21/class-2.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome, and code!</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-intros-syllabus-and-whatnot&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Intros, Syllabus, and whatnot&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hi!&lt;/li&gt;
+  &lt;li&gt;Teaching Approach
+    &lt;ul&gt;
+      &lt;li&gt;Self teaching, tutorials&lt;/li&gt;
+      &lt;li&gt;Pair programming&lt;/li&gt;
+      &lt;li&gt;Importance of workflow&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Syllabus and stuff
+    &lt;ul&gt;
+      &lt;li&gt;Course site, what we’ll cover&lt;/li&gt;
+      &lt;li&gt;Tasks and Assignments&lt;/li&gt;
+      &lt;li&gt;Grading&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-hack&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Hack!&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/class1-welcome.zip&quot;&gt;Download this&lt;/a&gt;. We’ll get started together, then I’ll pair you up and you’ll hack away.&lt;/p&gt;
+
+&lt;h4 id=&quot;break&quot;&gt;Break!&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-front-end-design&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Front-end Design&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;What does it mean to design in code, and why do it?&lt;/li&gt;
+  &lt;li&gt;A look at Process
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://styletil.es&quot;&gt;Style Tiles&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://danielmall.com/articles/rif-element-collages/&quot;&gt;Element Collages&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://aafh-css.herokuapp.com/wireframes&quot;&gt;HTML Wireframes&lt;/a&gt; and &lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;responsive comping&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://foodbank.bradfrostweb.com&quot;&gt;Pittsburgh Foodbank open redesign.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My process with DiJiFi.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://dijifi-wireframes.herokuapp.com/&quot;&gt;HTML wireframes&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stage.notlaura.com/dfi-tiles/&quot;&gt;Style Tiles&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.dijifi.com&quot;&gt;Finished site&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-hacking&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue hacking&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Switch coders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post-todos&quot;&gt;
+
+  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time…&lt;/h3&gt;
+
+  &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://the-pastry-box-project.net/brad-frost/2014-january-28&quot;&gt;Just&lt;/a&gt; - By &lt;a href=&quot;http://bradfrostweb.com&quot;&gt;Brad Frost&lt;/a&gt;, e.g. the god of RWD. About learning technical skills, and that everyone feels stupid.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://24ways.org/2009/make-your-mockup-in-markup/&quot;&gt;Make your Mockup in Markup&lt;/a&gt; - This is an old article (2009?!) but was one of the first about designing in the browser, and still very relevant.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://css-tricks.com/how-css-selectors-work/&quot;&gt;How CSS Selectors Work&lt;/a&gt; - Somewhat a review, but take a look.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/&quot;&gt;Shaw Howe&lt;/a&gt; (tutorial) - Also a review, but look through the first few lessons and fill in any gaps.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h4 id=&quot;doings&quot;&gt;Doings:&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Go to the &lt;a href=&quot;/links&quot;&gt;Links page&lt;/a&gt;, download various apps, and explore the links.&lt;/li&gt;
+    &lt;li&gt;Continue working in the Welcome files, and maybe use some techniques you learn in the tutorial above.&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/02/14/class-1.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/02/14/class-1.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+  </channel>
+</rss>

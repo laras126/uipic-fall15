@@ -1,0 +1,60 @@
+---
+layout: post
+class: 1
+excerpt: "Hi! Introductions, about the class, expectations, and whatnot. Then let's get coding."
+title:  "Welcome, and code!"
+date:   2015-02-14
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Lecture:</span> Intros, Syllabus, and whatnot
+* Hi!
+* Teaching Approach
+	* Self teaching, tutorials
+	* Pair programming
+	* Importance of workflow
+* Syllabus and stuff
+	* Course site, what we’ll cover
+	* Tasks and Assignments
+	* Grading
+
+#### <span class="post-title-pre">Exercise:</span> Hack!
+
+[Download this](http://stuff.notlaura.com/downloads/class1-welcome.zip). We'll get started together, then I'll pair you up and you'll hack away.
+
+#### Break!
+
+#### <span class="post-title-pre">Lecture:</span> Front-end Design
+* What does it mean to design in code, and why do it?
+* A look at Process
+	* [Style Tiles](http://styletil.es)
+	* [Element Collages](http://danielmall.com/articles/rif-element-collages/)
+	* [HTML Wireframes](http://aafh-css.herokuapp.com/wireframes) and [responsive comping](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups)
+* Brad Frost's [Pittsburgh Foodbank open redesign.](http://foodbank.bradfrostweb.com)
+* My process with DiJiFi.
+	* [HTML wireframes](http://dijifi-wireframes.herokuapp.com/)
+	* [Style Tiles](http://stage.notlaura.com/dfi-tiles/)
+	* [Finished site](http://www.dijifi.com)
+
+#### <span class="post-title-pre">Exercise:</span> Continue hacking
+* Switch coders
+
+
+<div class="post-todos" markdown="1">
+
+### For Next Time...
+
+#### Readings:
+
+* [Just](https://the-pastry-box-project.net/brad-frost/2014-january-28) - By [Brad Frost](http://bradfrostweb.com), e.g. the god of RWD. About learning technical skills, and that everyone feels stupid.
+* [Make your Mockup in Markup](http://24ways.org/2009/make-your-mockup-in-markup/) - This is an old article (2009?!) but was one of the first about designing in the browser, and still very relevant.
+* [How CSS Selectors Work](http://css-tricks.com/how-css-selectors-work/) - Somewhat a review, but take a look.
+* [Shaw Howe](http://learn.shayhowe.com/html-css/) (tutorial) - Also a review, but look through the first few lessons and fill in any gaps.
+
+#### Doings:
+* Go to the [Links page](/links), download various apps, and explore the links.
+* Continue working in the Welcome files, and maybe use some techniques you learn in the tutorial above.
+
+</div>

@@ -1,0 +1,16 @@
+---
+layout: page
+title: Classes
+permalink: /classes/
+---
+
+<ul class="post-list">
+  {% for post in site.posts reversed %}
+    <li {% comment %} {% if post.date <= site.time %} class="post-passed" {% endif %} {% endcomment %}>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>Class {{ post.class }}: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} &rarr;</a>
+      </h3>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

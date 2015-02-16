@@ -1,0 +1,13 @@
+# Site settings
+title: UIPIC, Spring 15
+email: lara@notlaura.com
+description: > # this means to ignore newlines until "baseurl:"
+  Saturdays 9:30-12:30pm, Room 515<br>
+  February 21 - April 25
+baseurl: "/uipic-spring15" # the subpath of your site, e.g. /blog/
+url: "http://laras126.github.io/" # the base hostname & protocol for your site
+twitter_username: laras126
+github_username:  laras126
+
+# Build settings
+markdown: kramdown

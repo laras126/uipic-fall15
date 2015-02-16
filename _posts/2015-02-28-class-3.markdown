@@ -1,0 +1,14 @@
+---
+layout: post
+class: 3
+excerpt: "Let's talk semantics, and why you shouldn't call your div <code>.animal-picture</code>. We'll also discuss the Separation of Concerns and general front-end best practices."
+title:  "Semantics and the SOC."
+date:   2015-02-28
+categories: class
+---
+
+## The Plan
+...
+
+### For Next Time
+...

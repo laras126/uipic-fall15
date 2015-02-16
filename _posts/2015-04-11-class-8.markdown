@@ -1,0 +1,16 @@
+---
+layout: post
+class: 8
+excerpt: "..."
+title:  "Plugins + Best Practices"
+date:   2015-04-11
+categories: class
+---
+
+## The Plan
+
+...
+
+### For Next Time
+
+...
