@@ -1,5 +1,4 @@
-# uipic-spring15
-Syllabus for Pratt's "UI Prototyping in Code" course in Spring 2015
+# UI Prototyping in Code
+### Spring 2015, Pratt
 
-- [ ] Do this
-- [ ] And this
+Class site is [here](http://laras126.github.io/uipic-spring15).
