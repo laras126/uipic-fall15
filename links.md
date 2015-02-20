@@ -9,6 +9,7 @@ permalink: /links/
 * [Recommended Apps](#recommended-apps)
 * [Sites to Follow](#sites-to-follow)
 * [Newsletters](#newsletters)
+* [Meetups](#meetups)
 * [Book Recommendations](#book-recommendations)
 * [Free Design Resources](#free-design-resources)
 * [Other Link Lists](#other-link-lists)
@@ -40,6 +41,10 @@ permalink: /links/
 *   [CSS Weekly](http://css-weekly.com/) - weekly list of CSS and front-end dev resources, articles, and tips
 *   [Smashing Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/) - monthly a roundup of Smashing Mag. articles and much more!
 *   [Lara's Newsletter](http://eepurl.com/0qpQn) - if you want to! I announce workshops and send out helpful links every now and then.
+
+#### Meetups
+
+(coming soon)
 
 #### Book Recommendations
 

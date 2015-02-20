@@ -7,6 +7,7 @@ permalink: /info/
 Jump to:
 
 * [Basics](#basics)
+* [Class Format](#class-format)
 * [Course Work](#course-work)
 * [Grading](#grading)
 * [Materials](#materials)
@@ -30,38 +31,59 @@ Lara Schenck<br>
 
 ## Class Format
 
+#### Flipped Classroom
+
+A ["flipped classroom"](http://en.wikipedia.org/wiki/Flipped_classroom) means that technical and linear content is learned outside of class time via tutorials and videos. Learning code itself is easily accomplished on your own, and I want our in-class time to be as valuable as possible, and will be spent discussing concepts and solving problems together.
 
 #### Pair Programming
 
+When coding in class, we'll primarily be pair programming. As the wise Wikipedia states:
+
 > Pair programming (sometimes referred to as peer programming) is an agile software development technique in which two programmers work as a pair together on one workstation. One, the driver, writes code while the other, the observer, pointer or navigator, reviews each line of code as it is typed in.
 
+Since our class is somewhat big, when we do code in class, you will pair with someone. Your coding ability doesn't matter here, but be ready to teach or learn from your partner.
+
+#### Code Reviews and Q &amp; A
+
+Though the majority of code learning will happen outside of class via tutorials, we will, as a class, work through a specific problem or question or give feedback on a piece of code. I might ask one of you to explain the solution or lead the review.
 
 ## Course Work
 
+#### Tutorials and Assignments
 
-#### 1. Participate
+As mentioned above, tutorials will be assigned to guide your coding education througout the course. I will also give you "Assignments", or checklists of coding tasks to make sure you have comprehended the tutorials. These will be graded on completion.
 
+#### Click-holes
 
+This translates to research, or a "rabbit hole of clicking", if you will. A huge part of being a good designer and developer is being excited and knowledgeable about what's happening in the industry. Here's how to go into a click-hole:
 
+1. Via [Panda](https://usepanda.com/app/#/) (listed below) or some other site, find an interesting article. Read it.
+2. When you see a link embedded in the article, open it in a new tab, but keep reading the article (if you want).
+3. Look at those other links, and open their embedded links.
+4. You'll probably start researching a specific topic, and learning about prominent industry names and websites.
 
-#### 2. Do the Tutorials
+Each class someone will present a "click-hole" from the week.
 
-This course covers __a lot__ of material, and we can't do all of it in class. Each week I will assign tutorials to make sure you have the appropriate background for what we cover together. Learning the syntax of HTML and CSS is something you can easily do on your own, and I want to teach you what you can't as easily learn on your own.
-
-
-#### 3. Go to a Meetup
+#### Go to a Meetup
 
 Go to at least one Meetup or other industry gathering during the course and report back. See the [relevant Links section]({{site.baseurl}}/links#meetups) for suggestions.
 
-
-
 #### Final Project
 
-This can be of your choosing, or based on a few prompts I provide. Ultimately, it will be a live website at your domain, ready for inclusion in your portfolio.
+Create an HTML/CSS prototype ready to be tested by users on all types of devices. You will be evaluated on use of:
 
-#### Misc 
+* A grid and layout system
+* Not making it pretty (it should be gray and white with boxes)
+* Content (even though it's a prototype, real, or apparently real, content is important)
+* Does it work?
 
-I may occasionally ask one of you to present to the class what I call a "clickhole" (a path of links you explored while learning a specific topic), an interesting bit of code you found, or a site critique.
+The prototype can be for any type of interactive application, be it an app, website, or even a game. The goal is to have something testable that accurately represents the content needed and provides a lovely foundation for visual design. A few ideas:
+
+* Do you have an idea for an app or website? Prototype it.
+* An unsolicited redesign. Is there a company you would love to work for, and think you could improve their product? Well, do it! ["How to get the Work you Want"](http://danielmall.com/articles/how-to-get-the-work-you-want/) by Dan Mall, has some great advice.
+* Pick a prompt from [briefbox.me](http://briefbox.me/category/design-brief/ui-app/).
+
+You should start thinking about this immediately - make it something you are proud of! And utilize any of the skills you are learning in the other UI/UX courses.
 
 ## Grading
 
@@ -69,19 +91,11 @@ Grading is simply based on attendence and completion. Code quality certainly pla
 
 For full credit, you must:
 
-* Miss no more than 2 classes
+* Miss no more than 1 class
 * Complete all Assignments by the end of the course
-* Complete misc tasks assigned to you ("clickholes", code presentations, etc.)
-* Final project live on the web at your domain
-
-Partial credit:
-
-* Miss no more than 4 classes
-* At least 50% of Assignments are completed
-* Complete misc tasks assigned to you ("clickholes", code presentations, etc.)
-* Final project live on the web at your domain
-
-Should you complete less than what is listed above, you will recieve an incomplete for the course.
+* Have gone to a meetup
+* Participated in Click-hole presentations and Code Reviews
+* Completed your final project as described above
 
 
 ## Materials

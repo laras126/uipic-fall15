@@ -1,0 +1,18 @@
+---
+layout: post
+class: 3
+excerpt: ""
+title:  "Thinking in Boxes"
+date:   2015-03-07
+categories: class
+---
+
+## The Plan
+
+...
+
+### For Next Time
+
+* Begin Assignment 2
+
+...

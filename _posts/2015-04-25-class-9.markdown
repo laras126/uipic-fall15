@@ -1,0 +1,39 @@
+---
+layout: post
+class: 9
+excerpt: "..."
+title:  "Present Projects + Next Steps"
+date:   2015-04-25
+categories: class
+---
+## The Plan
+
+#### <span class="post-title-pre">Lecture:</span> Intros, Syllabus, and whatnot
+* Hi!
+* Course Goals, why learn this?
+* Teaching Approach
+	* Self teaching, tutorials
+	* Pair programming
+* Syllabus and stuff
+	* Course site, what we’ll cover	
+	* Tasks and Assignments
+	* Your blogs
+	* Grading
+
+#### <span class="post-title-pre">Exercise:</span> Hack!
+
+[Download this](), pair up and hack away!
+
+#### <span class="post-title-pre">Lecture:</span> File Structure
+* Absolute vs. Relative file paths
+* How folder structures work
+
+#### <span class="post-title-pre">Together:</span> Create your class folder in the command line.
+
+#### <span class="post-title-pre">Exercise:</span> Continue hacking
+* Switch coders
+* Work through this task list
+
+## Todos:
+* [Shaw Howe, Lesson 1: Building Your First Web Page](http://learn.shayhowe.com/html-css/getting-to-know-html/) (tutorial)
+

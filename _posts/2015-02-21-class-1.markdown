@@ -1,0 +1,50 @@
+---
+layout: post
+class: 1
+excerpt: "Let's go over the class plan, some expectations and logistics, then get coding. Why wait?"
+title:  "Welcome!"
+date:   2015-02-21
+categories: class
+---
+
+
+## The Plan
+
+#### <span class="post-title-pre">Lecture:</span> Intros, Syllabus, and whatnot
+* Hi!
+* Teaching Approach
+	* Self teaching, tutorials
+	* Learning what you need to know
+	* Pair programming
+* Syllabus and stuff
+	* This site, what we’ll cover
+	* Course work
+	* Grading
+
+#### <span class="post-title-pre">Exercise:</span> Hack!
+
+[Download this](http://stuff.notlaura.com/downloads/class1-welcome.zip). We'll get started together, then I'll pair you up and you'll hack away.
+
+#### Break!
+
+#### <span class="post-title-pre">Lecture:</span> UI + Prototyping in Code
+* UI vs. UX
+* Prototyping
+* Why code?
+* Some real world examples
+
+<div class="post-todos" markdown="1">
+### For Next Time...
+
+#### Readings:
+
+* 
+
+#### To do:
+
+* [Lesson 2: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-css/) (tutorial)
+* [Lesson 3: Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/) (tutorial)
+* Continue working in Welcome files
+* Look through [the Links section]({{site.baseurl}}/links/) of this site. Download all required software ([listed here]({{site.baseurl}}/info#required-software)).
+
+</div>

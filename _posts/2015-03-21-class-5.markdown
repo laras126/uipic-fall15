@@ -1,0 +1,16 @@
+---
+layout: post
+class: 5
+excerpt: "Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating."
+title:  "Templating"
+date:   2015-03-28
+categories: class
+---
+
+## The Plan
+
+...
+
+### For Next Time
+
+...

@@ -1,0 +1,14 @@
+---
+layout: post
+class: 2
+excerpt: "Photoshop isn't dead, we just use it differently. Here's what we do now."
+title:  "The New Process"
+date:   2015-02-28
+categories: class
+---
+
+## The Plan
+...
+
+### For Next Time
+...

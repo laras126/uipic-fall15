@@ -1,0 +1,16 @@
+---
+layout: post
+class: 6
+excerpt: "..."
+title:  "Designing Systems"
+date:   2015-04-04
+categories: class
+---
+
+## The Plan
+
+...
+
+### For Next Time
+
+...
