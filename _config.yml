@@ -6,6 +6,15 @@ description: > # this means to ignore newlines until "baseurl:"
   February 21 - April 25
 baseurl: "/uipic-spring15" # the subpath of your site, e.g. /blog/
 url: "http://laras126.github.io/" # the base hostname & protocol for your site
+
+class_email: uipic-spring15@googlegroups.com
+class_time: Saturdays 9:30am-12:30pm
+class_dates: 2/21-4/25
+class_location: Room 515
+class_description: Do designers really need to know how to code? In a word...yes. In this course you will learn to create mobile-ready, web prototypes in HTML and CSS. You will understand the overarching structure of web applications and interfaces, and develop the vocabulary necessary to effectively communicate your designs to developers. The class will culminate in creating a prototype of your own design.
+
+
+
 twitter_username: laras126
 github_username:  laras126
 
