@@ -35,12 +35,11 @@ categories: class
 	* Check out processes are a good example: [Task Rabbit](https://www.taskrabbit.com/)
 * Some real world examples (mostly by me) - they are ugly, it's about the layout!
 	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
-	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
-		* Round 2
 	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
-	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in.
-	* [Fly Solo prototype](http://stuff.notlaura.com/demos/fly-solo-wire) (created in 20mins this morning!)
-	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign
+	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
+	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in (these were from when gradients were more popular, don't judge!).
+	* [Fly Solo prototype](http://stuff.notlaura.com/demos/fly-solo-wire) - created in 20mins this morning!
+	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
 
 <div class="post-todos" markdown="1">
 ### For Next Time...
