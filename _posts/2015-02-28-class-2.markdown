@@ -13,5 +13,6 @@ categories: class
 ### For Next Time
 
 #### Readings:
-
+* [Mother Fucking Website](http://motherfuckingwebsite.com)
+* [Better Mother Fucking Website](http://bettermotherfuckingwebsite.com)
 * [HTML Wireframes](http://bradfrost.com/blog/post/html-wireframes/)

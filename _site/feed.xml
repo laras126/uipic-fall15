@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Feb 2015 07:53:55 -0500</pubDate>
-    <lastBuildDate>Sat, 21 Feb 2015 07:53:55 -0500</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2015 08:34:38 -0500</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2015 08:34:38 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -144,7 +144,7 @@
       </item>
     
       <item>
-        <title>Responsive Design</title>
+        <title>Work time and Demos</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -163,7 +163,7 @@
       </item>
     
       <item>
-        <title>Thinking in Boxes</title>
+        <title>Responsive Design: Thinking in Boxes</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -193,8 +193,9 @@
 &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
 &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
-
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://motherfuckingwebsite.com&quot;&gt;Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bettermotherfuckingwebsite.com&quot;&gt;Better Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/html-wireframes/&quot;&gt;HTML Wireframes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -246,11 +247,18 @@
       &lt;li&gt;Check out processes are a good example: &lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Task Rabbit&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Some real world examples
+  &lt;li&gt;Some real world examples (mostly by me) - they are ugly, it’s about the layout!
     &lt;ul&gt;
       &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#&quot;&gt;Foodbank prototype&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;My &lt;a href=&quot;http://dijifi-wireframes.herokuapp.com&quot;&gt;DiJiFi prototype&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;My &lt;a href=&quot;http://dijifi-wireframes.herokuapp.com&quot;&gt;DiJiFi prototype&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Round 2&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;Bearded’s &lt;a href=&quot;http://aafh-css.herokuapp.com/wireframes&quot;&gt;HTML wires for AAH&lt;/a&gt;, see &lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;this article&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/oip-mockup&quot;&gt;Onlyinpgh&lt;/a&gt; - defunct startup I was in.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/fly-solo-wire&quot;&gt;Fly Solo prototype&lt;/a&gt; (created in 20mins this morning!)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/mrbottles&quot;&gt;Mr. Bottles&lt;/a&gt; - from an assignment for a site redesign&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;

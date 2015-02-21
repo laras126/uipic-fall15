@@ -2,7 +2,7 @@
 layout: post
 class: 4
 excerpt: "..."
-title:  "Responsive Design"
+title:  "Work time and Demos"
 date:   2015-03-14
 categories: class
 ---
