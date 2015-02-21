@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2015 14:14:48 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2015 14:14:48 -0500</lastBuildDate>
+    <pubDate>Sat, 21 Feb 2015 07:53:55 -0500</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2015 07:53:55 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -71,13 +71,7 @@
         <title>Work Time</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;h4 id=&quot;lecture&quot;&gt;Lecture:&lt;/h4&gt;
-
-&lt;h4 id=&quot;exercise&quot;&gt;Exercise:&lt;/h4&gt;
-
-&lt;h4 id=&quot;lecture-1&quot;&gt;Lecture:&lt;/h4&gt;
-
-&lt;h4 id=&quot;exercise-1&quot;&gt;Exercise:&lt;/h4&gt;
+&lt;p&gt;…&lt;/p&gt;
 
 &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
@@ -131,7 +125,7 @@
       </item>
     
       <item>
-        <title>Templating</title>
+        <title>Templating and Data</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -150,7 +144,7 @@
       </item>
     
       <item>
-        <title>The Bootstrap Grid</title>
+        <title>Responsive Design</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -197,7 +191,12 @@
 &lt;p&gt;…&lt;/p&gt;
 
 &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
-&lt;p&gt;…&lt;/p&gt;
+
+&lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/html-wireframes/&quot;&gt;HTML Wireframes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 28 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://laras126.github.io//uipic-spring15/class/2015/02/28/class-2.html</link>
@@ -225,7 +224,7 @@
   &lt;li&gt;Syllabus and stuff
     &lt;ul&gt;
       &lt;li&gt;This site, what we’ll cover&lt;/li&gt;
-      &lt;li&gt;Course work&lt;/li&gt;
+      &lt;li&gt;Course work (read through info page)&lt;/li&gt;
       &lt;li&gt;Grading&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -233,7 +232,7 @@
 
 &lt;h4 id=&quot;span-classpost-title-preexercisespan-hack&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Hack!&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/class1-welcome.zip&quot;&gt;Download this&lt;/a&gt;. We’ll get started together, then I’ll pair you up and you’ll hack away.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/class1-uipic-welcome.zip&quot;&gt;Download this&lt;/a&gt;. We’ll get started together, then I’ll pair you up and you’ll hack away.&lt;/p&gt;
 
 &lt;h4 id=&quot;break&quot;&gt;Break!&lt;/h4&gt;
 
@@ -241,8 +240,19 @@
 &lt;ul&gt;
   &lt;li&gt;UI vs. UX&lt;/li&gt;
   &lt;li&gt;Prototyping&lt;/li&gt;
-  &lt;li&gt;Why code?&lt;/li&gt;
-  &lt;li&gt;Some real world examples&lt;/li&gt;
+  &lt;li&gt;Why in code?
+    &lt;ul&gt;
+      &lt;li&gt;A look at &lt;a href=&quot;http://instacart.com/store&quot;&gt;Instacart&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Check out processes are a good example: &lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Task Rabbit&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Some real world examples
+    &lt;ul&gt;
+      &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#&quot;&gt;Foodbank prototype&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;My &lt;a href=&quot;http://dijifi-wireframes.herokuapp.com&quot;&gt;DiJiFi prototype&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Bearded’s &lt;a href=&quot;http://aafh-css.herokuapp.com/wireframes&quot;&gt;HTML wires for AAH&lt;/a&gt;, see &lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;this article&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;post-todos&quot;&gt;
@@ -250,8 +260,22 @@
 
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
+  &lt;p&gt;This is a lot of reading - you don’t need to read every word of these, but familiarize yourself with the terms &lt;strong&gt;Progressive Enhancement&lt;/strong&gt; and &lt;strong&gt;separation of concerns&lt;/strong&gt;. These topics have been around of a while, but in the age of web apps, they are very hot topics.&lt;/p&gt;
+
+  &lt;p&gt;Some background:&lt;/p&gt;
+
   &lt;ul&gt;
-    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/dao&quot;&gt;Dao of Web Design&lt;/a&gt; - from 2000?! This one’s a classic.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2014/11/21/why-you-should-include-your-developer-in-the-design-process/&quot;&gt;Why You Should Include Your Developer in the Design Process&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Progressive enhancement and the ‘separation of concerns’:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://notlaura.com/progressive-enhancement/&quot;&gt;On Progressive Enhancement&lt;/a&gt; - by me!&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/understandingprogressiveenhancement&quot;&gt;Understanding Progressive Enhancement&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content&quot;&gt;Progressive Enhancement: It’s About the Content&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://css-tricks.com/poll-results-sites-vs-apps/&quot;&gt;Websites vs. Webapps&lt;/a&gt; - CSS-Tricks&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
@@ -259,8 +283,8 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/getting-to-know-css/&quot;&gt;Lesson 2: Getting to Know HTML&lt;/a&gt; (tutorial)&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/getting-to-know-css/&quot;&gt;Lesson 3: Getting to Know CSS&lt;/a&gt; (tutorial)&lt;/li&gt;
-    &lt;li&gt;Continue working in Welcome files&lt;/li&gt;
     &lt;li&gt;Look through &lt;a href=&quot;/uipic-spring15/links/&quot;&gt;the Links section&lt;/a&gt; of this site. Download all required software (&lt;a href=&quot;/uipic-spring15/info#required-software&quot;&gt;listed here&lt;/a&gt;).&lt;/li&gt;
+    &lt;li&gt;Continue working in Welcome files (optional)&lt;/li&gt;
   &lt;/ul&gt;
 
 &lt;/div&gt;

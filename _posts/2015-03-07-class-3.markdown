@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 3
-excerpt: ""
+excerpt: "..."
 title:  "Thinking in Boxes"
 date:   2015-03-07
 categories: class

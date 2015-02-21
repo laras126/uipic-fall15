@@ -9,13 +9,7 @@ categories: class
 
 ## The Plan
 
-#### Lecture: 
-
-#### Exercise:
-
-#### Lecture: 
-
-#### Exercise:
+...
 
 ### For Next Time
 

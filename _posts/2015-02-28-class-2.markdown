@@ -11,4 +11,7 @@ categories: class
 ...
 
 ### For Next Time
-...
+
+#### Readings:
+
+* [HTML Wireframes](http://bradfrost.com/blog/post/html-wireframes/)

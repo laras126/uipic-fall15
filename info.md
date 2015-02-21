@@ -4,7 +4,7 @@ title: Course Info
 permalink: /info/
 ---
 
-Jump to:
+<p class="post-meta">Jump to:</p>
 
 * [Basics](#basics)
 * [Class Format](#class-format)
@@ -29,11 +29,18 @@ Lara Schenck<br>
 **Email list:**<br>
 {{site.class_email}}
 
+**This site:**<br>
+All information lives on this website. The [links page]({{ "/info/" | prepend: site.baseurl }}) has a ton of resources (though barely scratches the surface!) and I hope to answer most questions about the course itself on this page. 
+
+Each week I will post details about the coming class in the [Classes]({{ "/classes/" | prepend: site.baseurl }}) section. You'll notice that future classes aren't completely laid out yet - I like to plan as we go so that we can account for any new concepts or trends that come up as the course progresses. That being said, if you would ever like to work ahead, let me know and I can provide some guidance.
+
 ## Class Format
 
 #### Flipped Classroom
 
 A ["flipped classroom"](http://en.wikipedia.org/wiki/Flipped_classroom) means that technical and linear content is learned outside of class time via tutorials and videos. Learning code itself is easily accomplished on your own, and I want our in-class time to be as valuable as possible, and will be spent discussing concepts and solving problems together.
+
+With that in mind, missing a class is critical. Try not to if you can help it, though the class post will be there for your reference.
 
 #### Pair Programming
 

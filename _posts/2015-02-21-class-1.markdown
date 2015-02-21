@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 1
-excerpt: "Let's go over the class plan, some expectations and logistics, then get coding. Why wait?"
+excerpt: "Let's meet each other, go over the class plan, some expectations and logistics, then get our hands into some code. Why wait? And of course we'll talk about this whole 'Prototyping in Code' concept."
 title:  "Welcome!"
 date:   2015-02-21
 categories: class
@@ -18,33 +18,50 @@ categories: class
 	* Pair programming
 * Syllabus and stuff
 	* This site, what we’ll cover
-	* Course work
+	* Course work (read through info page)
 	* Grading
 
 #### <span class="post-title-pre">Exercise:</span> Hack!
 
-[Download this](http://stuff.notlaura.com/downloads/class1-welcome.zip). We'll get started together, then I'll pair you up and you'll hack away.
+[Download this](http://stuff.notlaura.com/downloads/class1-uipic-welcome.zip). We'll get started together, then I'll pair you up and you'll hack away.
 
 #### Break!
 
 #### <span class="post-title-pre">Lecture:</span> UI + Prototyping in Code
 * UI vs. UX
 * Prototyping
-* Why code?
+* Why in code?
+	* A look at [Instacart](http://instacart.com/store)
+	* Check out processes are a good example: [Task Rabbit](https://www.taskrabbit.com/)
 * Some real world examples
+	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
+	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
+	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
 
 <div class="post-todos" markdown="1">
 ### For Next Time...
 
 #### Readings:
 
-* 
+This is a lot of reading - you don't need to read every word of these, but familiarize yourself with the terms **Progressive Enhancement** and **separation of concerns**. These topics have been around of a while, but in the age of web apps, they are very hot topics.
+
+Some background:
+
+* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
+* [Why You Should Include Your Developer in the Design Process](http://www.smashingmagazine.com/2014/11/21/why-you-should-include-your-developer-in-the-design-process/)
+
+Progressive enhancement and the 'separation of concerns':
+
+* [On Progressive Enhancement](http://notlaura.com/progressive-enhancement/) - by me!
+* [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
+* [Progressive Enhancement: It’s About the Content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)
+* [Websites vs. Webapps](http://css-tricks.com/poll-results-sites-vs-apps/) - CSS-Tricks
 
 #### To do:
 
 * [Lesson 2: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-css/) (tutorial)
 * [Lesson 3: Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/) (tutorial)
-* Continue working in Welcome files
 * Look through [the Links section]({{site.baseurl}}/links/) of this site. Download all required software ([listed here]({{site.baseurl}}/info#required-software)).
+* Continue working in Welcome files (optional)
 
 </div>

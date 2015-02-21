@@ -2,7 +2,7 @@
 layout: post
 class: 4
 excerpt: "..."
-title:  "The Bootstrap Grid"
+title:  "Responsive Design"
 date:   2015-03-14
 categories: class
 ---
