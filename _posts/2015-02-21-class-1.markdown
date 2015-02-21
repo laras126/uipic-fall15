@@ -41,6 +41,8 @@ categories: class
 	* [Fly Solo prototype](http://stuff.notlaura.com/demos/fly-solo-wire) - created in 20mins this morning!
 	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
 
+#### <span class="post-title-pre">Exercise:</span> Continue hacking
+
 <div class="post-todos" markdown="1">
 ### For Next Time...
 
