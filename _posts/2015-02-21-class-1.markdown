@@ -43,7 +43,7 @@ categories: class
 
 #### <span class="post-title-pre">Exercise:</span> Continue hacking
 
-<div class="post-todos" markdown="1">
+<div class="post-todos notice" markdown="1">
 ### For Next Time...
 
 #### Readings:

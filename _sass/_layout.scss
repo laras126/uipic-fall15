@@ -262,7 +262,14 @@
     }
 }
 
-.post-todos {
+.post-nav {
+    @extend %clearfix;
+    .next {
+        float: right;
+    }
+}
+
+.notice {
     
     margin-top: $spacing-unit;
     margin-bottom: $spacing-unit;
@@ -273,13 +280,14 @@
     }
 
     padding: $spacing-unit;
-    background-color: $brand-color-2;
 }
 
-
-.post-nav {
-    @extend %clearfix;
-    .next {
-        float: right;
+    .post-todos {
+        background-color: $brand-color-2;
     }
-}
+
+    .post-alert {
+        background-color: $brand-color-3;
+    }
+
+
