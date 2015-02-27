@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Feb 2015 10:19:26 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2015 10:19:26 -0500</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2015 10:43:55 -0500</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2015 10:43:55 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -144,7 +144,7 @@
       </item>
     
       <item>
-        <title>Work time and Demos</title>
+        <title>Grids, Work time and Code Demos</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -163,7 +163,7 @@
       </item>
     
       <item>
-        <title>Responsive Design: Thinking in Boxes</title>
+        <title>Layouts: Thinking in Boxes</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -171,7 +171,7 @@
 &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Begin Assignment 2&lt;/li&gt;
+  &lt;li&gt;Use a grid&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -188,16 +188,128 @@
       <item>
         <title>The New Process</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
-&lt;p&gt;…&lt;/p&gt;
 
-&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+&lt;h4 id=&quot;span-classpost-title-prediscussspan-readings&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Readings&lt;/h4&gt;
 
-&lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://motherfuckingwebsite.com&quot;&gt;Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bettermotherfuckingwebsite.com&quot;&gt;Better Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/html-wireframes/&quot;&gt;HTML Wireframes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The difference between front-end languages&lt;/li&gt;
+  &lt;li&gt;Websites vs. Webapps&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-the-new-process&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; The New Process&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What was the old process?
+    &lt;ul&gt;
+      &lt;li&gt;PSD to HTML&lt;/li&gt;
+      &lt;li&gt;No code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The New Process (different for everyone, this is based on Stephen Hay’s &lt;a href=&quot;http://www.responsivedesignworkflow.com/&quot;&gt;Responsive Design Workflow&lt;/a&gt; and all things &lt;a href=&quot;http://bradfrost.com&quot;&gt;Brad Frost&lt;/a&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;Designing in text
+        &lt;ul&gt;
+          &lt;li&gt;Notes for &lt;a href=&quot;https://github.com/laras126/dijifi-theme/tree/master/_notes&quot;&gt;DiJiFi&lt;/a&gt; and &lt;a href=&quot;https://github.com/laras126/mtnmeister-theme/blob/master/content-list.md&quot;&gt;MTNmeister&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; and creating hierarchy&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Content reference wireframes&lt;/li&gt;
+      &lt;li&gt;Breaking those into components and systems
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://patternlab.io/about.html&quot;&gt;Atomic Design&lt;/a&gt; and templating&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Now the visual design layer (Photoshop, you can come out now)
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://styletil.es&quot;&gt;Style Tiles&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://danielmall.com/articles/rif-element-collages/&quot;&gt;Element Collages&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;Tools
+            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;Photoshop/Illustrator/InDesign (ID can be good, encourages typography systems)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Style guides (developers love these)
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://patternlab.io&quot;&gt;Pattern Lab&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://styleguides.io&quot;&gt;Styleguides.io&lt;/a&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;http://rizzo.lonelyplanet.com/styleguide/design-elements/colours&quot;&gt;Lonely Planet&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;http://ux.mailchimp.com/patterns/&quot;&gt;Mailchimp&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A middle ground: Code generators (meh.)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://macaw.co/&quot;&gt;Maccaw&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract&quot;&gt;Adobe’s Project Parfait&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-do-it&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Do it!&lt;/h4&gt;
+
+&lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-predemospan-code-questions&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; Code questions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Demo any questions, or style a pretty button and form.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-on-process-exercise&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue on Process exercise&lt;/h4&gt;
+
+&lt;div class=&quot;post-todos notice&quot;&gt;
+
+  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+  &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
+
+  &lt;p&gt;Mentioned in links from Class 1, but read if you haven’t already:&lt;/p&gt;
+
+  &lt;p&gt;On Responsive Design (which we will discuss next week):&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/web/mobile-first-responsive-web-design/&quot;&gt;Mobile First Responsive Web Design&lt;/a&gt; - what a mouthful!&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;Responsive Comping: Obtaining Signoff Without Mockups&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/responsive-strategy/&quot;&gt;Responsive Strategy&lt;/a&gt; - The different options in creating a responsive website.&lt;/li&gt;
+    &lt;li&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Lolz:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://motherfuckingwebsite.com&quot;&gt;Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://bettermotherfuckingwebsite.com&quot;&gt;Better Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
+
+  &lt;p&gt;These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Lesson 3: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Opening the Box Model&lt;/a&gt; (tutorial)&lt;/li&gt;
+    &lt;li&gt;Lesson 4: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Positioning Content&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;If you need more clarification:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/css-positioning-101&quot;&gt;CSS Positioning 101&lt;/a&gt; - A List Apart&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/all-about-floats/&quot;&gt;All About Floats&lt;/a&gt; - CSS Tricks&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;If you’re up for it, start on this coding exercise (we’ll be working on it in class next week). Recreate this layout, &lt;strong&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/layout-exercise.zip&quot;&gt;starter files here&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/uipic-spring15/img/layout-exercise.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
 </description>
         <pubDate>Sat, 28 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://laras126.github.io//uipic-spring15/class/2015/02/28/class-2.html</link>
@@ -239,7 +351,7 @@
 
 &lt;h4 id=&quot;span-classpost-title-prelecturespan-ui--prototyping-in-code&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; UI + Prototyping in Code&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;UI vs. UX&lt;/li&gt;
+  &lt;li&gt;UI vs. UX &lt;strong&gt;Didn’t get to this so much - will address in Class 2&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Prototyping&lt;/li&gt;
   &lt;li&gt;Why in code?
     &lt;ul&gt;
@@ -266,7 +378,7 @@
 
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
-  &lt;p&gt;This is a lot of reading - you don’t need to read every word of these, but familiarize yourself with the terms &lt;strong&gt;Progressive Enhancement&lt;/strong&gt; and &lt;strong&gt;separation of concerns&lt;/strong&gt;. These topics have been around of a while, but in the age of web apps, they are very hot topics.&lt;/p&gt;
+  &lt;p&gt;This is a lot of reading - you don’t need to read every word of these, but familiarize yourself with the terms &lt;strong&gt;Progressive Enhancement&lt;/strong&gt; and &lt;strong&gt;separation of concerns&lt;/strong&gt;. These topics have been around of a while, but in the age of webapps, they are very hot topics.&lt;/p&gt;
 
   &lt;p&gt;Some background:&lt;/p&gt;
 

@@ -2,7 +2,7 @@
 layout: post
 class: 4
 excerpt: "..."
-title:  "Work time and Demos"
+title:  "Grids, Work time and Code Demos"
 date:   2015-03-14
 categories: class
 ---

@@ -7,7 +7,6 @@ date:   2015-02-21
 categories: class
 ---
 
-
 ## The Plan
 
 #### <span class="post-title-pre">Lecture:</span> Intros, Syllabus, and whatnot
@@ -28,7 +27,7 @@ categories: class
 #### Break!
 
 #### <span class="post-title-pre">Lecture:</span> UI + Prototyping in Code
-* UI vs. UX
+* UI vs. UX __Didn't get to this so much - will address in Class 2__
 * Prototyping
 * Why in code?
 	* A look at [Instacart](http://instacart.com/store)
@@ -48,7 +47,7 @@ categories: class
 
 #### Readings:
 
-This is a lot of reading - you don't need to read every word of these, but familiarize yourself with the terms **Progressive Enhancement** and **separation of concerns**. These topics have been around of a while, but in the age of web apps, they are very hot topics.
+This is a lot of reading - you don't need to read every word of these, but familiarize yourself with the terms **Progressive Enhancement** and **separation of concerns**. These topics have been around of a while, but in the age of webapps, they are very hot topics.
 
 Some background:
 

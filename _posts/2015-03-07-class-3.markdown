@@ -2,7 +2,7 @@
 layout: post
 class: 3
 excerpt: "..."
-title:  "Responsive Design: Thinking in Boxes"
+title:  "Layouts: Thinking in Boxes"
 date:   2015-03-07
 categories: class
 ---
@@ -13,6 +13,6 @@ categories: class
 
 ### For Next Time
 
-* Begin Assignment 2
+* Use a grid
 
 ...
