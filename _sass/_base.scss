@@ -171,6 +171,46 @@ pre {
 }
 
 
+/**
+ * Tables
+ */
+
+table {
+    width: 100%;
+    border: 1px solid $grey-color-light;
+    margin-bottom: 1.5em;
+
+    caption {
+        margin: 0 0 7px;
+        font-size: 0.75em;
+        color: $grey-color-light;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+}
+
+tr {
+    
+    &:nth-child(even) {
+        
+    }
+}
+
+td {
+    padding: 7px;
+    border: 1px solid $grey-color-light;
+}
+
+th {
+    background-color: $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
+    border-right: 1px solid $grey-color-light;
+
+    &:last-child {
+        border-right: 0;
+    }
+}
+
 
 /**
  * Clearfix
