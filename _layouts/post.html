@@ -8,7 +8,7 @@ layout: default
       <a class="prev" href="{{page.previous.url | prepend: site.baseurl }}">&larr; Class {{ page.previous.class }}: {{page.previous.title}}</a> 
     {% endif %} 
     {% if page.next.url %}
-      <a class="next right" href="{{site.baseurl | prepend: site.baseurl }}">Class {{ page.next.class }}: {{ page.next.title }} &rarr;</a> 
+      <a class="next right" href="{{page.next.url | prepend: site.baseurl }}">Class {{ page.next.class }}: {{ page.next.title }} &rarr;</a> 
     {% endif %} 
   </div>
 

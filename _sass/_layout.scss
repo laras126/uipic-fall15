@@ -290,3 +290,16 @@
         background-color: $brand-color-3;
     }
 
+.post-past {
+    font-style: italic;
+    color: lighten($grey-color, 20%);        
+
+    h2 {
+        text-decoration: line-through;
+    }
+
+    a {
+        color: $grey-color;        
+    }
+}
+

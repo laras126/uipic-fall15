@@ -341,6 +341,14 @@ pre {
 .post-alert {
   background-color: #F3F1D0; }
 
+.post-past {
+  font-style: italic;
+  color: #aaaaaa; }
+  .post-past h2 {
+    text-decoration: line-through; }
+  .post-past a {
+    color: #777; }
+
 /**
  * Syntax highlighting styles
  */
