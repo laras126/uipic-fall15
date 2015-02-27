@@ -75,7 +75,7 @@ Lolz:
 
 These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:
 
-* Lesson 3: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/) (tutorial)
+* Lesson 3: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
 * Lesson 4: [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
 
 If you need more clarification:
