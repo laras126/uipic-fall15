@@ -23,8 +23,7 @@ categories: class
 	* Designing in text
 		* Notes for [DiJiFi](https://github.com/laras126/dijifi-theme/tree/master/_notes	) and [MTNmeister](https://github.com/laras126/mtnmeister-theme/blob/master/content-list.md)
 		* [Markdown](http://daringfireball.net/projects/markdown/syntax) and creating hierarchy
-	* Content reference wireframes
-	* Breaking those into components and systems
+	* Breaking content into components and form a layout systems
 		* [Atomic Design](http://patternlab.io/about.html) and templating
 	* Now the visual design layer (Photoshop, you can come out now)
 		* [Style Tiles](http://styletil.es)
@@ -43,6 +42,12 @@ categories: class
 
 #### <span class="post-title-pre">Exercise:</span> Do it!
 
+* Select a project (could be an existing website or something you are working on)
+* Create a text list of the information
+	* Is there a consistency in the type of content across all pages or views? (hint: yes)
+	* How can you group that content, into what kind of modules?
+* Turn that list of text into a diagram-ish thing that indicates modules
+
 #### Break
 
 #### <span class="post-title-pre">Demo:</span> Code questions
@@ -51,32 +56,28 @@ categories: class
 
 #### <span class="post-title-pre">Exercise:</span> Continue on Process exercise
 
+* Add markup to the page
+
 <div class="post-todos notice" markdown="1">
 
 ### For Next Time
 
 #### Readings:
 
-Mentioned in links from Class 1, but read if you haven't already:
+On Responsive Design, which we will discuss next week:
 
-On Responsive Design (which we will discuss next week):
-
-* [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - what a mouthful!
+* [Responsive Web Design](http://alistapart.com/article/responsive-web-design) - the original article about RWD.
+* [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - how we approach RWD today.
 * [Responsive Comping: Obtaining Signoff Without Mockups](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups)
 * [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) - The different options in creating a responsive website.
-* 
 
-Lolz:
-
-* [Mother Fucking Website](http://motherfuckingwebsite.com)
-* [Better Mother Fucking Website](http://bettermotherfuckingwebsite.com)
 
 #### To do:
 
 These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:
 
-* Lesson 3: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
-* Lesson 4: [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
+* Lesson 4: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
+* Lesson 5: [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
 
 If you need more clarification:
 

@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Feb 2015 11:06:42 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2015 11:06:42 -0500</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 15:37:57 -0500</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 15:37:57 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -213,8 +213,7 @@
           &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; and creating hierarchy&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Content reference wireframes&lt;/li&gt;
-      &lt;li&gt;Breaking those into components and systems
+      &lt;li&gt;Breaking content into components and form a layout systems
         &lt;ul&gt;
           &lt;li&gt;&lt;a href=&quot;http://patternlab.io/about.html&quot;&gt;Atomic Design&lt;/a&gt; and templating&lt;/li&gt;
         &lt;/ul&gt;
@@ -254,6 +253,17 @@
 
 &lt;h4 id=&quot;span-classpost-title-preexercisespan-do-it&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Do it!&lt;/h4&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Select a project (could be an existing website or something you are working on)&lt;/li&gt;
+  &lt;li&gt;Create a text list of the information
+    &lt;ul&gt;
+      &lt;li&gt;Is there a consistency in the type of content across all pages or views? (hint: yes)&lt;/li&gt;
+      &lt;li&gt;How can you group that content, into what kind of modules?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Turn that list of text into a diagram-ish thing that indicates modules&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
 
 &lt;h4 id=&quot;span-classpost-title-predemospan-code-questions&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; Code questions&lt;/h4&gt;
@@ -264,28 +274,23 @@
 
 &lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-on-process-exercise&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue on Process exercise&lt;/h4&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Add markup to the page&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;div class=&quot;post-todos notice&quot;&gt;
 
   &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
-  &lt;p&gt;Mentioned in links from Class 1, but read if you haven’t already:&lt;/p&gt;
-
-  &lt;p&gt;On Responsive Design (which we will discuss next week):&lt;/p&gt;
+  &lt;p&gt;On Responsive Design, which we will discuss next week:&lt;/p&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/web/mobile-first-responsive-web-design/&quot;&gt;Mobile First Responsive Web Design&lt;/a&gt; - what a mouthful!&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-web-design&quot;&gt;Responsive Web Design&lt;/a&gt; - the original article about RWD.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/web/mobile-first-responsive-web-design/&quot;&gt;Mobile First Responsive Web Design&lt;/a&gt; - how we approach RWD today.&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;Responsive Comping: Obtaining Signoff Without Mockups&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/responsive-strategy/&quot;&gt;Responsive Strategy&lt;/a&gt; - The different options in creating a responsive website.&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;Lolz:&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;http://motherfuckingwebsite.com&quot;&gt;Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://bettermotherfuckingwebsite.com&quot;&gt;Better Mother Fucking Website&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
@@ -293,8 +298,8 @@
   &lt;p&gt;These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:&lt;/p&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;Lesson 3: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Opening the Box Model&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Lesson 4: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Positioning Content&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Lesson 4: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Opening the Box Model&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Lesson 5: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Positioning Content&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;p&gt;If you need more clarification:&lt;/p&gt;
