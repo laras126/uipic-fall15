@@ -1,7 +1,7 @@
 ---
 layout: post
 class: 3
-excerpt: "..."
+excerpt: "Code a protoype! Introduce environments and layout."
 title:  "Let's make something!"
 date:   2015-03-07
 categories: class
