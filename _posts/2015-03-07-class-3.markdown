@@ -30,7 +30,7 @@ categories: class
 
 * About environments
 	* We'll be using [Cloud9](http://c9.io), Sublime is still relevant!
-* Designing an app in text (clone in Cloud9 workspace)
+* Look at existing text (clone in Cloud9 workspace)
 	* Emphasize mobile first/device agnostic design, turning an mobile app into a website or webapp
 	* Markup has been added
 * Plan a component system
@@ -54,13 +54,17 @@ categories: class
 * Add stuff in head to remove URL bar and add touch icon
 * View and add to homescreen on your phone!
 
+#### <span class="post-title-pre">Pair:</span> If extra time
+
+* Add another page to the app
+
 <div class="notice post-todos" markdown="1">
 
 ### For Next Time
 
 #### Readings:
 
-* 
+* [Please Don't Learn to Code](http://blog.codinghorror.com/please-dont-learn-to-code/) - huh.
 
 #### To do:
 

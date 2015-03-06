@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 11:21:02 -0500</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 11:21:02 -0500</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2015 11:36:34 -0500</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 11:36:34 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -236,7 +236,7 @@
       &lt;li&gt;We’ll be using &lt;a href=&quot;http://c9.io&quot;&gt;Cloud9&lt;/a&gt;, Sublime is still relevant!&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Designing an app in text (clone in Cloud9 workspace)
+  &lt;li&gt;Look at existing text (clone in Cloud9 workspace)
     &lt;ul&gt;
       &lt;li&gt;Emphasize mobile first/device agnostic design, turning an mobile app into a website or webapp&lt;/li&gt;
       &lt;li&gt;Markup has been added&lt;/li&gt;
@@ -271,6 +271,12 @@
   &lt;li&gt;View and add to homescreen on your phone!&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;span-classpost-title-prepairspan-if-extra-time&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; If extra time&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add another page to the app&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;div class=&quot;notice post-todos&quot;&gt;
 
   &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
@@ -278,7 +284,7 @@
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://blog.codinghorror.com/please-dont-learn-to-code/&quot;&gt;Please Don’t Learn to Code&lt;/a&gt; - huh.&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
