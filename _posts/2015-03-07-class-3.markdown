@@ -68,7 +68,6 @@ categories: class
 
 #### To do:
 
-* Add another page to the prototype from class (optional)
 * Post a code question to Disqus on [the next class page]({{ "/class/2015/03/14/class-4.html" | prepend: site.baseurl }})
 * Feedback questionnaire (will email the link)
 * Recreate this layout and email me a zipped file, **[starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip)**:
