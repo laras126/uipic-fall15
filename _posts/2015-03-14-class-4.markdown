@@ -2,7 +2,7 @@
 layout: post
 class: 4
 excerpt: "..."
-title:  "Grids, Work time and Code Demos"
+title:  "Work time and Code Demos"
 date:   2015-03-14
 categories: class
 ---
@@ -11,6 +11,27 @@ categories: class
 
 ...
 
+<div class="notice post-todos" markdown="1">
+
 ### For Next Time
 
-...
+#### Tutorials (do these first):
+
+* Watch these:
+	* [CSS Frameworks](https://www.youtube.com/watch?v=zJ78W_kdmCA) - lynda.com teaser
+	* [What is a grid?](https://www.youtube.com/watch?v=0IrWRuEyXYA) - another lynda.com teaser
+* [Bootstrap tutorial on W3Schools](http://www.w3schools.com/bootstrap/default.asp)
+	* Glance through everything, particularly the [BS Grid System section](http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+* [Foundation tutorial](http://www.webdesignerdepot.com/2013/11/how-to-get-started-with-foundation-5/)
+
+#### Readings (read these second):
+
+* [Please Stop Using Twitter Bootstrap](http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap)
+* [Pros and Cons of Using Frameworks](http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework)
+
+
+#### To do:
+
+* Add a paragraph description of your final project to [this Google Doc](https://docs.google.com/document/d/19j7mzm6Dojryt2j8mX6MZLa5VQwiGvXgHREGMGFaOc4/edit?usp=sharing)
+
+</div>

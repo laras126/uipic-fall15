@@ -1,8 +1,8 @@
 ---
 layout: post
 class: 6
-excerpt: "..."
-title:  "Designing Systems"
+excerpt: "Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating."
+title:  "Templating and Data"
 date:   2015-04-04
 categories: class
 ---

@@ -84,9 +84,5 @@ If you need more clarification:
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101) - A List Apart
 * [All About Floats](https://css-tricks.com/all-about-floats/) - CSS Tricks
 
-If you're up for it, start on this coding exercise (we'll be working on it in class next week). Recreate this layout, **[starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip)**:
-
-![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
-
 </div>
 

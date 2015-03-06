@@ -1,8 +1,8 @@
 ---
 layout: post
 class: 5
-excerpt: "Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating."
-title:  "Templating and Data"
+excerpt: "Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare."
+title:  "Frameworks"
 date:   2015-03-28
 categories: class
 ---
@@ -11,6 +11,13 @@ categories: class
 
 ...
 
+<div class="notice post-todos">
+
 ### For Next Time
 
+#### Readings:
+
+#### To do:
 ...
+
+</div>
