@@ -32,8 +32,9 @@ categories: class
 	* Introduce Git and Github
 * Look at existing text (clone in Cloud9 workspace: git@github.com:laras126/webapp-exercise.git)
 	* Emphasize mobile first/device agnostic design, turning an mobile app into a website or webapp
-	* Markup has been added
+	* Create pages for views
 * Plan a component system
+	* Add markup
 	* What might our classes be called?
 	* Where would we use wrappers for a layout?
 	* Review difference between classes and IDs
@@ -70,8 +71,8 @@ categories: class
 
 * Post a code question to Disqus on [the next class page]({{ "/class/2015/03/14/class-4.html" | prepend: site.baseurl }})
 * Feedback questionnaire (will email the link)
-* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
 * Add another page to the app and email to me for feedback (optional)
+* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
 
 ![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
 
