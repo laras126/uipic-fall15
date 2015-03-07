@@ -11,7 +11,7 @@ categories: class
 
 ...
 
-<div class="notice post-todos">
+<div class="notice post-todos" markdown="1">
 
 ### For Next Time
 

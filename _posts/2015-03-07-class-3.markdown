@@ -17,27 +17,27 @@ categories: class
 
 #### <span class="post-title-pre">Discuss:</span> Readings 
 	
-* How do these related back to prototyping?
+* How do these relate back to prototyping?
 * How about that weird text stuff we did last week?
 
 #### <span class="post-title-pre">Lecture:</span> About Apps
 
 * Native vs. Web vs. Webapp
 * Advantages/disadvantages
-* Why use markup (though we touched on this before)
 
 #### <span class="post-title-pre">Together:</span> Prototype
 
 * About environments
 	* We'll be using [Cloud9](http://c9.io), Sublime is still relevant!
-* Look at existing text (clone in Cloud9 workspace)
+	* Introduce Git and Github
+* Look at existing text (clone in Cloud9 workspace: git@github.com:laras126/webapp-exercise.git)
 	* Emphasize mobile first/device agnostic design, turning an mobile app into a website or webapp
 	* Markup has been added
 * Plan a component system
 	* What might our classes be called?
-	* Where would we use wrappers for a grid layout?
+	* Where would we use wrappers for a layout?
 	* Review difference between classes and IDs
-* Add wrapper tags
+* Add wrapper tags for components
 
 ####  Break
 
@@ -50,12 +50,12 @@ categories: class
 #### <span class="post-title-pre">Together:</span> Prototype
 
 * Add some layout in larger sizes inside media queries (already in stylesheet)
-* Create another page, use our same component system
 * Add stuff in head to remove URL bar and add touch icon
 * View and add to homescreen on your phone!
 
 #### <span class="post-title-pre">Pair:</span> If extra time
 
+* Continue with adding layout
 * Add another page to the app
 
 <div class="notice post-todos" markdown="1">
@@ -70,7 +70,8 @@ categories: class
 
 * Post a code question to Disqus on [the next class page]({{ "/class/2015/03/14/class-4.html" | prepend: site.baseurl }})
 * Feedback questionnaire (will email the link)
-* Recreate this layout and email me a zipped file, **[starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip)**:
+* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
+* Add another page to the app and email to me for feedback (optional)
 
 ![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
 
