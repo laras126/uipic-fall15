@@ -9,7 +9,33 @@ categories: class
 
 ## The Plan
 
-...
+#### <span class="post-title-pre">Discuss:</span> Reading
+
+* Does everyone need to code? We touched on this the first class, but let's delve a little deeper.
+
+Anyone want to show their app?
+
+#### <span class="post-title-pre">Lecture:</span> Let's talk floats
+
+* How was the exercise?
+* Discuss floats and CSS layouts...confusing, huh?
+* Demo
+* Start exercise together
+
+#### <span class="post-title-pre">Pair:</span> Work on exercise
+
+#### Break
+
+#### <span class="post-title-pre">Together:</span> Q/A + Demos
+
+* If one of you know the answer, you can explain it!
+* Revisit app and expand on layout and styles
+
+#### <span class="post-title-pre">If time:</span> Continue working
+
+* Either on layout exercise or app
+* Lara available for 1-on-1 Q/A 
+
 
 <div class="notice post-todos" markdown="1">
 
