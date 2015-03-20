@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UIPIC, Spring 15</title>
-    <description>Saturdays 9:30-12:30pm, Room 505&lt;br&gt; February 21 - April 25
+    <description>Saturdays 9:30-12:30pm, Room 505&lt;br&gt; February 21 - May 4
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Mar 2015 13:27:16 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2015 13:27:16 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2015 16:08:06 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2015 16:08:06 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -58,9 +58,9 @@
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-spring15/class/2015/04/25/class-9.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/25/class-9.html</guid>
+        <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/05/04/class-10.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/05/04/class-10.html</guid>
         
         
         <category>class</category>
@@ -68,18 +68,24 @@
       </item>
     
       <item>
-        <title>Work Time</title>
+        <title>Work Time/Q &amp; A</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Work on final projects and demo any questions. I’ll be available for 1-on-1 support and to clarify any problems.&lt;/p&gt;
 
-&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+&lt;div class=&quot;notice post-todos&quot;&gt;
+  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
-&lt;p&gt;…&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Final projects live on Cloud9 and available as downloadable app via “Save to Homescreen”.&lt;/li&gt;
+    &lt;li&gt;Prepare to informally present app to class.&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;
 </description>
-        <pubDate>Sat, 18 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-spring15/class/2015/04/18/class-8.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/18/class-8.html</guid>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/25/class-9.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/25/class-9.html</guid>
         
         
         <category>class</category>
@@ -97,8 +103,8 @@
 &lt;p&gt;…&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-spring15/class/2015/04/11/class-7.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/11/class-7.html</guid>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/04/11/class-8.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/04/11/class-8.html</guid>
         
         
         <category>class</category>
@@ -107,6 +113,25 @@
     
       <item>
         <title>Templating and Data</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-spring15/class/2015/03/28/class-7.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-spring15/class/2015/03/28/class-7.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>WTF JS</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;p&gt;…&lt;/p&gt;
@@ -128,7 +153,90 @@
         <title>Frameworks</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;p&gt;…&lt;/p&gt;
+&lt;h4 id=&quot;span-classpost-title-prediscussspan-frameworks-pros-and-cons&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Frameworks, pros and cons&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Third party tools, what are they and when to use them?&lt;/li&gt;
+  &lt;li&gt;Framework vs. Grids - what’s the difference?&lt;/li&gt;
+  &lt;li&gt;Look at BS vs. Foundation vs. style guides&lt;/li&gt;
+  &lt;li&gt;About class based systems&lt;/li&gt;
+  &lt;li&gt;Dependencies and updating&lt;/li&gt;
+  &lt;li&gt;How do these things make money?
+    &lt;ul&gt;
+      &lt;li&gt;Reputation economy and open source&lt;/li&gt;
+      &lt;li&gt;Spin-offs, e.g. &lt;a href=&quot;http://zurb.com/university/courses&quot;&gt;Foundation classes&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-bootstraphttpgetbootstrapcom&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BS documentation (funny to abbreviate it BS…)&lt;/li&gt;
+  &lt;li&gt;Code a basic layout&lt;/li&gt;
+  &lt;li&gt;Practice using inspector to figure out classes
+    &lt;ul&gt;
+      &lt;li&gt;Reference the &lt;a href=&quot;http://getbootstrap.com/getting-started/#examples&quot;&gt;Bootstrap examples&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Customization best practices - where should our CSS go?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prepairspan-make-something-in-bs&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; Make something in BS&lt;/h4&gt;
+
+&lt;p&gt;Pairing is optional here, and I’ll be available for additional Q &amp;amp; A about assignments and general code stuff. &lt;/p&gt;
+
+&lt;p&gt;You can design freely or work from the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a signup form&lt;/li&gt;
+  &lt;li&gt;Add a Jumbotron
+    &lt;ul&gt;
+      &lt;li&gt;Change the font&lt;/li&gt;
+      &lt;li&gt;Add a background texture - &lt;a href=&quot;http://subtlepatterns.com/&quot;&gt;Subtle Patterns&lt;/a&gt; is a good resource&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Change the color of the buttons&lt;/li&gt;
+  &lt;li&gt;Create a thumbnail gallery&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-foundation&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Foundation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What’s the difference?&lt;/li&gt;
+  &lt;li&gt;A look at the grid&lt;/li&gt;
+  &lt;li&gt;Download and set up for customizing
+    &lt;ul&gt;
+      &lt;li&gt;A look at &lt;a href=&quot;http://foundation.zurb.com/templates.html&quot;&gt;Foundation templates&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Install the Sublime package ‘HTMLBeautify’ if you like (template markup is messy when you download it)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Define Sass and Less&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prepairspan-same-as-above&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; Same as above!&lt;/h4&gt;
+
+&lt;p&gt;Again, feel free to design on your own, or work through the following (basically same as above so you can compare):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a contact form&lt;/li&gt;
+  &lt;li&gt;Change some form styles:
+    &lt;ul&gt;
+      &lt;li&gt;Round the corners of inputs&lt;/li&gt;
+      &lt;li&gt;Change the background color of the box when it is selected i.e. in focus&lt;/li&gt;
+      &lt;li&gt;Make the labels all uppercase&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create a thumbnail gallery&lt;/li&gt;
+  &lt;li&gt;Use a &lt;a href=&quot;http://zurb.com/building-blocks/&quot;&gt;Building Block&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Create an &lt;a href=&quot;http://foundation.zurb.com/docs/components/icon-bar.html&quot;&gt;icon bar&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Bonus: Make that stick to the bottom of the page&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
 
@@ -136,10 +244,36 @@
 
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
+  &lt;p&gt;Note: JavaScript is a hefty topic, this will be confusing! As usual, it’s good to get an idea of what we’ll be covering next class. All will become clear then!&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/advanced-html-css/jquery/&quot;&gt;Shay Howe Lesson 6 (of Advanced HTML/CSS): jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;About best practices (at least scan them if you have time):&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/just-try-and-do-a-good-job/&quot;&gt;CSS: Just Try and Do a Good Job&lt;/a&gt; - CSS-Tricks&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://csswizardry.com/2012/11/code-smells-in-css/&quot;&gt;Code Smells in CSS&lt;/a&gt; - CSS Wizardy&lt;/li&gt;
+  &lt;/ul&gt;
+
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
-  &lt;p&gt;…&lt;/p&gt;
+
+  &lt;p&gt;Find a website using Bootstrap or Foundation (not from their examples page) - see if you can recognize them in your day-to-day web surfing. Inspect the site’s source and see if you can find a reference to BS or Foundation classes (BS is more common for sure).&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;In other words, get used to inspecting the hell out of websites&lt;/li&gt;
+    &lt;li&gt;Also keep an eye out for clearfixes&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;And if you want extra practice (optional):&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/uipic-extra-practice.zip&quot;&gt;Download these files&lt;/a&gt;&lt;/strong&gt; and work through the items in todos-1.txt then todos-2.txt.&lt;/li&gt;
+  &lt;/ul&gt;
 
 &lt;/div&gt;
+
 </description>
         <pubDate>Sat, 21 Mar 2015 00:00:00 -0400</pubDate>
         <link>http://laras126.github.io//uipic-spring15/class/2015/03/21/class-5.html</link>

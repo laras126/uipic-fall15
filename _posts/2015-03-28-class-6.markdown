@@ -1,8 +1,8 @@
 ---
 layout: post
 class: 6
-excerpt: "Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating."
-title:  "Templating and Data"
+excerpt: "JavaScript is considered a front-end language, but it's very different than HTML and CSS. IMHO, needs to be in it's own category - let's investigate."
+title:  "WTF JS"
 date:   2015-03-28
 categories: class
 ---

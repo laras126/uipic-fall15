@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Frameworks - UIPIC, Spring 15</title>
-  <meta name="description" content="Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare.">
+  <meta name="description" content="Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare. Lots of practice using the Inspector.">
 	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/uipic-spring15/css/main.css">
@@ -74,7 +74,7 @@
       <a class="prev" href="/uipic-spring15/class/2015/03/14/class-4.html">&larr; Class 4: Work time and Code Demos</a> 
      
     
-      <a class="next right" href="/uipic-spring15/class/2015/03/28/class-6.html">Class 6: Templating and Data &rarr;</a> 
+      <a class="next right" href="/uipic-spring15/class/2015/03/28/class-6.html">Class 6: WTF JS &rarr;</a> 
      
   </div>
 
@@ -86,7 +86,90 @@
   <article class="post-content">
     <h2 id="the-plan">The Plan</h2>
 
-<p>…</p>
+<h4 id="span-classpost-title-prediscussspan-frameworks-pros-and-cons"><span class="post-title-pre">Discuss:</span> Frameworks, pros and cons</h4>
+
+<ul>
+  <li>Third party tools, what are they and when to use them?</li>
+  <li>Framework vs. Grids - what’s the difference?</li>
+  <li>Look at BS vs. Foundation vs. style guides</li>
+  <li>About class based systems</li>
+  <li>Dependencies and updating</li>
+  <li>How do these things make money?
+    <ul>
+      <li>Reputation economy and open source</li>
+      <li>Spin-offs, e.g. <a href="http://zurb.com/university/courses">Foundation classes</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="span-classpost-title-pretogetherspan-bootstraphttpgetbootstrapcom"><span class="post-title-pre">Together:</span> <a href="http://getbootstrap.com/">Bootstrap</a></h4>
+
+<ul>
+  <li>BS documentation (funny to abbreviate it BS…)</li>
+  <li>Code a basic layout</li>
+  <li>Practice using inspector to figure out classes
+    <ul>
+      <li>Reference the <a href="http://getbootstrap.com/getting-started/#examples">Bootstrap examples</a></li>
+    </ul>
+  </li>
+  <li>Customization best practices - where should our CSS go?</li>
+</ul>
+
+<h4 id="span-classpost-title-prepairspan-make-something-in-bs"><span class="post-title-pre">Pair:</span> Make something in BS</h4>
+
+<p>Pairing is optional here, and I’ll be available for additional Q &amp; A about assignments and general code stuff. </p>
+
+<p>You can design freely or work from the following:</p>
+
+<ul>
+  <li>Create a signup form</li>
+  <li>Add a Jumbotron
+    <ul>
+      <li>Change the font</li>
+      <li>Add a background texture - <a href="http://subtlepatterns.com/">Subtle Patterns</a> is a good resource</li>
+    </ul>
+  </li>
+  <li>Change the color of the buttons</li>
+  <li>Create a thumbnail gallery</li>
+</ul>
+
+<h4 id="break">Break</h4>
+
+<h4 id="span-classpost-title-pretogetherspan-foundation"><span class="post-title-pre">Together:</span> Foundation</h4>
+
+<ul>
+  <li>What’s the difference?</li>
+  <li>A look at the grid</li>
+  <li>Download and set up for customizing
+    <ul>
+      <li>A look at <a href="http://foundation.zurb.com/templates.html">Foundation templates</a></li>
+      <li>Install the Sublime package ‘HTMLBeautify’ if you like (template markup is messy when you download it)</li>
+    </ul>
+  </li>
+  <li>Define Sass and Less</li>
+</ul>
+
+<h4 id="span-classpost-title-prepairspan-same-as-above"><span class="post-title-pre">Pair:</span> Same as above!</h4>
+
+<p>Again, feel free to design on your own, or work through the following (basically same as above so you can compare):</p>
+
+<ul>
+  <li>Create a contact form</li>
+  <li>Change some form styles:
+    <ul>
+      <li>Round the corners of inputs</li>
+      <li>Change the background color of the box when it is selected i.e. in focus</li>
+      <li>Make the labels all uppercase</li>
+    </ul>
+  </li>
+  <li>Create a thumbnail gallery</li>
+  <li>Use a <a href="http://zurb.com/building-blocks/">Building Block</a></li>
+  <li>Create an <a href="http://foundation.zurb.com/docs/components/icon-bar.html">icon bar</a>
+    <ul>
+      <li>Bonus: Make that stick to the bottom of the page</li>
+    </ul>
+  </li>
+</ul>
 
 <div class="notice post-todos">
 
@@ -94,10 +177,36 @@
 
   <h4 id="readings">Readings:</h4>
 
+  <p>Note: JavaScript is a hefty topic, this will be confusing! As usual, it’s good to get an idea of what we’ll be covering next class. All will become clear then!</p>
+
+  <ul>
+    <li><a href="http://learn.shayhowe.com/advanced-html-css/jquery/">Shay Howe Lesson 6 (of Advanced HTML/CSS): jQuery</a></li>
+  </ul>
+
+  <p>About best practices (at least scan them if you have time):</p>
+
+  <ul>
+    <li><a href="https://css-tricks.com/just-try-and-do-a-good-job/">CSS: Just Try and Do a Good Job</a> - CSS-Tricks</li>
+    <li><a href="http://csswizardry.com/2012/11/code-smells-in-css/">Code Smells in CSS</a> - CSS Wizardy</li>
+  </ul>
+
   <h4 id="to-do">To do:</h4>
-  <p>…</p>
+
+  <p>Find a website using Bootstrap or Foundation (not from their examples page) - see if you can recognize them in your day-to-day web surfing. Inspect the site’s source and see if you can find a reference to BS or Foundation classes (BS is more common for sure).</p>
+
+  <ul>
+    <li>In other words, get used to inspecting the hell out of websites</li>
+    <li>Also keep an eye out for clearfixes</li>
+  </ul>
+
+  <p>And if you want extra practice (optional):</p>
+
+  <ul>
+    <li><strong><a href="http://stuff.notlaura.com/downloads/uipic-extra-practice.zip">Download these files</a></strong> and work through the items in todos-1.txt then todos-2.txt.</li>
+  </ul>
 
 </div>
+
 
   </article>
    
@@ -107,7 +216,7 @@
       <a class="prev" href="/uipic-spring15/class/2015/03/14/class-4.html">&larr; Class 4: Work time and Code Demos</a> 
      
     
-      <a class="next right" href="/uipic-spring15/class/2015/03/28/class-6.html">Class 6: Templating and Data &rarr;</a> 
+      <a class="next right" href="/uipic-spring15/class/2015/03/28/class-6.html">Class 6: WTF JS &rarr;</a> 
      
     <br>
     <br>
@@ -180,7 +289,7 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">Saturdays 9:30-12:30pm, Room 505<br> February 21 - April 25
+        <p class="text">Saturdays 9:30-12:30pm, Room 505<br> February 21 - May 4
 </p>
       </div>
     </div>
