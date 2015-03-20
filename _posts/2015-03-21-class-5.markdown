@@ -43,7 +43,7 @@ You can design freely or work from the following:
 
 #### Break
 
-#### <span class="post-title-pre">Together:</span> Foundation
+#### <span class="post-title-pre">Together:</span> [Foundation](http://foundation.zurb.com/)
 
 * What's the difference?
 * A look at the grid
