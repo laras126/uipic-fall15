@@ -3,7 +3,7 @@ layout: post
 class: 5
 excerpt: "Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare."
 title:  "Frameworks"
-date:   2015-03-28
+date:   2015-03-21
 categories: class
 ---
 
