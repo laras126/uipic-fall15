@@ -93,7 +93,4 @@ And if you want extra practice (optional):
 
 * **[Download these files](http://stuff.notlaura.com/downloads/uipic-extra-practice.zip)** and work through the items in todos-1.txt then todos-2.txt.
 
-
-
 </div>
-

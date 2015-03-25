@@ -11,6 +11,16 @@ categories: class
 
 ...
 
+<div class="notice post-todos">
+
 ### For Next Time
 
-...
+#### Todo:
+
+* Complete text and screens outline of final project
+
+#### Readings:
+
+
+
+</div>
