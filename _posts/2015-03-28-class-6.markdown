@@ -13,6 +13,7 @@ categories: class
 
 * Also demo and locate a clearfix
 * Quick review of layout and framework concepts
+* Tables in Foundation
 
 #### <span class="post-title-pre">Lecture:</span> JavaScript Conundrum and Concepts
 
@@ -50,9 +51,13 @@ categories: class
 
 #### Todo:
 
-* Complete text and screens outline of final project
+* Collect content and create screen wireframes for outline of final project
+* Continue working through extra exercises
 
 #### Readings:
+
+* [Optimizing for the 0.33%](http://www.istartedsomething.com/20140911/optimising-for-the-0-33/), Long Zheng
+* [Deceptive Simplicity](http://azumbrunnen.me/blog/deceptive-simplicity/), Adrian Zumbrunnen
 
 
 
