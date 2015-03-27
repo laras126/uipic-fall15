@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2015 11:11:45 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 11:11:45 -0400</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2015 12:56:19 -0400</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2015 12:56:19 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -103,19 +103,65 @@
         <title>WTF JS</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;p&gt;…&lt;/p&gt;
+&lt;h4 id=&quot;span-classpost-title-preshowspan-bootstrap-andor-foundation-findings&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Show:&lt;/span&gt; Bootstrap and/or Foundation findings&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Also demo and locate a clearfix&lt;/li&gt;
+  &lt;li&gt;Quick review of layout and framework concepts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-javascript-conundrum-and-concepts&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; JavaScript Conundrum and Concepts&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We aren’t getting into JS too much, why?&lt;/li&gt;
+  &lt;li&gt;Why is it so different than HTML and CSS, but usually lumped together with them?&lt;/li&gt;
+  &lt;li&gt;Programming vs. Coding&lt;/li&gt;
+  &lt;li&gt;Review of back-end&lt;/li&gt;
+  &lt;li&gt;Introduce concept of types of functions and libraries&lt;/li&gt;
+  &lt;li&gt;Breaking down behavior: Variables, Functions, and Logic&lt;/li&gt;
+  &lt;li&gt;Real life examples (it’s not so easy!)
+    &lt;ul&gt;
+      &lt;li&gt;Data sanitization&lt;/li&gt;
+      &lt;li&gt;Users&lt;/li&gt;
+      &lt;li&gt;Passing data&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
+
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-noodling&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Noodling&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work in the console. &lt;/li&gt;
+  &lt;li&gt;Go over types of variables, native functions, and objects.&lt;/li&gt;
+  &lt;li&gt;Download starter files, and work in a file instead of console.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-preindependentspan-work-time-and-final-projects&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Independent:&lt;/span&gt; Work time and Final Projects&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work on any past projects or exercises 
+    &lt;ul&gt;
+      &lt;li&gt;Maybe Bootstrap/Foundation from last time &lt;/li&gt;
+      &lt;li&gt;Extra practice exercises from last class Todos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lara comes around to discuss final projects and next steps&lt;/li&gt;
+  &lt;li&gt;Review and explain any relevant concepts&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
 
-### For Next Time
+  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
-#### Todo:
+  &lt;h4 id=&quot;todo&quot;&gt;Todo:&lt;/h4&gt;
 
-* Complete text and screens outline of final project
+  &lt;ul&gt;
+    &lt;li&gt;Complete text and screens outline of final project&lt;/li&gt;
+  &lt;/ul&gt;
 
-#### Readings:
-
-
+  &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
 &lt;/div&gt;
 </description>
