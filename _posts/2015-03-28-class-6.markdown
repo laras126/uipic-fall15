@@ -33,15 +33,15 @@ categories: class
 
 * Work in the console. 
 * Go over types of variables, native functions, and objects.
-* Download starter files, and work in a file instead of console.
+* Download starter files, and do examples in a file with jQuery.
 
 #### <span class="post-title-pre">Independent:</span> Work time and Final Projects
 
 * Work on any past projects or exercises 
-	* Maybe Bootstrap/Foundation from last time 
+	* Bootstrap/Foundation from last time 
 	* Extra practice exercises from last class Todos
 * Lara comes around to discuss final projects and next steps
-* Review and explain any relevant concepts
+* Review and explain any relevant questions and concepts
 
 
 <div class="notice post-todos" markdown="1">
