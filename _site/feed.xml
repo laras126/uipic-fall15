@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-spring15/</link>
     <atom:link href="http://laras126.github.io//uipic-spring15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Mar 2015 13:33:04 -0400</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2015 13:33:04 -0400</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2015 09:04:15 -0400</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2015 09:04:15 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -100,15 +100,15 @@
       </item>
     
       <item>
-        <title>WTF JS</title>
+        <title>Review + WTF JS</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;h4 id=&quot;span-classpost-title-preshowspan-bootstrap-andor-foundation-findings&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Show:&lt;/span&gt; Bootstrap and/or Foundation findings&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-preshowdemospan-bootstrap-andor-foundation&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Show/Demo:&lt;/span&gt; Bootstrap and/or Foundation&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Also demo and locate a clearfix&lt;/li&gt;
-  &lt;li&gt;Quick review of layout and framework concepts&lt;/li&gt;
-  &lt;li&gt;Tables in Foundation&lt;/li&gt;
+  &lt;li&gt;Review of layout and framework concepts&lt;/li&gt;
+  &lt;li&gt;Responsive grids demo/review - &lt;a href=&quot;http://stuff.notlaura.com/downloads/grids.zip&quot;&gt;files here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;span-classpost-title-prelecturespan-javascript-conundrum-and-concepts&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; JavaScript Conundrum and Concepts&lt;/h4&gt;
@@ -135,8 +135,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Work in the console. &lt;/li&gt;
-  &lt;li&gt;Go over types of variables, native functions, and objects.&lt;/li&gt;
-  &lt;li&gt;Download starter files, and do examples in a file with jQuery.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/jquery_exercise.zip&quot;&gt;Download starter files&lt;/a&gt;, and do some examples with jQuery.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;span-classpost-title-preindependentspan-work-time-and-final-projects&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Independent:&lt;/span&gt; Work time and Final Projects&lt;/h4&gt;

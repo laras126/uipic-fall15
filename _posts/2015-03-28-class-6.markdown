@@ -1,19 +1,19 @@
 ---
 layout: post
 class: 6
-excerpt: "JavaScript is considered a front-end language, but it's very different than HTML and CSS. IMHO, needs to be in it's own category - let's investigate."
-title:  "WTF JS"
+excerpt: "Review grids. Then talk about JS - it's very different than HTML and CSS. IMHO, needs to be in it's own category. Let's investigate."
+title:  "Review + WTF JS"
 date:   2015-03-28
 categories: class
 ---
 
 ## The Plan
 
-#### <span class="post-title-pre">Show:</span> Bootstrap and/or Foundation findings
+#### <span class="post-title-pre">Show/Demo:</span> Bootstrap and/or Foundation
 
 * Also demo and locate a clearfix
-* Quick review of layout and framework concepts
-* Tables in Foundation
+* Review of layout and framework concepts
+* Responsive grids demo/review - [files here](http://stuff.notlaura.com/downloads/grids.zip).
 
 #### <span class="post-title-pre">Lecture:</span> JavaScript Conundrum and Concepts
 
@@ -33,8 +33,7 @@ categories: class
 #### <span class="post-title-pre">Together:</span> Noodling
 
 * Work in the console. 
-* Go over types of variables, native functions, and objects.
-* Download starter files, and do examples in a file with jQuery.
+* [Download starter files](http://stuff.notlaura.com/downloads/jquery_exercise.zip), and do some examples with jQuery.
 
 #### <span class="post-title-pre">Independent:</span> Work time and Final Projects
 
@@ -58,7 +57,6 @@ categories: class
 
 * [Optimizing for the 0.33%](http://www.istartedsomething.com/20140911/optimising-for-the-0-33/), Long Zheng
 * [Deceptive Simplicity](http://azumbrunnen.me/blog/deceptive-simplicity/), Adrian Zumbrunnen
-
 
 
 </div>
