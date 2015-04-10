@@ -2,15 +2,34 @@
 layout: post
 class: 7
 excerpt: "Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating, and integrate it into your projects."
-title:  "Templating and Data"
+title:  "Final Projects + Templating"
 date:   2015-04-11
 categories: class
 ---
 
 ## The Plan
 
-...
+#### <span class="post-title-pre">Final Projects:</span> Work Time and Discuss
+
+For the first half of class, I'll walk around and check in on projects and general questions. You can work on those or the extra practice exercises.
+
+#### <span class="post-title-pre">Lecture:</span> Templating
+
+* What is a template? Why use them?
+* Where is data stored?
+* Templating concepts
+	* Includes and partials
+	* Extends
+* Templating languages, look at examples
+
+#### <span class="post-title-pre">Together:</span> Handlebars Templating kit.
+
+Create a new workspace in Cloud9 and clone the project with this link: https://github.com/laras126/handlebars-starter.
+
+<div class="notice post-todos" markdown="1">
 
 ### For Next Time
 
 ...
+
+</div>
