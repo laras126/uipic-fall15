@@ -11,25 +11,44 @@ categories: class
 
 #### <span class="post-title-pre">Final Projects:</span> Work Time and Discuss
 
-For the first half of class, I'll walk around and check in on projects and general questions. You can work on those or the extra practice exercises.
+For the first half of class, I'll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.
 
 #### <span class="post-title-pre">Lecture:</span> Templating
 
-* What is a template? Why use them?
-* Where is data stored?
+* Data
+	* Types of databases
+	* JSON
+* What are frameworks?
+* What is templating? Why is it awesome?
+* Separating content, logic, and data
+* MVC (no need to memorize what this means)
 * Templating concepts
 	* Includes and partials
 	* Extends
 * Templating languages, look at examples
+	* [Ruby on Rails (Erubis)](http://www.kuwata-lab.com/erubis/) ```<h1><%= person.name %></h1>```
+	* [Twig](http://twig.sensiolabs.org), [Django](https://www.djangoproject.com/), [Handlebars.js](http://handlebarsjs.com) ```<h1>{{person.name}}</h1>```
+* Data for that in JSON would look like:
 
-#### <span class="post-title-pre">Together:</span> Handlebars Templating kit.
+	{
+		"person": {
+			"name": "Lara",
+			"location": "NYC"
+		}
+	}
 
-Create a new workspace in Cloud9 and clone the project with this link: https://github.com/laras126/handlebars-starter.
+#### <span class="post-title-pre">Together:</span> Handlebars templating
+
+Create a new workspace in Cloud9 and clone the project with this link: https://github.com/laras126/handlebars-starter. You can use this for your final project.
 
 <div class="notice post-todos" markdown="1">
 
 ### For Next Time
 
-...
+#### Todo:
+
+* Have all pages and files created for final project. Plan out markup and begin styling, have all content and graphic assets ready to go.
+* Find a meet-up to go to! (or just come to the one on the 20th)
+	
 
 </div>
