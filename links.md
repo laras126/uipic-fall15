@@ -34,6 +34,7 @@ permalink: /links/
 *   [Designer News](https://news.layervault.com) - Hacker News for designers.
 *	[Codrops](http://tympanus.net/codrops/) - Tutorials for fun effects and animations, etc.
 * 	[The Pastry Box Project](https://the-pastry-box-project.net/) - kind of like self-help articles for/by web designers.
+*	[Twitter](http://resources.decoded.co/pages/savvy#twitter) - These are the people to follow.
 
 #### Newsletters
 

@@ -22,9 +22,11 @@ categories: class
 * Get set up with Cloud9
 	* Introduction to the text editor, previewing, etc.
 
-#### <span class="post-title-pre">Exercise:</span> Hack!
+#### <span class="post-title-pre">Exercise:</span> Code!
 
-[Download this](http://stuff.notlaura.com/downloads/class1-uipic-welcome.zip). We'll get started together, then I'll pair you up and you'll hack away.
+Sure, you can work from scratch but that's not quite how it works in the real world. Let's introduce some code through this starter kit.
+
+[Clone this](https://github.com/laras126/class1-uipic-welcome) in Cloud9. We'll get started together, and go over some basics.
 
 #### Break!
 
@@ -39,24 +41,25 @@ categories: class
 	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
 	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
 	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in (these were from when gradients were more popular, don't judge!).
-	* [Fly Solo prototype](http://stuff.notlaura.com/demos/fly-solo-wire)
 	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
 
-#### <span class="post-title-pre">Exercise:</span> Continue hacking, demos
+#### <span class="post-title-pre">Exercise:</span> Continue coding, demos.
 
 <div class="post-todos notice" markdown="1">
 ### For Next Time...
 
 #### Readings:
 
-* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
 * [Why You Should Include Your Developer in the Design Process](http://www.smashingmagazine.com/2014/11/21/why-you-should-include-your-developer-in-the-design-process/)
 * [Websites vs. Webapps](http://css-tricks.com/poll-results-sites-vs-apps/) - CSS-Tricks
+* [Not a Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes) - Don't Fear The Internet (video)
 
 #### To do:
 
-* [Lesson 1: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-css/) (tutorial)
+* [Lesson 1: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (review tutorial, optional)
+* [Lesson 2: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+* [Lesson 3: Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
 * Look through [the Links section]({{site.baseurl}}/links/) of this site and, if you like, install the various software on your own computers.
-* Continue working in Welcome files (optional)
+* Finish up the todos in the welcome files (optional)
 
 </div>

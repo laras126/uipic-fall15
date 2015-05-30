@@ -64,6 +64,8 @@ categories: class
 
 #### Readings:
 
+* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
+
 On Responsive Design, which we will discuss next week:
 
 * [Responsive Web Design](http://alistapart.com/article/responsive-web-design) - the original article about RWD.
