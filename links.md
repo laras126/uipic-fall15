@@ -42,9 +42,6 @@ permalink: /links/
 *   [Smashing Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter/) - monthly a roundup of Smashing Mag. articles and much more!
 *   [Lara's Newsletter](http://eepurl.com/0qpQn) - if you want to! I announce workshops and send out helpful links every now and then.
 
-#### Meetups
-
-(coming soon)
 
 #### Book Recommendations
 
@@ -59,9 +56,10 @@ permalink: /links/
 *   [Icomoon](https://icomoon.io/) - icons!
 *   [Unheap](unheap.com) - collection of jQuery plugins
 *   [Adobe Kuler](http://kuler.adobe.com) - nice color scheme designer
-*   [Design Patterns on CodePen](http://codepen.io/patterns) - nice copy/paste bits of code for common elements .
+*   [Design Patterns on CodePen](http://codepen.io/patterns) - nice copy/paste bits of code for common elements.
+* 	[Unsplash](https://unsplash.com) - Gorgeous background photos and whatnot.
 
-#### Tutorial Websites and Code Schools
+#### Tutorial Websites and Online Resources
 
 * [Shay Howe's Learn HTML &amp; CSS](http://learn.shayhowe.com) - also available as a book. I will be assigning lessons from here as we move through the course.
 * [Codecademy](http://www.codecademy.com/) - the [Web Fundamentals](http://www.codecademy.com/en/tracks/web) is a good starting point.

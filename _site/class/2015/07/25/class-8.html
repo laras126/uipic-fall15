@@ -6,13 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Keyboard Shortcuts - UIPIC, Summer 15</title>
-  <meta name="description" content="Saturdays 9:30-12:30pm, Room 505<br> May 30 - August 1
-">
+  <title>Forms and States + jQuery plugin - UIPIC, Summer 15</title>
+  <meta name="description" content="Form functionality and types of inputs. Demo a jQuery plugin.">
 	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/uipic-summer15/css/main.css">
-  <link rel="canonical" href="http://laras126.github.io//uipic-summer15/keyboard-shortcuts/">
+  <link rel="canonical" href="http://laras126.github.io//uipic-summer15/class/2015/07/25/class-8.html">
   <link rel="alternate" type="application/rss+xml" title="UIPIC, Summer 15" href="http://laras126.github.io//uipic-summer15/feed.xml" />
 </head>
 
@@ -69,148 +68,145 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
+ 
+  <div class="post-nav">
+     
+      <a class="prev" href="/uipic-summer15/class/2015/07/18/class-7.html">&larr; Class 7: Final Projects + Templating</a> 
+     
+    
+      <a class="next right" href="/uipic-summer15/class/2015/08/01/class-9.html">Class 9: Work Time/Q & A &rarr;</a> 
+     
+  </div>
 
   <header class="post-header">
-    <h1 class="post-title">Keyboard Shortcuts</h1>
+    <h1 class="post-title"><span class="post-title-pre">Class 8: </span>Forms and States + jQuery plugin</h1>
+    <p class="post-meta">Jul 25, 2015</p>
   </header>
-
+  
   <article class="post-content">
-    <p>Keyboard shortcuts are one of <strong>the most important things</strong> you can master as you start your coding career. Knowing how to navigate the keys quickly and efficiently gives you the confidence to learn anything (and feel super cool)! Mark my words.</p>
+    <h2 id="the-plan">The Plan</h2>
 
-<p>Below are some of the most common keyboard shortcuts for Chrome, Sublime, and navigating text. The below commands are Mac-centric - Windows users, you can substitute the Command (⌘) key with Control, and the Option key (⌥) with Alt.</p>
+<h4 id="span-classpost-title-prelecturespan-forms-vs-inputs"><span class="post-title-pre">Lecture:</span> Forms vs. Inputs</h4>
+<ul>
+  <li><code>&lt;form&gt;</code> vs. <code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>Posting the values with <code>action=""</code></li>
+      <li>Look at Google</li>
+    </ul>
+  </li>
+  <li><code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>text</li>
+      <li>radio</li>
+      <li>submit</li>
+      <li>number</li>
+      <li>phone</li>
+      <li>password</li>
+      <li>range</li>
+      <li>file</li>
+      <li>…<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input#Attributes">and more</a>!</li>
+    </ul>
+  </li>
+  <li>Adding additional attributes
+    <ul>
+      <li>name</li>
+      <li>value</li>
+      <li>placeholder</li>
+      <li>disabled</li>
+      <li>…<a href="">and more</a>!</li>
+    </ul>
+  </li>
+  <li>How name and action attributes interact</li>
+  <li>Labels
+    <ul>
+      <li><code>&lt;label for="name"&gt;</code></li>
+    </ul>
+  </li>
+  <li>Common types
+    <ul>
+      <li>Radio = true/false</li>
+      <li>Checkbox = select mutliple</li>
+      <li>Dropdowns: <code>&lt;select&gt;</code> and <code>&lt;option&gt;</code>
+        <ul>
+          <li>A note about the UX - <a href="http://smarterware.org/7388/the-case-against-drop-down-identities">interesting article here</a>.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Examples
+    <ul>
+      <li><a href="https://www.taskrabbit.com/">Taskrabbit.com</a></li>
+      <li><a href="https://www.pittsburghfoodbank.org">Food bank donate form</a></li>
+    </ul>
+  </li>
+  <li>Basic <a href="http://www.w3schools.com/html/html_forms.asp">form tutorial here</a>.</li>
+</ul>
 
-<h3>Chrome Shortcuts</h3>
-<p>I recommend using Chrome for your browser, but many of these shortcuts also work for Firefox and Safari. Just don't let me find you using Internet Explorer! Kidding, sort of.</p>
+<h4 id="span-classpost-title-predemospan-php-form"><span class="post-title-pre">Demo:</span> PHP Form</h4>
+<ul>
+  <li>Look at form PHP code - <a href="http://stuff.notlaura.com/demos/php-form-demo.zip">files here</a>.
+    <ul>
+      <li>It’s kind of gross looking code, don’t be intimidated.</li>
+      <li>Show variable values in url, e.g. <code>?name=Lara</code></li>
+      <li>Writing to mood.txt</li>
+      <li>Example without method and action</li>
+    </ul>
+  </li>
+  <li>Add a new field</li>
+  <li>Styling forms (it kind of sucks)</li>
+</ul>
 
-<table>
-	<tbody>
-		<tr>
-			<th>Keys</th>
-			<th>Action</th>
-		</tr>
-		<tr>
-			<td>⌘ + T</td>
-			<td>New Tab</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + I</td>
-			<td>Show Inspector (you should be using this often!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + U</td>
-			<td>Show Source</td>
-		</tr>
-		<tr>
-			<td>⌘ + N</td>
-			<td>New window (but use tabs more!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + T</td>
-			<td>Open previously closed tab</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + N</td>
-			<td>New <a href="https://support.google.com/chrome/answer/95464?hl=en" target="_blank">Incognito Window</a> (private browsing)</td>
-		</tr>
-		<tr>
-			<td>⌘ + [</td>
-			<td>Go back</td>
-		</tr>
-		<tr>
-			<td>⌘ + ]</td>
-			<td>Go forward</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + ←</td>
-			<td>Go to tab left of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + →</td>
-			<td>Go to tab right of current</td>
-		</tr>
-	</tbody>
-</table>
+<h4 id="break">Break</h4>
 
-<p>See a more comprehensive list of <a href="https://support.google.com/chrome/answer/165450?hl=en" target="_blank">Chrome shortcuts here</a> (and <a href="https://support.google.com/chrome/answer/157179?hl=en&amp;ref_topic=25799" target="_blank">here for Windows</a>).</p>
+<h4 id="span-classpost-title-predemospan-jquery-plugin"><span class="post-title-pre">Demo:</span> jQuery Plugin</h4>
 
-<!--<h3>Sublime Shortcuts</h3>
-<p>Sublime Text 3 is THE text editor. You will love it. <a href="http://www.sublimetext.com/3" target="_blank">Download here</a> if you haven't already.</p>
-<table>
-	<tbody>
-		<tr>
-			<th>Keys</th>
-			<th>Actions</th>
-		</tr>
-		<tr>
-			<td>⌘ + S</td>
-			<td>Save (the most important shortcut ever!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + S</td>
-			<td>Save As (for duplicating files)</td>
-		</tr>
-		<tr>
-			<td>⌘ + [</td>
-			<td>Tab left (usually with highlighted content)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ]</td>
-			<td>Tab right (again, usually highlighted content)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + ←</td>
-			<td>Go to tab left of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + →</td>
-			<td>Go to tab right of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + .</td>
-			<td>Close a tag</td>
-		</tr>
-	</tbody>
-</table>
+<ul>
+  <li>Demo a JS plugin.
+    <ul>
+      <li><a href="http://theonion.github.io/fartscroll.js/">FartScroll</a>, lolz.</li>
+      <li>Something more useful: <a href="http://fittextjs.com/">Fittext.js</a></li>
+      <li>Lots of nice ones on <a href="http://unheap.com">Unheap</a>.</li>
+    </ul>
+  </li>
+</ul>
 
-<p>Many, many <a href="http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html" target="_blank">more Sublime shortcuts here</a>.</p>-->
+<h4 id="work-time-and-qa">Work Time and Q/A</h4>
 
-<h3>Typing shortcuts</h3>
-<p>No need to hold down the up arrow to get to the top of the page. Use these to jump around your code, like a boss.</p>
-<div>
-	<table>
-		<tbody>
-			<tr>
-				<th>Keys</th>
-				<th>Actions</th>
-			</tr>
-			<tr>
-				<td>⌘ + →</td>
-				<td>Skip to end of a line</td>
-			</tr>
-			<tr>
-				<td>⌘ + ←</td>
-				<td>Skip to beginning of a line</td>
-			</tr>
-			<tr>
-				<td>⌘ + ↑</td>
-				<td>Skip to top of document</td>
-			</tr>
-			<tr>
-				<td>⌘ + ↓</td>
-				<td>Skip to bottom of document</td>
-			</tr>
-			<tr>
-				<td>⌥ + →</td>
-				<td>Skip a word to the right</td>
-			</tr>
-			<tr>
-				<td>⌥ + ←</td>
-				<td>Skip a word to the left</td>
-			</tr>
-		</tbody>
-	</table>
+<div class="post-todos notice">
+
+  <h3 id="for-next-time">For Next Time</h3>
+
+  <p>Keep working on projects! Email questions if you have them. You should have a nice markup skeleton, all of your pages in place, and have started styling.</p>
+
 </div>
+
   </article>
+   
+   <div class="post-nav">
+    <br>
+     
+      <a class="prev" href="/uipic-summer15/class/2015/07/18/class-7.html">&larr; Class 7: Final Projects + Templating</a> 
+     
+    
+      <a class="next right" href="/uipic-summer15/class/2015/08/01/class-9.html">Class 9: Work Time/Q & A &rarr;</a> 
+     
+    <br>
+    <br>
+  </div>
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'uipicspring15'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 </div>
 

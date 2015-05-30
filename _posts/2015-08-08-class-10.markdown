@@ -1,0 +1,22 @@
+---
+layout: post
+class: 10
+excerpt: "..."
+title:  "Present Projects + Next Steps"
+date:   2015-08-08
+categories: class
+---
+
+## The Plan
+
+
+#### Work time
+
+We can have a an hour or so of work time beforehand if you like. I'll bring cookies or something.
+
+#### Show off your prototypes!
+
+#### <span class="post-title-pre">Discuss:</span> Next Steps
+
+* How will this apply to your current work? 
+* What to do to keep learning

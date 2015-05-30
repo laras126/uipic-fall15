@@ -1,0 +1,71 @@
+---
+layout: post
+class: 8
+excerpt: "Form functionality and types of inputs. Demo a jQuery plugin."
+title:  "Forms and States + jQuery plugin"
+date:   2015-07-25
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Lecture:</span> Forms vs. Inputs
+* ```<form>``` vs. ```<input type="">```
+	* Posting the values with ```action=""```
+	* Look at Google
+* ```<input type="">```
+	* text
+	* radio
+	* submit
+	* number
+	* phone
+	* password
+	* range
+	* file
+	* ...[and more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input#Attributes)!
+* Adding additional attributes
+	* name
+	* value
+	* placeholder
+	* disabled
+	* ...[and more]()!
+* How name and action attributes interact
+* Labels
+	* ```<label for="name">```
+* Common types
+	* Radio = true/false
+	* Checkbox = select mutliple
+	* Dropdowns: ```<select>``` and ```<option>```
+		* A note about the UX - [interesting article here](http://smarterware.org/7388/the-case-against-drop-down-identities).
+* Examples
+	* [Taskrabbit.com](https://www.taskrabbit.com/)
+	* [Food bank donate form](https://www.pittsburghfoodbank.org)
+* Basic [form tutorial here](http://www.w3schools.com/html/html_forms.asp).
+
+#### <span class="post-title-pre">Demo:</span> PHP Form
+* Look at form PHP code - [files here](http://stuff.notlaura.com/demos/php-form-demo.zip).
+	* It's kind of gross looking code, don't be intimidated.
+	* Show variable values in url, e.g. ```?name=Lara```
+	* Writing to mood.txt
+	* Example without method and action
+* Add a new field
+* Styling forms (it kind of sucks)
+
+#### Break
+
+#### <span class="post-title-pre">Demo:</span> jQuery Plugin
+
+* Demo a JS plugin.
+	* [FartScroll](http://theonion.github.io/fartscroll.js/), lolz.
+	* Something more useful: [Fittext.js](http://fittextjs.com/)
+	* Lots of nice ones on [Unheap](http://unheap.com).
+
+#### Work Time and Q/A
+
+<div class="post-todos notice" markdown="1">
+	
+### For Next Time
+
+Keep working on projects! Email questions if you have them. You should have a nice markup skeleton, all of your pages in place, and have started styling.
+
+</div>

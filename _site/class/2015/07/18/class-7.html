@@ -6,13 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Keyboard Shortcuts - UIPIC, Summer 15</title>
-  <meta name="description" content="Saturdays 9:30-12:30pm, Room 505<br> May 30 - August 1
-">
+  <title>Final Projects + Templating - UIPIC, Summer 15</title>
+  <meta name="description" content="Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating, and integrate it ...">
 	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/uipic-summer15/css/main.css">
-  <link rel="canonical" href="http://laras126.github.io//uipic-summer15/keyboard-shortcuts/">
+  <link rel="canonical" href="http://laras126.github.io//uipic-summer15/class/2015/07/18/class-7.html">
   <link rel="alternate" type="application/rss+xml" title="UIPIC, Summer 15" href="http://laras126.github.io//uipic-summer15/feed.xml" />
 </head>
 
@@ -69,148 +68,121 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="post">
+ 
+  <div class="post-nav">
+     
+      <a class="prev" href="/uipic-summer15/class/2015/07/11/class-6.html">&larr; Class 6: Review + WTF JS</a> 
+     
+    
+      <a class="next right" href="/uipic-summer15/class/2015/07/25/class-8.html">Class 8: Forms and States + jQuery plugin &rarr;</a> 
+     
+  </div>
 
   <header class="post-header">
-    <h1 class="post-title">Keyboard Shortcuts</h1>
+    <h1 class="post-title"><span class="post-title-pre">Class 7: </span>Final Projects + Templating</h1>
+    <p class="post-meta">Jul 18, 2015</p>
   </header>
-
+  
   <article class="post-content">
-    <p>Keyboard shortcuts are one of <strong>the most important things</strong> you can master as you start your coding career. Knowing how to navigate the keys quickly and efficiently gives you the confidence to learn anything (and feel super cool)! Mark my words.</p>
+    <h2 id="the-plan">The Plan</h2>
 
-<p>Below are some of the most common keyboard shortcuts for Chrome, Sublime, and navigating text. The below commands are Mac-centric - Windows users, you can substitute the Command (⌘) key with Control, and the Option key (⌥) with Alt.</p>
+<h4 id="span-classpost-title-prefinal-projectsspan-work-time-and-discuss"><span class="post-title-pre">Final Projects:</span> Work Time and Discuss</h4>
 
-<h3>Chrome Shortcuts</h3>
-<p>I recommend using Chrome for your browser, but many of these shortcuts also work for Firefox and Safari. Just don't let me find you using Internet Explorer! Kidding, sort of.</p>
+<p>For the first half of class, I’ll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.</p>
 
-<table>
-	<tbody>
-		<tr>
-			<th>Keys</th>
-			<th>Action</th>
-		</tr>
-		<tr>
-			<td>⌘ + T</td>
-			<td>New Tab</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + I</td>
-			<td>Show Inspector (you should be using this often!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + U</td>
-			<td>Show Source</td>
-		</tr>
-		<tr>
-			<td>⌘ + N</td>
-			<td>New window (but use tabs more!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + T</td>
-			<td>Open previously closed tab</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + N</td>
-			<td>New <a href="https://support.google.com/chrome/answer/95464?hl=en" target="_blank">Incognito Window</a> (private browsing)</td>
-		</tr>
-		<tr>
-			<td>⌘ + [</td>
-			<td>Go back</td>
-		</tr>
-		<tr>
-			<td>⌘ + ]</td>
-			<td>Go forward</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + ←</td>
-			<td>Go to tab left of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + →</td>
-			<td>Go to tab right of current</td>
-		</tr>
-	</tbody>
-</table>
+<h4 id="span-classpost-title-prelecturespan-templating"><span class="post-title-pre">Lecture:</span> Templating</h4>
 
-<p>See a more comprehensive list of <a href="https://support.google.com/chrome/answer/165450?hl=en" target="_blank">Chrome shortcuts here</a> (and <a href="https://support.google.com/chrome/answer/157179?hl=en&amp;ref_topic=25799" target="_blank">here for Windows</a>).</p>
+<ul>
+  <li>Data
+    <ul>
+      <li>Types of databases</li>
+      <li>JSON</li>
+    </ul>
+  </li>
+  <li>What are frameworks?</li>
+  <li>What is templating? Why is it awesome?</li>
+  <li>Separating content, logic, and data</li>
+  <li>MVC (no need to memorize what this means too much)
+    <ul>
+      <li><a href="http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488">Read more here</a></li>
+    </ul>
+  </li>
+  <li>Templating concepts
+    <ul>
+      <li>Includes and partials</li>
+      <li>Extends</li>
+    </ul>
+  </li>
+  <li>Templating languages, look at examples
+    <ul>
+      <li><a href="http://www.kuwata-lab.com/erubis/">Ruby on Rails (Erubis)</a> <code>&lt;h1&gt;&lt;%= person.name %&gt;&lt;/h1&gt;</code></li>
+      <li><a href="http://twig.sensiolabs.org">Twig</a>, <a href="https://www.djangoproject.com/">Django</a>, <a href="http://handlebarsjs.com">Handlebars.js</a> <code>&lt;h1&gt;&lt;/h1&gt;</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>Data for that in JSON would look like:</p>
 
-<!--<h3>Sublime Shortcuts</h3>
-<p>Sublime Text 3 is THE text editor. You will love it. <a href="http://www.sublimetext.com/3" target="_blank">Download here</a> if you haven't already.</p>
-<table>
-	<tbody>
-		<tr>
-			<th>Keys</th>
-			<th>Actions</th>
-		</tr>
-		<tr>
-			<td>⌘ + S</td>
-			<td>Save (the most important shortcut ever!)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⇧ + S</td>
-			<td>Save As (for duplicating files)</td>
-		</tr>
-		<tr>
-			<td>⌘ + [</td>
-			<td>Tab left (usually with highlighted content)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ]</td>
-			<td>Tab right (again, usually highlighted content)</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + ←</td>
-			<td>Go to tab left of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + →</td>
-			<td>Go to tab right of current</td>
-		</tr>
-		<tr>
-			<td>⌘ + ⌥ + .</td>
-			<td>Close a tag</td>
-		</tr>
-	</tbody>
-</table>
+    <p>{
+      “person”: {
+          “name”: “Lara”,
+          “location”: “NYC”
+      }
+  }</p>
+  </li>
+</ul>
 
-<p>Many, many <a href="http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html" target="_blank">more Sublime shortcuts here</a>.</p>-->
+<h4 id="span-classpost-title-pretogetherspan-handlebars-templating"><span class="post-title-pre">Together:</span> Handlebars templating</h4>
 
-<h3>Typing shortcuts</h3>
-<p>No need to hold down the up arrow to get to the top of the page. Use these to jump around your code, like a boss.</p>
-<div>
-	<table>
-		<tbody>
-			<tr>
-				<th>Keys</th>
-				<th>Actions</th>
-			</tr>
-			<tr>
-				<td>⌘ + →</td>
-				<td>Skip to end of a line</td>
-			</tr>
-			<tr>
-				<td>⌘ + ←</td>
-				<td>Skip to beginning of a line</td>
-			</tr>
-			<tr>
-				<td>⌘ + ↑</td>
-				<td>Skip to top of document</td>
-			</tr>
-			<tr>
-				<td>⌘ + ↓</td>
-				<td>Skip to bottom of document</td>
-			</tr>
-			<tr>
-				<td>⌥ + →</td>
-				<td>Skip a word to the right</td>
-			</tr>
-			<tr>
-				<td>⌥ + ←</td>
-				<td>Skip a word to the left</td>
-			</tr>
-		</tbody>
-	</table>
+<p>Create a new workspace in Cloud9 and clone the project with this link: https://github.com/laras126/handlebars-starter. You can use this for your final project. Recommended, not required if you’d rather use plain HTML.</p>
+
+<ul>
+  <li>What’s happening on the server (PHP includes) vs. client (JS)</li>
+</ul>
+
+<h4 id="span-classpost-title-prework-timespan-create-templates-for-final-project"><span class="post-title-pre">Work time:</span> Create templates for final project</h4>
+
+<p>With or without templating kit.</p>
+
+<div class="notice post-todos">
+
+  <h3 id="for-next-time">For Next Time</h3>
+
+  <h4 id="todo">Todo:</h4>
+
+  <ul>
+    <li>Have all pages and files created for final project. Plan out markup and begin styling, have all content and graphic assets ready to go.</li>
+    <li>Find a meet-up to go to! (or just come to <a href="https://nvite.com/CodePenMeetupNYC/ed55">the one on the 20th</a>)</li>
+  </ul>
+
 </div>
+
   </article>
+   
+   <div class="post-nav">
+    <br>
+     
+      <a class="prev" href="/uipic-summer15/class/2015/07/11/class-6.html">&larr; Class 6: Review + WTF JS</a> 
+     
+    
+      <a class="next right" href="/uipic-summer15/class/2015/07/25/class-8.html">Class 8: Forms and States + jQuery plugin &rarr;</a> 
+     
+    <br>
+    <br>
+  </div>
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'uipicspring15'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 </div>
 

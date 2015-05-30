@@ -44,13 +44,13 @@ With that in mind, missing a class is critical. Try not to if you can help it, t
 
 #### Pair Programming
 
-When coding in class, we'll primarily be pair programming. As the wise Wikipedia states:
+When coding in class, we'll often pair programming. As the wise Wikipedia states:
 
 > Pair programming (sometimes referred to as peer programming) is an agile software development technique in which two programmers work as a pair together on one workstation. One, the driver, writes code while the other, the observer, pointer or navigator, reviews each line of code as it is typed in.
 
-Since our class is somewhat big, when we do code in class, you will pair with someone. Your coding ability doesn't matter here, but be ready to teach or learn from your partner.
+Coding ability doesn't matter here, so be ready to teach or learn from your partner.
 
-#### Code Reviews and Q &amp; A
+#### Demos and Q &amp; A
 
 Though the majority of code learning will happen outside of class via tutorials, we will, as a class, work through a specific problem or question or give feedback on a piece of code. I might ask one of you to explain the solution or lead the review.
 
@@ -58,22 +58,18 @@ Though the majority of code learning will happen outside of class via tutorials,
 
 #### Tutorials and Assignments
 
-As mentioned above, tutorials will be assigned to guide your coding education througout the course. I will also give you "Assignments", or checklists of coding tasks to make sure you have comprehended the tutorials. These will be graded on completion.
+As mentioned above, tutorials will be assigned to guide your coding know-how. I will also give you "Assignments", or checklists of coding tasks to make sure you have caught on to all of the concepts.
 
 #### Click-holes
 
-This translates to research, or a "rabbit hole of clicking", if you will. A huge part of being a good designer and developer is being excited and knowledgeable about what's happening in the industry. Here's how to go into a click-hole:
+This translates to research, or a "rabbit hole of clicking", if you will. A huge part of learning the language of code is being excited and knowledgeable about what's happening in the industry. Here's how to go into a "click-hole" (I know, a crass term but I like it):
 
 1. Via [Panda](https://usepanda.com/app/#/) (listed below) or some other site, find an interesting article. Read it.
 2. When you see a link embedded in the article, open it in a new tab, but keep reading the article (if you want).
 3. Look at those other links, and open their embedded links.
 4. You'll probably start researching a specific topic, and learning about prominent industry names and websites.
 
-Each class someone will present a "click-hole" from the week.
-
-#### Go to a Meetup
-
-Go to at least one Meetup or other industry gathering during the course and report back. See the [relevant Links section]({{site.baseurl}}/links#meetups) for suggestions.
+Every now and then, we'll have someone (or me) present a "click-hole".
 
 #### Final Project
 
@@ -107,17 +103,15 @@ For full credit, you must:
 
 ## Materials
 
-### Computers
+### Lab Computers and [Cloud9](https://c9.io/)
 
-**If you have a laptop, bring it.** Though you are free to use the lab computers, I highly recommend that you BYO so that it is set up for your work outside of class time. 
+We'll be coding using the lab's desktop computers and in a browser environment called Cloud9. It's pretty awesome, and you'll be able to view your work online and continue with it on your own computers outside of class.
 
-If you _don't_ have a laptop, you will need to bring a hard drive (USB drive is fine, at least 5GB) to store your files and the required software.
-
-### Required Software
+### Software (for working at home)
 All of the following are available for free.
 
 #### [Sublime Text 3](http://www.sublimetext.com/3)
-This is the industry standard for text editors. The lab computers do not have it (but will soon), so if you are using them you will need to install it on your thumb drive by downloading the application and dragging it onto the drive.
+Although we'll be using Cloud9, you are more than welcome to try out a real text editor on your own computer. Sublime is the industry standard for text editors, and you'll probably see me using it in demos.
 
 #### [Google Chrome](http://www.google.com/chrome/)
 Chrome is the most popular browser used by web developers. While other browsers do have similar capabilities, we will be using Chrome in class.

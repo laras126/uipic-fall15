@@ -1,0 +1,96 @@
+---
+layout: post
+class: 5
+excerpt: "Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare. Lots of practice using the Inspector."
+title:  "Frameworks"
+date:   2015-07-04
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Discuss:</span> Frameworks, pros and cons
+
+* Third party tools, what are they and when to use them?
+* Framework vs. Grids - what's the difference?
+* Look at BS vs. Foundation vs. style guides
+* About class based systems
+* Dependencies and updating
+* How do these things make money?
+	* Reputation economy and open source
+	* Spin-offs, e.g. [Foundation classes](http://zurb.com/university/courses)
+
+#### <span class="post-title-pre">Together:</span> [Bootstrap](http://getbootstrap.com/)
+
+* BS documentation (funny to abbreviate it BS...)
+* Code a basic layout
+* Practice using inspector to figure out classes
+	* Reference the [Bootstrap examples](http://getbootstrap.com/getting-started/#examples)
+* Customization best practices - where should our CSS go?
+
+#### <span class="post-title-pre">Pair:</span> Make something in BS
+
+Pairing is optional here, and I'll be available for additional Q & A about assignments and general code stuff. 
+
+You can design freely or work from the following:
+
+* Create a signup form
+* Add a Jumbotron
+	* Change the font
+	* Add a background texture - [Subtle Patterns](http://subtlepatterns.com/) is a good resource
+* Change the color of the buttons
+* Create a thumbnail gallery
+
+#### Break
+
+#### <span class="post-title-pre">Together:</span> [Foundation](http://foundation.zurb.com/)
+
+* What's the difference?
+* A look at the grid
+* Download and set up for customizing
+	* A look at [Foundation templates](http://foundation.zurb.com/templates.html)
+	* Install the Sublime package 'HTMLBeautify' if you like (template markup is messy when you download it)
+* Define Sass and Less
+
+#### <span class="post-title-pre">Pair:</span> Same as above!
+
+Again, feel free to design on your own, or work through the following (basically same as above so you can compare):
+
+* Create a contact form
+* Change some form styles:
+	* Round the corners of inputs
+	* Change the background color of the box when it is selected i.e. in focus
+	* Make the labels all uppercase
+* Create a thumbnail gallery
+* Use a [Building Block](http://zurb.com/building-blocks/)
+* Create an [icon bar](http://foundation.zurb.com/docs/components/icon-bar.html)
+	* Bonus: Make that stick to the bottom of the page
+
+
+<div class="notice post-todos" markdown="1">
+
+### For Next Time
+
+#### Readings:
+
+Note: JavaScript is a hefty topic, this will be confusing! As usual, it's good to get an idea of what we'll be covering next class. All will become clear then!
+
+* [Shay Howe Lesson 6 (of Advanced HTML/CSS): jQuery](http://learn.shayhowe.com/advanced-html-css/jquery/)
+
+About best practices (at least scan them if you have time):
+
+* [CSS: Just Try and Do a Good Job](https://css-tricks.com/just-try-and-do-a-good-job/) - CSS-Tricks
+* [Code Smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/) - CSS Wizardy
+
+#### To do:
+
+Find a website using Bootstrap or Foundation (not from their examples page) - see if you can recognize them in your day-to-day web surfing. Inspect the site's source and see if you can find a reference to BS or Foundation classes (BS is more common for sure).
+
+* In other words, get used to inspecting the hell out of websites
+* Also keep an eye out for clearfixes
+
+And if you want extra practice (optional):
+
+* **[Download these files](http://stuff.notlaura.com/downloads/uipic-extra-practice.zip)** and work through the items in todos-1.txt then todos-2.txt.
+
+</div>

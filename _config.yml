@@ -1,15 +1,15 @@
 # Site settings
-title: UIPIC, Spring 15
+title: UIPIC, Summer 15
 email: lara@notlaura.com
 description: > # this means to ignore newlines until "baseurl:"
   Saturdays 9:30-12:30pm, Room 505<br>
-  February 21 - May 4
-baseurl: "/uipic-spring15" # the subpath of your site, e.g. /blog/
+  May 30 - August 1
+baseurl: "/uipic-summer15" # the subpath of your site, e.g. /blog/
 url: "http://laras126.github.io/" # the base hostname & protocol for your site
 
-class_email: uipic-spring15@googlegroups.com
+class_email: uipic-summer15@googlegroups.com
 class_time: Saturdays 9:30am-12:30pm
-class_dates: 2/21-5/4
+class_dates: 5/30-8/1
 class_location: Room 505
 class_description: Do designers really need to know how to code? In a word...yes. In this course you will learn to create mobile-ready, web prototypes in HTML and CSS. You will understand the overarching structure of web applications and interfaces, and develop the vocabulary necessary to effectively communicate your designs to developers. The class will culminate in creating a prototype of your own design.
 
