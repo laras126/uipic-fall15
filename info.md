@@ -90,16 +90,16 @@ You should start thinking about this immediately - make it something you are pro
 
 ## Grading
 
-Grading is simply based on attendence and completion. Code quality certainly plays a role, but everyone learns at their own pace and the most important part is your participation.
+Grading is essentially pass/fail, though you will get a letter grade. This is simply based on attendence and completion - code quality certainly plays a role, but everyone learns at their own pace and the most important part is your participation.
 
 For full credit, you must:
 
 * Miss no more than 1 class
 * Complete all Assignments by the end of the course
-* Have gone to a meetup
-* Participated in Click-hole presentations and Code Reviews
+* Participated in link sharing and discussions
 * Completed your final project as described above
 
+Blah, blah, blah, just put some work in!
 
 ## Materials
 
