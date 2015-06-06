@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-summer15/</link>
     <atom:link href="http://laras126.github.io//uipic-summer15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 May 2015 11:08:27 -0400</pubDate>
-    <lastBuildDate>Sat, 30 May 2015 11:08:27 -0400</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2015 22:49:52 -0400</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2015 22:49:52 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -660,97 +660,101 @@
       </item>
     
       <item>
-        <title>The New Process</title>
+        <title>Why code?</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;h4 id=&quot;span-classpost-title-prediscussspan-readings&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Readings&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-prediscussspan-readings--links&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Readings + Links&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The difference between front-end languages&lt;/li&gt;
   &lt;li&gt;Websites vs. Webapps&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prelecturespan-the-new-process&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; The New Process&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What was the old process?
+  &lt;li&gt;Any links? Questions?
     &lt;ul&gt;
-      &lt;li&gt;PSD to HTML&lt;/li&gt;
-      &lt;li&gt;No code&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The New Process (different for everyone, this is based on Stephen Hay’s &lt;a href=&quot;http://www.responsivedesignworkflow.com/&quot;&gt;Responsive Design Workflow&lt;/a&gt; and all things &lt;a href=&quot;http://bradfrost.com&quot;&gt;Brad Frost&lt;/a&gt;)
-    &lt;ul&gt;
-      &lt;li&gt;Designing in text
-        &lt;ul&gt;
-          &lt;li&gt;Notes for &lt;a href=&quot;https://github.com/laras126/dijifi-theme/tree/master/_notes&quot;&gt;DiJiFi&lt;/a&gt; and &lt;a href=&quot;https://github.com/laras126/mtnmeister-theme/blob/master/content-list.md&quot;&gt;MTNmeister&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; and creating hierarchy&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Breaking content into components and form a layout systems
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;http://patternlab.io/about.html&quot;&gt;Atomic Design&lt;/a&gt; and templating&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Now the visual design layer (Photoshop, you can come out now)
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;http://styletil.es&quot;&gt;Style Tiles&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;http://danielmall.com/articles/rif-element-collages/&quot;&gt;Element Collages&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;Tools
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;Photoshop/Illustrator/InDesign (ID can be good, encourages typography systems)&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Style guides (developers love these)
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;http://patternlab.io&quot;&gt;Pattern Lab&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;http://styleguides.io&quot;&gt;Styleguides.io&lt;/a&gt;
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;http://rizzo.lonelyplanet.com/styleguide/design-elements/colours&quot;&gt;Lonely Planet&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;http://ux.mailchimp.com/patterns/&quot;&gt;Mailchimp&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A middle ground: Code generators (meh.)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://macaw.co/&quot;&gt;Maccaw&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract&quot;&gt;Adobe’s Project Parfait&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://themagicemail.com/&quot;&gt;Magic Email&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;span-classpost-title-preexercisespan-do-it&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Do it!&lt;/h4&gt;
-
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-what-is-ui-prototyping-in-code&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; What is UI Prototyping in Code?&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;Select a project (could be an existing website or something you are working on)&lt;/li&gt;
-  &lt;li&gt;Create a text list of the information
+  &lt;li&gt;UI vs. UX&lt;/li&gt;
+  &lt;li&gt;Prototyping	
     &lt;ul&gt;
-      &lt;li&gt;Is there a consistency in the type of content across all pages or views? (hint: yes)&lt;/li&gt;
-      &lt;li&gt;How can you group that content, into what kind of modules?&lt;/li&gt;
+      &lt;li&gt;GUI tools: &lt;a href=&quot;http://www.invisionapp.com/&quot;&gt;Invision&lt;/a&gt;, &lt;a href=&quot;http://macaw.co/&quot;&gt;Maccaw&lt;/a&gt;, &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;, &lt;a href=&quot;http://framerjs.com/&quot;&gt;Framer&lt;/a&gt;, &lt;a href=&quot;https://facebook.github.io/origami/&quot;&gt;Oragami&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Why in code?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Turn that list of text into a diagram-ish thing that indicates modules&lt;/li&gt;
+  &lt;li&gt;Look at some sites and interactions:
+    &lt;ul&gt;
+      &lt;li&gt;A look at &lt;a href=&quot;http://instacart.com/store&quot;&gt;Instacart&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Checkout processes: &lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Task Rabbit&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Some real world examples
+    &lt;ul&gt;
+      &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#&quot;&gt;Foodbank prototype&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Bearded’s &lt;a href=&quot;http://aafh-css.herokuapp.com/wireframes&quot;&gt;HTML wires for AAH&lt;/a&gt;, see &lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;this article&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;My &lt;a href=&quot;http://dijifi-wireframes.herokuapp.com&quot;&gt;DiJiFi prototype&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/oip-mockup&quot;&gt;Onlyinpgh&lt;/a&gt; - defunct startup I was in (these were from when gradients were more popular, don’t judge!).&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/mrbottles&quot;&gt;Mr. Bottles&lt;/a&gt; - from an assignment for a site redesign, focus on content.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://nlstage.co/flysolo-wires/&quot;&gt;Flysolo&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Final Projects&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ambikaroos.c9.io/met-app-prototype/index.html&quot;&gt;Ambika Roos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;More soon!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-oh-the-internet&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Oh, the Internet&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not a cloud
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://submarinecablemap.com&quot;&gt;Submarine cable map&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1ex7uTQf4bQ&quot;&gt;Sharks&lt;/a&gt;!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A silly metaphor
+    &lt;ul&gt;
+      &lt;li&gt;Request and response&lt;/li&gt;
+      &lt;li&gt;A bunch of words: IP address, DNS, servers, VPS, hosting, domain names&lt;/li&gt;
+      &lt;li&gt;Browsers are not all created equal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Front-end vs. backend
+    &lt;ul&gt;
+      &lt;li&gt;Separations of concerns, front-end review&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Native apps vs. Webapps&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
 
-&lt;h4 id=&quot;span-classpost-title-predemospan-code-questions&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; Code questions&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-precodespan-start-profile-page&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Code:&lt;/span&gt; Start Profile Page&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Demo any questions, or style a pretty button and form.&lt;/li&gt;
+  &lt;li&gt;Review HTML/CSS concepts
+    &lt;ul&gt;
+      &lt;li&gt;Cascade, specificity&lt;/li&gt;
+      &lt;li&gt;Nesting&lt;/li&gt;
+      &lt;li&gt;Semantics&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Demo normalize&lt;/li&gt;
+  &lt;li&gt;Project file structure and stylesheet
+    &lt;ul&gt;
+      &lt;li&gt;Naming&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-on-process-exercise&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue on Process exercise&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add markup to the page&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;work-time-and-qa&quot;&gt;Work time and Q/A&lt;/h4&gt;
 
 &lt;div class=&quot;post-todos notice&quot;&gt;
 
@@ -759,21 +763,15 @@
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nE0CRMm59BY&quot;&gt;Death to Bullshit&lt;/a&gt; - video, Brad Frost&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/dao&quot;&gt;Dao of Web Design&lt;/a&gt; - from 2000?! This one’s a classic.&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;On Responsive Design, which we will discuss next week:&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-web-design&quot;&gt;Responsive Web Design&lt;/a&gt; - the original article about RWD.&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/web/mobile-first-responsive-web-design/&quot;&gt;Mobile First Responsive Web Design&lt;/a&gt; - how we approach RWD today.&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;Responsive Comping: Obtaining Signoff Without Mockups&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/responsive-strategy/&quot;&gt;Responsive Strategy&lt;/a&gt; - The different options in creating a responsive website.&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
 
-  &lt;p&gt;These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:&lt;/p&gt;
+  &lt;p&gt;Tutorials:&lt;/p&gt;
 
   &lt;ul&gt;
     &lt;li&gt;Lesson 4: &lt;a href=&quot;http://learn.shayhowe.com/html-css/positioning-content/&quot;&gt;Opening the Box Model&lt;/a&gt;&lt;/li&gt;
@@ -785,6 +783,16 @@
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/css-positioning-101&quot;&gt;CSS Positioning 101&lt;/a&gt; - A List Apart&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/all-about-floats/&quot;&gt;All About Floats&lt;/a&gt; - CSS Tricks&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Add a basic layout to the profile page. Maybe have a sidebar with extra info or an image next to some descriptive text. Some examples:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.imdb.com/name/nm0202970/?ref_=nv_sr_1&quot;&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/shibesbot&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://medium.com/@JohnKobs&quot;&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://codepen.io/derekjp/&quot;&gt;CodePen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;…or whatev!&lt;/li&gt;
   &lt;/ul&gt;
 
 &lt;/div&gt;
@@ -834,27 +842,6 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/laras126/class1-uipic-welcome&quot;&gt;Clone this&lt;/a&gt; in Cloud9. We’ll get started together, and go over some basics.&lt;/p&gt;
 
 &lt;h4 id=&quot;break&quot;&gt;Break!&lt;/h4&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prelecturespan-what-is-ui-prototyping-in-code&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; What is UI Prototyping in Code?&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;UI vs. UX&lt;/li&gt;
-  &lt;li&gt;Prototyping&lt;/li&gt;
-  &lt;li&gt;Why in code?
-    &lt;ul&gt;
-      &lt;li&gt;A look at &lt;a href=&quot;http://instacart.com/store&quot;&gt;Instacart&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Check out processes are a good example: &lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Task Rabbit&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Some real world examples
-    &lt;ul&gt;
-      &lt;li&gt;Brad Frost’s &lt;a href=&quot;http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#&quot;&gt;Foodbank prototype&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Bearded’s &lt;a href=&quot;http://aafh-css.herokuapp.com/wireframes&quot;&gt;HTML wires for AAH&lt;/a&gt;, see &lt;a href=&quot;http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups&quot;&gt;this article&lt;/a&gt;.&lt;/li&gt;
-      &lt;li&gt;My &lt;a href=&quot;http://dijifi-wireframes.herokuapp.com&quot;&gt;DiJiFi prototype&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/oip-mockup&quot;&gt;Onlyinpgh&lt;/a&gt; - defunct startup I was in (these were from when gradients were more popular, don’t judge!).&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://stuff.notlaura.com/demos/mrbottles&quot;&gt;Mr. Bottles&lt;/a&gt; - from an assignment for a site redesign, focus on content.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h4 id=&quot;span-classpost-title-preexercisespan-continue-coding-demos&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Continue coding, demos.&lt;/h4&gt;
 

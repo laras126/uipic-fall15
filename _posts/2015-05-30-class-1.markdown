@@ -30,19 +30,6 @@ Sure, you can work from scratch but that's not quite how it works in the real wo
 
 #### Break!
 
-#### <span class="post-title-pre">Lecture:</span> What is UI Prototyping in Code?
-* UI vs. UX
-* Prototyping
-* Why in code?
-	* A look at [Instacart](http://instacart.com/store)
-	* Check out processes are a good example: [Task Rabbit](https://www.taskrabbit.com/)
-* Some real world examples
-	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
-	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
-	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
-	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in (these were from when gradients were more popular, don't judge!).
-	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
-
 #### <span class="post-title-pre">Exercise:</span> Continue coding, demos.
 
 <div class="post-todos notice" markdown="1">

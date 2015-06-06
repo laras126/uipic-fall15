@@ -1,62 +1,71 @@
 ---
 layout: post
 class: 2
-excerpt: "Photoshop isn't dead, we just use it differently. Here's what we do now."
-title:  "The New Process"
+excerpt: "Why prototype in code? And oh, the Internet."
+title:  "Why code?"
 date:   2015-06-06
 categories: class
 ---
 
 ## The Plan
 
-#### <span class="post-title-pre">Discuss:</span> Readings 
+#### <span class="post-title-pre">Discuss:</span> Readings + Links
 	
-* The difference between front-end languages
 * Websites vs. Webapps
+* Any links? Questions?
+	* [Magic Email](http://themagicemail.com/)
+	* 
 
-#### <span class="post-title-pre">Lecture:</span> The New Process
 
-* What was the old process?
-	* PSD to HTML
-	* No code
-* The New Process (different for everyone, this is based on Stephen Hay's [Responsive Design Workflow](http://www.responsivedesignworkflow.com/) and all things [Brad Frost](http://bradfrost.com))
-	* Designing in text
-		* Notes for [DiJiFi](https://github.com/laras126/dijifi-theme/tree/master/_notes	) and [MTNmeister](https://github.com/laras126/mtnmeister-theme/blob/master/content-list.md)
-		* [Markdown](http://daringfireball.net/projects/markdown/syntax) and creating hierarchy
-	* Breaking content into components and form a layout systems
-		* [Atomic Design](http://patternlab.io/about.html) and templating
-	* Now the visual design layer (Photoshop, you can come out now)
-		* [Style Tiles](http://styletil.es)
-		* [Element Collages](http://danielmall.com/articles/rif-element-collages/)
-		* Tools
-			* [Sketch](http://bohemiancoding.com/sketch/)
-			* Photoshop/Illustrator/InDesign (ID can be good, encourages typography systems)
-	* Style guides (developers love these)
-		* [Pattern Lab](http://patternlab.io)
-		* [Styleguides.io](http://styleguides.io)
-			* [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
-			* [Mailchimp](http://ux.mailchimp.com/patterns/)
-* A middle ground: Code generators (meh.)
-	* [Maccaw](http://macaw.co/)
-	* [Adobe's Project Parfait](https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract)
+#### <span class="post-title-pre">Lecture:</span> What is UI Prototyping in Code?
+* UI vs. UX
+* Prototyping	
+	* GUI tools: [Invision](http://www.invisionapp.com/), [Maccaw](http://macaw.co/), [Sketch](http://bohemiancoding.com/sketch/), [Framer](http://framerjs.com/), [Oragami](https://facebook.github.io/origami/)
+	* Why in code?
+* Look at some sites and interactions:
+	* A look at [Instacart](http://instacart.com/store)
+	* Checkout processes: [Task Rabbit](https://www.taskrabbit.com/)
+	* 
+* Some real world examples
+	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
+	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
+	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
+	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in (these were from when gradients were more popular, don't judge!).
+	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
+	* [Flysolo](http://nlstage.co/flysolo-wires/)
 
-#### <span class="post-title-pre">Exercise:</span> Do it!
+Final Projects
 
-* Select a project (could be an existing website or something you are working on)
-* Create a text list of the information
-	* Is there a consistency in the type of content across all pages or views? (hint: yes)
-	* How can you group that content, into what kind of modules?
-* Turn that list of text into a diagram-ish thing that indicates modules
+* [Ambika Roos](https://ambikaroos.c9.io/met-app-prototype/index.html)
+* More soon!
+
+#### <span class="post-title-pre">Lecture:</span> Oh, the Internet
+
+* Not a cloud
+	* [Submarine cable map](http://submarinecablemap.com)
+	* [Sharks](https://www.youtube.com/watch?v=1ex7uTQf4bQ)!
+* A silly metaphor
+	* Request and response
+	* A bunch of words: IP address, DNS, servers, VPS, hosting, domain names
+	* Browsers are not all created equal
+* Front-end vs. backend
+	* Separations of concerns, front-end review
+* Native apps vs. Webapps
 
 #### Break
 
-#### <span class="post-title-pre">Demo:</span> Code questions
+#### <span class="post-title-pre">Code:</span> Start Profile Page 
 
-* Demo any questions, or style a pretty button and form.
+* Review HTML/CSS concepts
+	* Cascade, specificity
+	* Nesting
+	* Semantics
+* Demo normalize
+* Project file structure and stylesheet
+	* Naming
 
-#### <span class="post-title-pre">Exercise:</span> Continue on Process exercise
+#### Work time and Q/A
 
-* Add markup to the page
 
 <div class="post-todos notice" markdown="1">
 
@@ -64,19 +73,14 @@ categories: class
 
 #### Readings:
 
+* [Death to Bullshit](https://www.youtube.com/watch?v=nE0CRMm59BY) - video, Brad Frost
 * [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
-
-On Responsive Design, which we will discuss next week:
-
-* [Responsive Web Design](http://alistapart.com/article/responsive-web-design) - the original article about RWD.
 * [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - how we approach RWD today.
-* [Responsive Comping: Obtaining Signoff Without Mockups](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups)
 * [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) - The different options in creating a responsive website.
-
 
 #### To do:
 
-These concepts are super important and hard to grasp, so try to read thoroughly and bring questions:
+Tutorials:
 
 * Lesson 4: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
 * Lesson 5: [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
@@ -85,6 +89,14 @@ If you need more clarification:
 
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101) - A List Apart
 * [All About Floats](https://css-tricks.com/all-about-floats/) - CSS Tricks
+
+Add a basic layout to the profile page. Maybe have a sidebar with extra info or an image next to some descriptive text. Some examples:
+
+* [IMDB](http://www.imdb.com/name/nm0202970/?ref_=nv_sr_1)
+* [Twitter](https://twitter.com/shibesbot)
+* [Medium](https://medium.com/@JohnKobs)
+* [CodePen](http://codepen.io/derekjp/)
+* ...or whatev!
 
 </div>
 
