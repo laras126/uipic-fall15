@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-summer15/</link>
     <atom:link href="http://laras126.github.io//uipic-summer15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2015 09:32:01 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2015 09:32:01 -0400</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2015 17:54:39 -0400</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 17:54:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -385,40 +385,9 @@
 
 &lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
 
-&lt;h4 id=&quot;span-classpost-title-pretogetherspan-foundationhttpfoundationzurbcom&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;What’s the difference?&lt;/li&gt;
-  &lt;li&gt;A look at the grid&lt;/li&gt;
-  &lt;li&gt;Download and set up for customizing
-    &lt;ul&gt;
-      &lt;li&gt;A look at &lt;a href=&quot;http://foundation.zurb.com/templates.html&quot;&gt;Foundation templates&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Install the Sublime package ‘HTMLBeautify’ if you like (template markup is messy when you download it)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Define Sass and Less&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prepairspan-same-as-above&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; Same as above!&lt;/h4&gt;
-
-&lt;p&gt;Again, feel free to design on your own, or work through the following (basically same as above so you can compare):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Create a contact form&lt;/li&gt;
-  &lt;li&gt;Change some form styles:
-    &lt;ul&gt;
-      &lt;li&gt;Round the corners of inputs&lt;/li&gt;
-      &lt;li&gt;Change the background color of the box when it is selected i.e. in focus&lt;/li&gt;
-      &lt;li&gt;Make the labels all uppercase&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create a thumbnail gallery&lt;/li&gt;
-  &lt;li&gt;Use a &lt;a href=&quot;http://zurb.com/building-blocks/&quot;&gt;Building Block&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Create an &lt;a href=&quot;http://foundation.zurb.com/docs/components/icon-bar.html&quot;&gt;icon bar&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Bonus: Make that stick to the bottom of the page&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://preview.c9.io/ambikaroos/met-app-prototype/index.html&quot;&gt;Example from last class&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
@@ -449,101 +418,11 @@
     &lt;li&gt;Also keep an eye out for clearfixes&lt;/li&gt;
   &lt;/ul&gt;
 
-  &lt;p&gt;And if you want extra practice (optional):&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://stuff.notlaura.com/downloads/uipic-extra-practice.zip&quot;&gt;Download these files&lt;/a&gt;&lt;/strong&gt; and work through the items in todos-1.txt then todos-2.txt.&lt;/li&gt;
-  &lt;/ul&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 04 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/04/class-5.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/04/class-5.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Work time and Code Demos</title>
-        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prediscussspan-reading&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Reading&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Does everyone need to code? We touched on this the first class, but let’s delve a little deeper.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Anyone want to show their app?&lt;/p&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prelecturespan-lets-talk-floats&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Let’s talk floats&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How was the exercise?&lt;/li&gt;
-  &lt;li&gt;Discuss floats and CSS layouts…confusing, huh?&lt;/li&gt;
-  &lt;li&gt;Demo&lt;/li&gt;
-  &lt;li&gt;Start exercise together&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prepairspan-work-on-exercise&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; Work on exercise&lt;/h4&gt;
-
-&lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
-
-&lt;h4 id=&quot;span-classpost-title-pretogetherspan-qa--demos&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Q/A + Demos&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If one of you know the answer, you can explain it!&lt;/li&gt;
-  &lt;li&gt;Revisit app and expand on layout and styles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-preif-timespan-continue-working&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;If time:&lt;/span&gt; Continue working&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Either on layout exercise or app&lt;/li&gt;
-  &lt;li&gt;Lara available for 1-on-1 Q/A &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;notice post-todos&quot;&gt;
-
-  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
-
-  &lt;h4 id=&quot;tutorials-do-these-first&quot;&gt;Tutorials (do these first):&lt;/h4&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Watch these:
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zJ78W_kdmCA&quot;&gt;CSS Frameworks&lt;/a&gt; - lynda.com teaser&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0IrWRuEyXYA&quot;&gt;What is a grid?&lt;/a&gt; - another lynda.com teaser&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/bootstrap/default.asp&quot;&gt;Bootstrap tutorial on W3Schools&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Glance through everything, particularly the &lt;a href=&quot;http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp&quot;&gt;BS Grid System section&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://www.webdesignerdepot.com/2013/11/how-to-get-started-with-foundation-5/&quot;&gt;Foundation tutorial&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;h4 id=&quot;readings-read-these-second&quot;&gt;Readings (read these second):&lt;/h4&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap&quot;&gt;Please Stop Using Twitter Bootstrap&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework&quot;&gt;Pros and Cons of Using Frameworks&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Add a paragraph description of your final project to &lt;a href=&quot;https://docs.google.com/document/d/19j7mzm6Dojryt2j8mX6MZLa5VQwiGvXgHREGMGFaOc4/edit?usp=sharing&quot;&gt;this Google Doc&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/06/27/class-4.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/06/27/class-4.html</guid>
+        <link>http://laras126.github.io//uipic-summer15/class/2015/06/27/class-5.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/06/27/class-5.html</guid>
         
         
         <category>class</category>
@@ -598,35 +477,32 @@
 
 &lt;h3 id=&quot;afternoon&quot;&gt;Afternoon&lt;/h3&gt;
 
-&lt;h4 id=&quot;span-classpost-title-prediscussspan-final-projects&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Final Projects&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://preview.c9.io/ambikaroos/met-app-prototype/index.html&quot;&gt;Example from last class&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-pretogetherspan-lets-make-one&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Let’s make one!&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prototype an app &lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;span-classpost-title-prediscussspan-grids&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Grids!&lt;/h4&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
 
   &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
 
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
-
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zJ78W_kdmCA&quot;&gt;CSS Frameworks&lt;/a&gt; - lynda.com teaser&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap&quot;&gt;Please Stop Using Twitter Bootstrap&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework&quot;&gt;Pros and Cons of Using Frameworks&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;https://adactio.com/journal/9016&quot;&gt;Web! What is it good for?&lt;/a&gt; - Jeremy Keith&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://blog.codinghorror.com/please-dont-learn-to-code/&quot;&gt;Please Don’t Learn to Code&lt;/a&gt; - huh.&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
-
   &lt;ul&gt;
-    &lt;li&gt;Finish the &lt;/li&gt;
-    &lt;li&gt;Write a paragraph about your final project (can be changed)&lt;/li&gt;
+    &lt;li&gt;Work through any tutorials you are behind on. Then:
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/building-forms/&quot;&gt;Building Forms&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/writing-your-best-code/&quot;&gt;Writing Your Best Code&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Add your final project ideas to &lt;a href=&quot;https://docs.google.com/document/d/1in3A5zMbRq5yNaXs8scPhyCDxzErUHrbwD6xHZYq970/edit?usp=sharing&quot;&gt;this Google Doc&lt;/a&gt;. They don’t have to be final! We’ll discuss next week.&lt;/li&gt;
   &lt;/ul&gt;
+
+  &lt;p&gt;Finally, if you’d like extra practice, &lt;strong&gt;&lt;a href=&quot;https://github.com/laras126/extra-practice-html-css&quot;&gt;see this exercise&lt;/a&gt;&lt;/strong&gt;. There are instructions further down the page below the file listing.&lt;/p&gt;
 
 &lt;/div&gt;
 </description>

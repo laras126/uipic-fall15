@@ -43,12 +43,7 @@ categories: class
 
 ### Afternoon
 
-#### <span class="post-title-pre">Discuss:</span> Final Projects
-* [Example from last class](https://preview.c9.io/ambikaroos/met-app-prototype/index.html)
-
-#### <span class="post-title-pre">Together:</span> Let's make one!
-
-* Prototype an app 
+#### <span class="post-title-pre">Discuss:</span> Grids!
 
 
 <div class="notice post-todos" markdown="1">
@@ -56,15 +51,17 @@ categories: class
 ### For Next Time
 
 #### Readings:
-
+* [CSS Frameworks](https://www.youtube.com/watch?v=zJ78W_kdmCA) - lynda.com teaser
+* [Please Stop Using Twitter Bootstrap](http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap)
+* [Pros and Cons of Using Frameworks](http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework)
 * [Web! What is it good for?](https://adactio.com/journal/9016) - Jeremy Keith
-* [Please Don't Learn to Code](http://blog.codinghorror.com/please-dont-learn-to-code/) - huh.
-* 
 
 #### To do:
+* Work through any tutorials you are behind on. Then:
+	* [Building Forms](http://learn.shayhowe.com/html-css/building-forms/)
+	* [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+* Add your final project ideas to [this Google Doc](https://docs.google.com/document/d/1in3A5zMbRq5yNaXs8scPhyCDxzErUHrbwD6xHZYq970/edit?usp=sharing). They don't have to be final! We'll discuss next week.
 
-* Finish the 
-* Write a paragraph about your final project (can be changed)
-
+Finally, if you'd like extra practice, **[see this exercise](https://github.com/laras126/extra-practice-html-css)**. There are instructions further down the page below the file listing.
 
 </div>

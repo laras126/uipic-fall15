@@ -3,7 +3,7 @@ layout: post
 class: 5
 excerpt: "Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare. Lots of practice using the Inspector."
 title:  "Frameworks"
-date:   2015-07-04
+date:   2015-06-27
 categories: class
 ---
 
@@ -43,28 +43,9 @@ You can design freely or work from the following:
 
 #### Break
 
-#### <span class="post-title-pre">Together:</span> [Foundation](http://foundation.zurb.com/)
+#### Final Projects
+* [Example from last class](https://preview.c9.io/ambikaroos/met-app-prototype/index.html)
 
-* What's the difference?
-* A look at the grid
-* Download and set up for customizing
-	* A look at [Foundation templates](http://foundation.zurb.com/templates.html)
-	* Install the Sublime package 'HTMLBeautify' if you like (template markup is messy when you download it)
-* Define Sass and Less
-
-#### <span class="post-title-pre">Pair:</span> Same as above!
-
-Again, feel free to design on your own, or work through the following (basically same as above so you can compare):
-
-* Create a contact form
-* Change some form styles:
-	* Round the corners of inputs
-	* Change the background color of the box when it is selected i.e. in focus
-	* Make the labels all uppercase
-* Create a thumbnail gallery
-* Use a [Building Block](http://zurb.com/building-blocks/)
-* Create an [icon bar](http://foundation.zurb.com/docs/components/icon-bar.html)
-	* Bonus: Make that stick to the bottom of the page
 
 
 <div class="notice post-todos" markdown="1">
@@ -88,9 +69,5 @@ Find a website using Bootstrap or Foundation (not from their examples page) - se
 
 * In other words, get used to inspecting the hell out of websites
 * Also keep an eye out for clearfixes
-
-And if you want extra practice (optional):
-
-* **[Download these files](http://stuff.notlaura.com/downloads/uipic-extra-practice.zip)** and work through the items in todos-1.txt then todos-2.txt.
 
 </div>
