@@ -9,44 +9,30 @@ categories: class
 
 ## The Plan
 
-* Look at links
+* Look at links/news
 * Discuss this tweet:
 
 <blockquote class="twitter-tweet" lang="en"><p>Two CSS properties walk into a bar.&#10;&#10;A barstool in a completely different bar falls over.</p>&mdash; Thomas Fuchs (@thomasfuchs) <a href="https://twitter.com/thomasfuchs/status/493790680397803521">July 28, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### <span class="post-title-pre">Discuss:</span> Readings 
-	
-* How do these relate back to prototyping?
-* How about that weird text stuff we did last week?
 
-#### <span class="post-title-pre">Lecture:</span> About Apps
 
-* Native vs. Web vs. Webapp
-* Advantages/disadvantages
+#### <span class="post-title-pre">Code:</span> Profile Pages
 
-#### <span class="post-title-pre">Together:</span> Prototype
-
-* About environments
-	* We'll be using [Cloud9](http://c9.io), Sublime is still relevant!
-	* Introduce Git and Github
-* Look at existing text (clone in Cloud9 workspace: git@github.com:laras126/webapp-exercise.git)
-	* Emphasize mobile first/device agnostic design, turning an mobile app into a website or webapp
-	* Create pages for views
-* Plan a component system
-	* Add markup
-	* What might our classes be called?
-	* Where would we use wrappers for a layout?
-	* Review difference between classes and IDs
-* Add wrapper tags for components
+* Look at progress
+* Q/A, demos
+* Discuss floats and positioning
+* Review if needed 
 
 ####  Break
 
-#### <span class="post-title-pre">Together:</span> Review-ish
+#### <span class="post-title-pre">Lecture:</span> Responsive Design
 
-* Check-in - how are the tutorials going? Easy or overwhelming?
-* Floats and clearfixing
-* Mobile first, introduce media queries 
+* Discuss Brad Frost readings
+* Mobile First
+* What makes a site responsive?
+* Media Queries
 
 #### <span class="post-title-pre">Together:</span> Prototype
 
