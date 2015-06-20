@@ -14,8 +14,6 @@ categories: class
 * Websites vs. Webapps
 * Any links? Questions?
 	* [Magic Email](http://themagicemail.com/)
-	* 
-
 
 #### <span class="post-title-pre">Lecture:</span> What is UI Prototyping in Code?
 * UI vs. UX
@@ -25,7 +23,6 @@ categories: class
 * Look at some sites and interactions:
 	* A look at [Instacart](http://instacart.com/store)
 	* Checkout processes: [Task Rabbit](https://www.taskrabbit.com/)
-	* 
 * Some real world examples
 	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
 	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).

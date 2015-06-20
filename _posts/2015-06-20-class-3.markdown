@@ -1,8 +1,8 @@
 ---
 layout: post
-class: 3
-excerpt: "Code a protoype! Introduce environments and layout."
-title:  "Let's make something!"
+class: 3+4
+excerpt: "Floats, clearfixin', oh my. Responsive design is cool."
+title:  "Responsive Design + Work time"
 date:   2015-06-20
 categories: class
 ---
@@ -17,33 +17,39 @@ categories: class
 
 #### <span class="post-title-pre">Discuss:</span> Readings 
 
+* Talk about the nature/future of the web
+* Discuss Brad Frost readings
+* Mobile First
+* What makes a site responsive?
+* Importance of performance and content
+* Website vs. webapp (again).
 
 #### <span class="post-title-pre">Code:</span> Profile Pages
 
 * Look at progress
 * Q/A, demos
+	* Add/talk about Media Queries
 * Discuss floats and positioning
 * Review if needed 
 
 ####  Break
 
-#### <span class="post-title-pre">Lecture:</span> Responsive Design
+#### <span class="post-title-pre">Exercise:</span> Floats
 
-* Discuss Brad Frost readings
-* Mobile First
-* What makes a site responsive?
-* Media Queries
+* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
 
-#### <span class="post-title-pre">Together:</span> Prototype
+![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
 
-* Add some layout in larger sizes inside media queries (already in stylesheet)
-* Add stuff in head to remove URL bar and add touch icon
-* View and add to homescreen on your phone!
 
-#### <span class="post-title-pre">Pair:</span> If extra time
+### Afternoon
 
-* Continue with adding layout
-* Add another page to the app
+#### <span class="post-title-pre">Discuss:</span> Final Projects
+* [Example from last class](https://preview.c9.io/ambikaroos/met-app-prototype/index.html)
+
+#### <span class="post-title-pre">Together:</span> Let's make one!
+
+* Prototype an app 
+
 
 <div class="notice post-todos" markdown="1">
 
@@ -51,15 +57,14 @@ categories: class
 
 #### Readings:
 
+* [Web! What is it good for?](https://adactio.com/journal/9016) - Jeremy Keith
 * [Please Don't Learn to Code](http://blog.codinghorror.com/please-dont-learn-to-code/) - huh.
+* 
 
 #### To do:
 
-* Post a code question to Disqus on [the next class page]({{ "/class/2015/03/14/class-4.html" | prepend: site.baseurl }})
-* Feedback questionnaire (will email the link)
-* Add another page to the app and email to me for feedback (optional)
-* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
+* Finish the 
+* Write a paragraph about your final project (can be changed)
 
-![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
 
 </div>

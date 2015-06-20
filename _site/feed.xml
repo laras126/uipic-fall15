@@ -6,8 +6,8 @@
 </description>
     <link>http://laras126.github.io//uipic-summer15/</link>
     <atom:link href="http://laras126.github.io//uipic-summer15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2015 08:27:58 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2015 08:27:58 -0400</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2015 09:32:01 -0400</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 09:32:01 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -551,7 +551,7 @@
       </item>
     
       <item>
-        <title>Let&#39;s make something!</title>
+        <title>Responsive Design + Work time</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -564,39 +564,49 @@
 
 &lt;h4 id=&quot;span-classpost-title-prediscussspan-readings&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Readings&lt;/h4&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Talk about the nature/future of the web&lt;/li&gt;
+  &lt;li&gt;Discuss Brad Frost readings&lt;/li&gt;
+  &lt;li&gt;Mobile First&lt;/li&gt;
+  &lt;li&gt;What makes a site responsive?&lt;/li&gt;
+  &lt;li&gt;Importance of performance and content&lt;/li&gt;
+  &lt;li&gt;Website vs. webapp (again).&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h4 id=&quot;span-classpost-title-precodespan-profile-pages&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Code:&lt;/span&gt; Profile Pages&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Look at progress&lt;/li&gt;
-  &lt;li&gt;Q/A, demos&lt;/li&gt;
+  &lt;li&gt;Q/A, demos
+    &lt;ul&gt;
+      &lt;li&gt;Add/talk about Media Queries&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Discuss floats and positioning&lt;/li&gt;
   &lt;li&gt;Review if needed &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
 
-&lt;h4 id=&quot;span-classpost-title-prelecturespan-responsive-design&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Responsive Design&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-preexercisespan-floats&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Exercise:&lt;/span&gt; Floats&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Discuss Brad Frost readings&lt;/li&gt;
-  &lt;li&gt;Mobile First&lt;/li&gt;
-  &lt;li&gt;What makes a site responsive?&lt;/li&gt;
-  &lt;li&gt;Media Queries&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recreate this layout and email me a zipped file&lt;/strong&gt;, &lt;a href=&quot;http://stuff.notlaura.com/downloads/layout-exercise.zip&quot;&gt;starter files here&lt;/a&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;span-classpost-title-pretogetherspan-prototype&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Prototype&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/uipic-summer15/img/layout-exercise.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
 
+&lt;h3 id=&quot;afternoon&quot;&gt;Afternoon&lt;/h3&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prediscussspan-final-projects&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Final Projects&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;Add some layout in larger sizes inside media queries (already in stylesheet)&lt;/li&gt;
-  &lt;li&gt;Add stuff in head to remove URL bar and add touch icon&lt;/li&gt;
-  &lt;li&gt;View and add to homescreen on your phone!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://preview.c9.io/ambikaroos/met-app-prototype/index.html&quot;&gt;Example from last class&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;span-classpost-title-prepairspan-if-extra-time&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Pair:&lt;/span&gt; If extra time&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-lets-make-one&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Let’s make one!&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Continue with adding layout&lt;/li&gt;
-  &lt;li&gt;Add another page to the app&lt;/li&gt;
+  &lt;li&gt;Prototype an app &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
@@ -606,19 +616,17 @@
   &lt;h4 id=&quot;readings&quot;&gt;Readings:&lt;/h4&gt;
 
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://adactio.com/journal/9016&quot;&gt;Web! What is it good for?&lt;/a&gt; - Jeremy Keith&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://blog.codinghorror.com/please-dont-learn-to-code/&quot;&gt;Please Don’t Learn to Code&lt;/a&gt; - huh.&lt;/li&gt;
+    &lt;li&gt;&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h4 id=&quot;to-do&quot;&gt;To do:&lt;/h4&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;Post a code question to Disqus on &lt;a href=&quot;/uipic-summer15/class/2015/03/14/class-4.html&quot;&gt;the next class page&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Feedback questionnaire (will email the link)&lt;/li&gt;
-    &lt;li&gt;Add another page to the app and email to me for feedback (optional)&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Recreate this layout and email me a zipped file&lt;/strong&gt;, &lt;a href=&quot;http://stuff.notlaura.com/downloads/layout-exercise.zip&quot;&gt;starter files here&lt;/a&gt;:&lt;/li&gt;
+    &lt;li&gt;Finish the &lt;/li&gt;
+    &lt;li&gt;Write a paragraph about your final project (can be changed)&lt;/li&gt;
   &lt;/ul&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/uipic-summer15/img/layout-exercise.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 </description>
@@ -642,7 +650,6 @@
   &lt;li&gt;Any links? Questions?
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://themagicemail.com/&quot;&gt;Magic Email&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -660,7 +667,6 @@
     &lt;ul&gt;
       &lt;li&gt;A look at &lt;a href=&quot;http://instacart.com/store&quot;&gt;Instacart&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Checkout processes: &lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Task Rabbit&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Some real world examples
