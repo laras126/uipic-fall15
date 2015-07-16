@@ -6,35 +6,9 @@
 </description>
     <link>http://laras126.github.io//uipic-summer15/</link>
     <atom:link href="http://laras126.github.io//uipic-summer15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2015 17:54:39 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2015 17:54:39 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2015 08:50:31 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2015 08:50:31 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Present Projects + Next Steps</title>
-        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
-
-&lt;h4 id=&quot;work-time&quot;&gt;Work time&lt;/h4&gt;
-
-&lt;p&gt;We can have a an hour or so of work time beforehand if you like. I’ll bring cookies or something.&lt;/p&gt;
-
-&lt;h4 id=&quot;show-off-your-prototypes&quot;&gt;Show off your prototypes!&lt;/h4&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prediscussspan-next-steps&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Next Steps&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How will this apply to your current work? &lt;/li&gt;
-  &lt;li&gt;What to do to keep learning&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 08 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/08/08/class-10.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/08/08/class-10.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
     
       <item>
         <title>Work Time/Q &amp; A</title>
@@ -53,8 +27,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/08/01/class-9.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/08/01/class-9.html</guid>
+        <link>http://laras126.github.io//uipic-summer15/class/2015/08/01/class-10.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/08/01/class-10.html</guid>
         
         
         <category>class</category>
@@ -160,8 +134,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 25 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/25/class-8.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/25/class-8.html</guid>
+        <link>http://laras126.github.io//uipic-summer15/class/2015/07/25/class-9.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/25/class-9.html</guid>
         
         
         <category>class</category>
@@ -169,7 +143,7 @@
       </item>
     
       <item>
-        <title>Final Projects + Templating</title>
+        <title>Templating</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
 &lt;h4 id=&quot;span-classpost-title-prefinal-projectsspan-work-time-and-discuss&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Final Projects:&lt;/span&gt; Work Time and Discuss&lt;/h4&gt;
@@ -217,17 +191,11 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;span-classpost-title-pretogetherspan-handlebars-templating&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; Handlebars templating&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-predemospan-handlebars-templating&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; Handlebars templating&lt;/h4&gt;
 
-&lt;p&gt;Create a new workspace in Cloud9 and clone the project with this link: https://github.com/laras126/handlebars-starter. You can use this for your final project. Recommended, not required if you’d rather use plain HTML.&lt;/p&gt;
+&lt;h4 id=&quot;span-classpost-title-pretogetherspan-php-includes&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Together:&lt;/span&gt; PHP includes&lt;/h4&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;What’s happening on the server (PHP includes) vs. client (JS)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-prework-timespan-create-templates-for-final-project&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Work time:&lt;/span&gt; Create templates for final project&lt;/h4&gt;
-
-&lt;p&gt;With or without templating kit.&lt;/p&gt;
+&lt;p&gt;Separate your header and footer code into separate files.&lt;/p&gt;
 
 &lt;div class=&quot;notice post-todos&quot;&gt;
 
@@ -236,8 +204,48 @@
   &lt;h4 id=&quot;todo&quot;&gt;Todo:&lt;/h4&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;Have all pages and files created for final project. Plan out markup and begin styling, have all content and graphic assets ready to go.&lt;/li&gt;
-    &lt;li&gt;Find a meet-up to go to! (or just come to &lt;a href=&quot;https://nvite.com/CodePenMeetupNYC/ed55&quot;&gt;the one on the 20th&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;Keep working!&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 18 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-summer15/class/2015/07/18/class-8.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/18/class-8.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Make Up Class + jQuery</title>
+        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prefinal-projectsspan-work-time-and-discuss&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Final Projects:&lt;/span&gt; Work Time and Discuss&lt;/h4&gt;
+
+&lt;p&gt;For the first half of class, I’ll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.&lt;/p&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prelecturespan-jquery&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; jQuery&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Discuss fundamental programming concepts&lt;/li&gt;
+  &lt;li&gt;What is jQuery and what does it do?&lt;/li&gt;
+  &lt;li&gt;Basic syntax&lt;/li&gt;
+  &lt;li&gt;Snow White demo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;span-classpost-title-prework-timespan&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Work time&lt;/span&gt;&lt;/h4&gt;
+
+&lt;div class=&quot;notice post-todos&quot;&gt;
+
+  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
+
+  &lt;h4 id=&quot;todo&quot;&gt;Todo:&lt;/h4&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Bring any Final Project questions&lt;/li&gt;
+    &lt;li&gt;Work through the &lt;a href=&quot;https://github.com/laras126/jquery_exercise&quot;&gt;jQuery extra practice&lt;/a&gt; tasks if you like&lt;/li&gt;
   &lt;/ul&gt;
 
 &lt;/div&gt;
