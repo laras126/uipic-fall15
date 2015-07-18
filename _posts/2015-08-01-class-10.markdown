@@ -2,18 +2,10 @@
 layout: post
 class: 9
 excerpt: "..."
-title:  "Work Time/Q & A"
+title:  "Work Time/Show & Tell!"
 date:   2015-08-01
 categories: class
 ---
 ## The Plan
 
-Work on final projects and demo any questions. I'll be available for 1-on-1 support and to clarify any problems.
-
-<div class="notice post-todos" markdown="1">
-### For Next Time
-
-* Final projects live on Cloud9 and available as downloadable app via "Save to Homescreen".
-* Prepare to informally present app to class.
-
-</div>
+Last class! Show off what you've been working on!

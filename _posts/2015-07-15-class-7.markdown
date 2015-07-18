@@ -3,7 +3,7 @@ layout: post
 class: 7
 title: "Make Up Class + jQuery"
 excerpt: "Work time and go through jQuery concepts."
-date:   2015-07-18
+date:   2015-07-15
 categories: class
 ---
 

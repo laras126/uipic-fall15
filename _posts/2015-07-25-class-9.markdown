@@ -2,7 +2,7 @@
 layout: post
 class: 8
 excerpt: "Form functionality and types of inputs. Demo a jQuery plugin."
-title:  "Forms and States + jQuery plugin"
+title:  "Forms and States"
 date:   2015-07-25
 categories: class
 ---
