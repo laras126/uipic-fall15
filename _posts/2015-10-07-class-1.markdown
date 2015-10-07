@@ -1,0 +1,52 @@
+---
+layout: post
+class: 1
+excerpt: "Let's meet each other, go over the class plan, some expectations and logistics, then get our hands into some code. Why wait? And of course we'll talk about this whole 'Prototyping in Code' concept. Then we'll make our first, well, prototype!"
+title:  "Welcome!"
+date:   2015-10-07
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Lecture:</span> Intros, Syllabus, and whatnot
+* Hi!
+* Teaching Approach
+	* Sponge-mode
+	* Self teaching, tutorials
+	* Pair programming
+* Syllabus and stuff
+	* This site, what we’ll cover
+	* Course work (read through info page)
+	* Grading
+* Get set up with Cloud9
+	* Introduction to the text editor, previewing, etc.
+
+#### <span class="post-title-pre">Exercise:</span> Code!
+
+Sure, you can work from scratch but that's not quite how it works in the real world. Let's introduce some code through this starter kit.
+
+[Clone this](https://github.com/laras126/class1-uipic-welcome) in Cloud9. We'll get started together, and go over some basics.
+
+#### Break!
+
+#### <span class="post-title-pre">Exercise:</span> Continue coding, demos.
+
+<div class="post-todos notice" markdown="1">
+### For Next Time...
+
+#### Readings:
+
+* [Why You Should Include Your Developer in the Design Process](http://www.smashingmagazine.com/2014/11/21/why-you-should-include-your-developer-in-the-design-process/)
+* [Websites vs. Webapps](http://css-tricks.com/poll-results-sites-vs-apps/) - CSS-Tricks
+* [Not a Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes) - Don't Fear The Internet (video)
+
+#### To do:
+
+* [Lesson 1: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (review tutorial, optional)
+* [Lesson 2: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+* [Lesson 3: Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
+* Look through [the Links section]({{site.baseurl}}/links/) of this site and, if you like, install the various software on your own computers.
+* Continue working on the prototype from class
+
+</div>

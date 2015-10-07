@@ -1,0 +1,36 @@
+---
+layout: post
+class: 7
+title: "Make Up Class + jQuery"
+excerpt: "Work time and go through jQuery concepts."
+date:   2015-11-11
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Final Projects:</span> Work Time and Discuss
+
+For the first half of class, I'll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.
+
+#### <span class="post-title-pre">Lecture:</span> jQuery
+
+* Discuss fundamental programming concepts
+* What is jQuery and what does it do?
+* Basic syntax
+* Snow White demo
+
+#### <span class="post-title-pre">Work time</span>
+
+
+<div class="notice post-todos" markdown="1">
+
+### For Next Time
+
+#### Todo:
+
+* Bring any Final Project questions
+* Work through the [jQuery extra practice](https://github.com/laras126/jquery_exercise) tasks if you like
+
+
+</div>

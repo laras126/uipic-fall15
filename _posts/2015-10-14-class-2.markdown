@@ -1,0 +1,98 @@
+---
+layout: post
+class: 2
+excerpt: "Why prototype in code? And oh, the Internet."
+title:  "Why code?"
+date:   2015-10-14
+categories: class
+---
+
+## The Plan
+
+#### <span class="post-title-pre">Discuss:</span> Readings + Links
+	
+* Websites vs. Webapps / the Web as a "platform"
+* Links and questions
+
+#### <span class="post-title-pre">Lecture:</span> What is UI Prototyping in Code?
+* UI vs. UX
+* Prototyping	
+	* GUI tools: [Invision](http://www.invisionapp.com/), [Maccaw](http://macaw.co/), [Sketch](http://bohemiancoding.com/sketch/), [Framer](http://framerjs.com/), [Oragami](https://facebook.github.io/origami/)
+	* Why in code?
+* Look at some sites and interactions:
+	* A look at [Instacart](http://instacart.com/store)
+	* Checkout processes: [Task Rabbit](https://www.taskrabbit.com/)
+* Some real world examples
+	* Brad Frost's [Foodbank prototype](http://foodbank.bradfrostweb.com/patternlab/v3/patterns/03-templates-03-program-detail/03-templates-03-program-detail.html#)
+	* Bearded's [HTML wires for AAH](http://aafh-css.herokuapp.com/wireframes), see [this article](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups).
+	* My [DiJiFi prototype](http://dijifi-wireframes.herokuapp.com)
+	* [Onlyinpgh](http://stuff.notlaura.com/demos/oip-mockup) - defunct startup I was in (these were from when gradients were more popular, don't judge!).
+	* [Mr. Bottles](http://stuff.notlaura.com/demos/mrbottles) - from an assignment for a site redesign, focus on content.
+	* [Flysolo](http://nlstage.co/flysolo-wires/)
+
+Final Projects
+
+* [Ambika Roos](https://ambikaroos.c9.io/met-app-prototype/index.html)
+* More soon!
+
+#### <span class="post-title-pre">Lecture:</span> Oh, the Internet
+
+* Not a cloud
+	* [Submarine cable map](http://submarinecablemap.com)
+	* [Sharks](https://www.youtube.com/watch?v=1ex7uTQf4bQ)!
+* A silly metaphor
+	* Request and response
+	* A bunch of words: IP address, DNS, servers, VPS, hosting, domain names
+	* Browsers are not all created equal
+* Front-end vs. backend
+	* Separations of concerns, front-end review
+* Native apps vs. Webapps
+
+#### Break
+
+#### <span class="post-title-pre">Code:</span> Start Profile Page 
+
+* Review HTML/CSS concepts
+	* Cascade, specificity
+	* Nesting
+	* Semantics
+* Demo normalize
+* Project file structure and stylesheet
+	* Naming
+
+#### Work time and Q/A
+
+
+<div class="post-todos notice" markdown="1">
+
+### For Next Time
+
+#### Readings:
+
+* [Death to Bullshit](https://www.youtube.com/watch?v=nE0CRMm59BY) - video, Brad Frost
+* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
+* [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - how we approach RWD today.
+* [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) - The different options in creating a responsive website.
+
+#### To do:
+
+Tutorials:
+
+* Lesson 4: [Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
+* Lesson 5: [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
+
+If you need more clarification:
+
+* [CSS Positioning 101](http://alistapart.com/article/css-positioning-101) - A List Apart
+* [All About Floats](https://css-tricks.com/all-about-floats/) - CSS Tricks
+
+Add a basic layout to the profile page. Maybe have a sidebar with extra info or an image next to some descriptive text. Some examples:
+
+* [IMDB](http://www.imdb.com/name/nm0202970/?ref_=nv_sr_1)
+* [Twitter](https://twitter.com/shibesbot)
+* [Medium](https://medium.com/@JohnKobs)
+* [CodePen](http://codepen.io/derekjp/)
+* ...or whatev!
+
+</div>
+

@@ -1,0 +1,67 @@
+---
+layout: post
+class: 3+4
+excerpt: "Floats, clearfixin', oh my. Responsive design is cool."
+title:  "Responsive Design + Work time"
+date:   2015-10-21
+categories: class
+---
+
+## The Plan
+
+* Look at links/news
+* Discuss this tweet:
+
+<blockquote class="twitter-tweet" lang="en"><p>Two CSS properties walk into a bar.&#10;&#10;A barstool in a completely different bar falls over.</p>&mdash; Thomas Fuchs (@thomasfuchs) <a href="https://twitter.com/thomasfuchs/status/493790680397803521">July 28, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### <span class="post-title-pre">Discuss:</span> Readings 
+
+* Talk about the nature/future of the web
+* Discuss Brad Frost readings
+* Mobile First
+* What makes a site responsive?
+* Importance of performance and content
+* Website vs. webapp (again).
+
+#### <span class="post-title-pre">Code:</span> Profile Pages
+
+* Look at progress
+* Q/A, demos
+	* Add/talk about Media Queries
+* Discuss floats and positioning
+* Review if needed 
+
+####  Break
+
+#### <span class="post-title-pre">Exercise:</span> Floats
+
+* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
+
+![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
+
+
+### Afternoon
+
+#### <span class="post-title-pre">Discuss:</span> Grids!
+
+
+<div class="notice post-todos" markdown="1">
+
+### For Next Time
+
+#### Readings:
+* [CSS Frameworks](https://www.youtube.com/watch?v=zJ78W_kdmCA) - lynda.com teaser
+* [Please Stop Using Twitter Bootstrap](http://notes.gross.is/post/43508972396/please-stop-using-twitter-bootstrap)
+* [Pros and Cons of Using Frameworks](http://themetaq.com/articles/the-pros-and-cons-of-using-a-front-end-framework)
+* [Web! What is it good for?](https://adactio.com/journal/9016) - Jeremy Keith
+
+#### To do:
+* Work through any tutorials you are behind on. Then:
+	* [Building Forms](http://learn.shayhowe.com/html-css/building-forms/)
+	* [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
+* Add your final project ideas to [this Google Doc](https://docs.google.com/document/d/1in3A5zMbRq5yNaXs8scPhyCDxzErUHrbwD6xHZYq970/edit?usp=sharing). They don't have to be final! We'll discuss next week.
+
+Finally, if you'd like extra practice, **[see this exercise](https://github.com/laras126/extra-practice-html-css)**. There are instructions further down the page below the file listing.
+
+</div>
