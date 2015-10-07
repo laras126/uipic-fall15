@@ -11,6 +11,7 @@ permalink: /info/
 * [Course Work](#course-work)
 * [Grading](#grading)
 * [Materials](#materials)
+* [Office Hours](#office-hours)
 
 ## Basics
 
@@ -26,11 +27,12 @@ permalink: /info/
 Lara Schenck<br>
 [lara@notlaura.com](mailto:lara@notlaura.com)<br>
 	
-**Email list:**<br>
-{{site.class_email}}
+**Slack:**<br>
+{{site.slack}} <br>
+Slack is a super awesome chat-room esque resource for teams. We'll use it for keeping track of logistics, links, and questions throughout the week.
 
 **This site:**<br>
-All information lives on this website. The [links page]({{ "/info/" | prepend: site.baseurl }}) has a ton of resources (though barely scratches the surface!) and I hope to answer most questions about the course itself on this page. 
+Apart from Slack, all information lives on this website. The [links page]({{ "/info/" | prepend: site.baseurl }}) has a ton of resources (though barely scratches the surface!) and I hope to answer most questions about the course itself on this page. 
 
 Each week I will post details about the coming class in the [Classes]({{ "/classes/" | prepend: site.baseurl }}) section. You'll notice that future classes aren't completely laid out yet - I like to plan as we go so that we can account for any new concepts or trends that come up as the course progresses. That being said, if you would ever like to work ahead, let me know and I can provide some guidance.
 
@@ -44,7 +46,7 @@ With that in mind, missing a class is critical. Try not to if you can help it, t
 
 #### Pair Programming
 
-When coding in class, we'll often pair programming. As the wise Wikipedia states:
+When coding in class, we'll sometimes pair program. As the wise Wikipedia states:
 
 > Pair programming (sometimes referred to as peer programming) is an agile software development technique in which two programmers work as a pair together on one workstation. One, the driver, writes code while the other, the observer, pointer or navigator, reviews each line of code as it is typed in.
 
@@ -60,16 +62,17 @@ Though the majority of code learning will happen outside of class via tutorials,
 
 As mentioned above, tutorials will be assigned to guide your coding know-how. I will also give you "Assignments", or checklists of coding tasks to make sure you have caught on to all of the concepts.
 
-#### Click-holes
+#### Research
 
-This translates to research, or a "rabbit hole of clicking", if you will. A huge part of learning the language of code is being excited and knowledgeable about what's happening in the industry. Here's how to go into a "click-hole" (I know, a crass term but I like it):
+A huge part of learning to code is staying up to date with the latest and greatest. At the beginning of each class, we'll discuss current events in the industry and you'll be expected to post a link or two in Slack before the class. 
+
+To find links, you can do this:
 
 1. Via [Panda](https://usepanda.com/app/#/) (listed below) or some other site, find an interesting article. Read it.
 2. When you see a link embedded in the article, open it in a new tab, but keep reading the article (if you want).
 3. Look at those other links, and open their embedded links.
 4. You'll probably start researching a specific topic, and learning about prominent industry names and websites.
 
-Every now and then, we'll have someone (or me) present a "click-hole".
 
 #### Final Project
 
@@ -99,7 +102,7 @@ For full credit, you must:
 * Participated in link sharing and discussions
 * Completed your final project as described above
 
-Blah, blah, blah, just put some work in!
+Blah, blah, blah, just put the work in!
 
 ## Materials
 
@@ -121,4 +124,8 @@ Panda is a Chrome extension that turns your opening tab into a news feed of popu
 
 #### [Spectacle](http://spectacleapp.com/)
 Spectacle is an app for window management. While it is not critical to development, it is essential that you develop an efficient workflow, and window management is a key component of that.
+
+## Office Hours
+
+I am in charge of [Office Hours at CSS-Tricks](http://css-tricks.com/lodge/office-hours), and during the class, you are welcome to participate. They are every Monday, Wednesday, and Friday at varying times. I host once per week and on the other days, another super talented staff member from CSS-Tricks will host. These are a fantastic resource; I hope you take advantage of them!
 

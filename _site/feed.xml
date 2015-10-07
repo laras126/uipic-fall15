@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UIPIC, Summer 15</title>
-    <description>Saturdays 9:30-12:30pm, Room 505&lt;br&gt; May 30 - August 1
+    <title>UIPIC, Fall 15</title>
+    <description>Wednesdays 6:30-9:30pm, Room 505&lt;br&gt; 8 classes, October 7 - December 2
 </description>
-    <link>http://laras126.github.io//uipic-summer15/</link>
-    <atom:link href="http://laras126.github.io//uipic-summer15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jul 2015 08:48:07 -0400</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2015 08:48:07 -0400</lastBuildDate>
+    <link>http://laras126.github.io//uipic-fall15/</link>
+    <atom:link href="http://laras126.github.io//uipic-fall15/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Oct 2015 17:55:57 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2015 17:55:57 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Work Time/Show &amp; Tell!</title>
-        <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
-
-&lt;p&gt;Last class! Show off what you’ve been working on!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/08/01/class-10.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/08/01/class-10.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
     
       <item>
         <title>Forms and States</title>
@@ -123,9 +108,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 25 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/25/class-9.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/25/class-9.html</guid>
+        <pubDate>Wed, 02 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/12/02/class-8.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/12/02/class-8.html</guid>
         
         
         <category>class</category>
@@ -199,9 +184,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 18 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/18/class-8.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/18/class-8.html</guid>
+        <pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/11/18/class-7.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/11/18/class-7.html</guid>
         
         
         <category>class</category>
@@ -240,9 +225,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Wed, 15 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/15/class-7.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/15/class-7.html</guid>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/11/11/class-6.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/11/11/class-6.html</guid>
         
         
         <category>class</category>
@@ -321,9 +306,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/07/11/class-6.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/07/11/class-6.html</guid>
+        <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/11/04/class-5.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/11/04/class-5.html</guid>
         
         
         <category>class</category>
@@ -418,9 +403,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/06/27/class-5.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/06/27/class-5.html</guid>
+        <pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/10/28/class-4.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/10/28/class-4.html</guid>
         
         
         <category>class</category>
@@ -471,7 +456,7 @@
   &lt;li&gt;&lt;strong&gt;Recreate this layout and email me a zipped file&lt;/strong&gt;, &lt;a href=&quot;http://stuff.notlaura.com/downloads/layout-exercise.zip&quot;&gt;starter files here&lt;/a&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uipic-summer15/img/layout-exercise.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uipic-fall15/img/layout-exercise.png&quot; alt=&quot;layout&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;afternoon&quot;&gt;Afternoon&lt;/h3&gt;
 
@@ -504,9 +489,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/06/20/class-3.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/06/20/class-3.html</guid>
+        <pubDate>Wed, 21 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/10/21/class-3.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/10/21/class-3.html</guid>
         
         
         <category>class</category>
@@ -520,12 +505,8 @@
 &lt;h4 id=&quot;span-classpost-title-prediscussspan-readings--links&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Discuss:&lt;/span&gt; Readings + Links&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Websites vs. Webapps&lt;/li&gt;
-  &lt;li&gt;Any links? Questions?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://themagicemail.com/&quot;&gt;Magic Email&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Websites vs. Webapps / the Web as a “platform”&lt;/li&gt;
+  &lt;li&gt;Links and questions&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;span-classpost-title-prelecturespan-what-is-ui-prototyping-in-code&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; What is UI Prototyping in Code?&lt;/h4&gt;
@@ -650,9 +631,9 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 06 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/06/06/class-2.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/06/06/class-2.html</guid>
+        <pubDate>Wed, 14 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/10/14/class-2.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/10/14/class-2.html</guid>
         
         
         <category>class</category>
@@ -714,15 +695,15 @@
     &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/building-your-first-web-page/&quot;&gt;Lesson 1: Building Your First Web Page&lt;/a&gt; (review tutorial, optional)&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/getting-to-know-html/&quot;&gt;Lesson 2: Getting to Know HTML&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/getting-to-know-css/&quot;&gt;Lesson 3: Getting to Know CSS&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Look through &lt;a href=&quot;/uipic-summer15/links/&quot;&gt;the Links section&lt;/a&gt; of this site and, if you like, install the various software on your own computers.&lt;/li&gt;
-    &lt;li&gt;Finish up the todos in the welcome files (optional)&lt;/li&gt;
+    &lt;li&gt;Look through &lt;a href=&quot;/uipic-fall15/links/&quot;&gt;the Links section&lt;/a&gt; of this site and, if you like, install the various software on your own computers.&lt;/li&gt;
+    &lt;li&gt;Continue working on the prototype from class&lt;/li&gt;
   &lt;/ul&gt;
 
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 30 May 2015 00:00:00 -0400</pubDate>
-        <link>http://laras126.github.io//uipic-summer15/class/2015/05/30/class-1.html</link>
-        <guid isPermaLink="true">http://laras126.github.io//uipic-summer15/class/2015/05/30/class-1.html</guid>
+        <pubDate>Wed, 07 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://laras126.github.io//uipic-fall15/class/2015/10/07/class-1.html</link>
+        <guid isPermaLink="true">http://laras126.github.io//uipic-fall15/class/2015/10/07/class-1.html</guid>
         
         
         <category>class</category>
