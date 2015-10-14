@@ -50,15 +50,17 @@ Final Projects
 
 #### Break
 
-#### <span class="post-title-pre">Code:</span> Start Profile Page 
+#### <span class="post-title-pre">Code:</span> Start A Webapp 
 
+* [Clone this](https://github.com/laras126/webapp-exercise) in Cloud 9
+* List our content
 * Review HTML/CSS concepts
 	* Cascade, specificity
 	* Nesting
 	* Semantics
 * Demo normalize
 * Project file structure and stylesheet
-	* Naming
+* Start adding content to template
 
 #### Work time and Q/A
 
@@ -70,11 +72,12 @@ Final Projects
 #### Readings:
 
 * [Death to Bullshit](https://www.youtube.com/watch?v=nE0CRMm59BY) - video, Brad Frost
-* [Dao of Web Design](http://alistapart.com/article/dao) - from 2000?! This one's a classic.
 * [Mobile First Responsive Web Design](http://bradfrost.com/blog/web/mobile-first-responsive-web-design/) - how we approach RWD today.
 * [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/) - The different options in creating a responsive website.
 
 #### To do:
+
+Decide on an idea for your final project!
 
 Tutorials:
 
@@ -86,13 +89,6 @@ If you need more clarification:
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101) - A List Apart
 * [All About Floats](https://css-tricks.com/all-about-floats/) - CSS Tricks
 
-Add a basic layout to the profile page. Maybe have a sidebar with extra info or an image next to some descriptive text. Some examples:
-
-* [IMDB](http://www.imdb.com/name/nm0202970/?ref_=nv_sr_1)
-* [Twitter](https://twitter.com/shibesbot)
-* [Medium](https://medium.com/@JohnKobs)
-* [CodePen](http://codepen.io/derekjp/)
-* ...or whatev!
 
 </div>
 
