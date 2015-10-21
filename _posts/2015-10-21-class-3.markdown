@@ -22,29 +22,24 @@ categories: class
 * Mobile First
 * What makes a site responsive?
 * Importance of performance and content
-* Website vs. webapp (again).
 
-#### <span class="post-title-pre">Code:</span> Profile Pages
+#### <span class="post-title-pre">Code:</span> Continue with the webapp demo
 
 * Look at progress
-* Q/A, demos
+* Q/A
 	* Add/talk about Media Queries
 * Discuss floats and positioning
-* Review if needed 
+* Add layout to list items
 
 ####  Break
 
 #### <span class="post-title-pre">Exercise:</span> Floats
 
-* **Recreate this layout and email me a zipped file**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
+* **Recreate this layout**, [starter files here](http://stuff.notlaura.com/downloads/layout-exercise.zip):
 
 ![layout]({{ "/img/layout-exercise.png" | prepend: site.baseurl }})
 
-
-### Afternoon
-
 #### <span class="post-title-pre">Discuss:</span> Grids!
-
 
 <div class="notice post-todos" markdown="1">
 
