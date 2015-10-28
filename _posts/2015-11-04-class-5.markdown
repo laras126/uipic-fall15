@@ -1,6 +1,6 @@
 ---
 layout: post
-class: 6
+class: 5
 excerpt: "Review grids. Then talk about JS - it's very different than HTML and CSS. IMHO, needs to be in it's own category. Let's investigate."
 title:  "Review + WTF JS"
 date:   2015-11-04

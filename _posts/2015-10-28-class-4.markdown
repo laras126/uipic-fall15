@@ -1,6 +1,6 @@
 ---
 layout: post
-class: 5
+class: 4
 excerpt: "Discuss the pros and cons of frameworks. Make the same thing in Bootstrap then Foundation to compare. Lots of practice using the Inspector."
 title:  "Frameworks"
 date:   2015-10-28

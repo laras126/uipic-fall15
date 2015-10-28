@@ -1,8 +1,8 @@
 ---
 layout: post
-class: 3+4
+class: 3
 excerpt: "Floats, clearfixin', oh my. Responsive design is cool."
-title:  "Responsive Design + Work time"
+title:  "Responsive Design"
 date:   2015-10-21
 categories: class
 ---

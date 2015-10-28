@@ -1,6 +1,6 @@
 ---
 layout: post
-class: 7
+class: 6
 title: "Make Up Class + jQuery"
 excerpt: "Work time and go through jQuery concepts."
 date:   2015-11-11
