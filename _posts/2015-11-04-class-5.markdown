@@ -13,7 +13,7 @@ categories: class
 
 * Also demo and locate a clearfix
 * Review of layout and framework concepts
-* Responsive grids demo/review - [files here](http://stuff.notlaura.com/downloads/grids.zip).
+* Responsive grids exercise - [files here](https://github.com/laras126/grid-exercise).
 
 #### <span class="post-title-pre">Lecture:</span> JavaScript Conundrum and Concepts
 
@@ -50,8 +50,8 @@ categories: class
 
 #### Todo:
 
-* Collect content and create screen wireframes for outline of final project
-* Continue working through extra exercises
+* Be close to finished with HTML markup on final project
+* Continue working through [extra exercise](https://github.com/laras126/extra-practice-html-css) if you feel behind!
 
 #### Readings:
 
