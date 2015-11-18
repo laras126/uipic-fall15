@@ -1,9 +1,9 @@
 ---
 layout: post
 class: 6
-title: "jQuery"
+title: "jQuery and Plugins"
 excerpt: "Work time and go through jQuery concepts."
-date:   2015-11-11
+date:   2015-11-18
 categories: class
 ---
 
@@ -15,12 +15,22 @@ For the first half of class, I'll walk around and check in on projects and gener
 
 #### <span class="post-title-pre">Lecture:</span> jQuery
 
-* Discuss fundamental programming concepts
+* Review fundamental programming concepts
 * What is jQuery and what does it do?
-* Basic syntax
+* Basic syntax and Selectors
 * Snow White demo
 
-#### <span class="post-title-pre">Work time</span>
+#### <span class="post-title-pre">Lecture:</span> Plugins
+
+* When to use them
+* Where to find them
+* How to use them
+
+#### <span class="post-title-pre">Exercise:</span> Use a Plugin
+
+* Install [FartScroll](http://theonion.github.io/fartscroll.js/), lolz.
+* Something more useful: [Fittext.js](http://fittextjs.com/)
+* Lots of nice ones on [Unheap](http://unheap.com).
 
 
 <div class="notice post-todos" markdown="1">
@@ -31,6 +41,6 @@ For the first half of class, I'll walk around and check in on projects and gener
 
 * Bring any Final Project questions
 * Work through the [jQuery extra practice](https://github.com/laras126/jquery_exercise) tasks if you like
-
+* Schedule a Google Hangouts check-in time
 
 </div>

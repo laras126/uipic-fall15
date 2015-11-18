@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Templating - UIPIC, Fall 15</title>
-  <meta name="description" content="Let's talk about what the back-end of an application does, and how we as designers can account for it. Introduce the concept of templating, and integrate it ...">
+  <title>Forms and States - UIPIC, Fall 15</title>
+  <meta name="description" content="Form functionality and types of inputs.">
 	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/uipic-fall15/css/main.css">
-  <link rel="canonical" href="http://laras126.github.io//uipic-fall15/class/2015/11/18/class-7.html">
+  <link rel="canonical" href="http://laras126.github.io//uipic-fall15/class/2015/12/02/class-7.html">
   <link rel="alternate" type="application/rss+xml" title="UIPIC, Fall 15" href="http://laras126.github.io//uipic-fall15/feed.xml" />
 </head>
 
@@ -71,81 +71,112 @@
  
   <div class="post-nav">
      
-      <a class="prev" href="/uipic-fall15/class/2015/11/11/class-6.html">&larr; Class 6: jQuery</a> 
+      <a class="prev" href="/uipic-fall15/class/2015/11/18/class-6.html">&larr; Class 6: jQuery and Plugins</a> 
      
     
-      <a class="next right" href="/uipic-fall15/class/2015/12/02/class-8.html">Class 8: Forms and States &rarr;</a> 
+      <a class="next right" href="/uipic-fall15/class/2015/12/09/class-8.html">Class 8: Forms and States &rarr;</a> 
      
   </div>
 
   <header class="post-header">
-    <h1 class="post-title"><span class="post-title-pre">Class 7: </span>Templating</h1>
-    <p class="post-meta">Nov 18, 2015</p>
+    <h1 class="post-title"><span class="post-title-pre">Class 7: </span>Forms and States</h1>
+    <p class="post-meta">Dec 2, 2015</p>
   </header>
   
   <article class="post-content">
     <h2 id="the-plan">The Plan</h2>
 
-<h4 id="span-classpost-title-prefinal-projectsspan-work-time-and-discuss"><span class="post-title-pre">Final Projects:</span> Work Time and Discuss</h4>
+<h4 id="span-classpost-title-prelecturespan-forms-vs-inputs"><span class="post-title-pre">Lecture:</span> Forms vs. Inputs</h4>
+<ul>
+  <li><code>&lt;form&gt;</code> vs. <code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>Posting the values with <code>action=""</code></li>
+      <li>Look at Google</li>
+    </ul>
+  </li>
+  <li><code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>text</li>
+      <li>radio</li>
+      <li>submit</li>
+      <li>number</li>
+      <li>phone</li>
+      <li>password</li>
+      <li>range</li>
+      <li>file</li>
+      <li>…<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input#Attributes">and more</a>!</li>
+    </ul>
+  </li>
+  <li>Adding additional attributes
+    <ul>
+      <li>name</li>
+      <li>value</li>
+      <li>placeholder</li>
+      <li>disabled</li>
+      <li>…<a href="">and more</a>!</li>
+    </ul>
+  </li>
+  <li>How name and action attributes interact</li>
+  <li>Labels
+    <ul>
+      <li><code>&lt;label for="name"&gt;</code></li>
+    </ul>
+  </li>
+  <li>Common types
+    <ul>
+      <li>Radio = true/false</li>
+      <li>Checkbox = select mutliple</li>
+      <li>Dropdowns: <code>&lt;select&gt;</code> and <code>&lt;option&gt;</code>
+        <ul>
+          <li>A note about the UX - <a href="http://smarterware.org/7388/the-case-against-drop-down-identities">interesting article here</a>.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Examples
+    <ul>
+      <li><a href="https://www.taskrabbit.com/">Taskrabbit.com</a></li>
+      <li><a href="https://www.pittsburghfoodbank.org">Food bank donate form</a></li>
+    </ul>
+  </li>
+  <li>Basic <a href="http://www.w3schools.com/html/html_forms.asp">form tutorial here</a>.</li>
+</ul>
 
-<p>For the first half of class, I’ll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.</p>
+<h4 id="span-classpost-title-predemospan-php-form"><span class="post-title-pre">Demo:</span> PHP Form</h4>
+<ul>
+  <li>Look at form PHP code - <a href="http://stuff.notlaura.com/demos/php-form-demo.zip">files here</a>.
+    <ul>
+      <li>It’s kind of gross looking code, don’t be intimidated.</li>
+      <li>Show variable values in url, e.g. <code>?name=Lara</code></li>
+      <li>Writing to mood.txt</li>
+      <li>Example without method and action</li>
+    </ul>
+  </li>
+  <li>Add a new field</li>
+  <li>Styling forms (it kind of sucks)</li>
+</ul>
 
-<h4 id="span-classpost-title-prelecturespan-templating"><span class="post-title-pre">Lecture:</span> Templating</h4>
+<h4 id="break">Break</h4>
+
+<h4 id="span-classpost-title-predemospan-jquery-plugin"><span class="post-title-pre">Demo:</span> jQuery Plugin</h4>
 
 <ul>
-  <li>Data
+  <li>Demo a JS plugin.
     <ul>
-      <li>Types of databases</li>
-      <li>JSON</li>
+      <li><a href="http://theonion.github.io/fartscroll.js/">FartScroll</a>, lolz.</li>
+      <li>Something more useful: <a href="http://fittextjs.com/">Fittext.js</a></li>
+      <li>Lots of nice ones on <a href="http://unheap.com">Unheap</a>.</li>
     </ul>
-  </li>
-  <li>What are frameworks?</li>
-  <li>What is templating? Why is it awesome?</li>
-  <li>Separating content, logic, and data</li>
-  <li>MVC (no need to memorize what this means too much)
-    <ul>
-      <li><a href="http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488">Read more here</a></li>
-    </ul>
-  </li>
-  <li>Templating concepts
-    <ul>
-      <li>Includes and partials</li>
-      <li>Extends</li>
-    </ul>
-  </li>
-  <li>Templating languages, look at examples
-    <ul>
-      <li><a href="http://www.kuwata-lab.com/erubis/">Ruby on Rails (Erubis)</a> <code>&lt;h1&gt;&lt;%= person.name %&gt;&lt;/h1&gt;</code></li>
-      <li><a href="http://twig.sensiolabs.org">Twig</a>, <a href="https://www.djangoproject.com/">Django</a>, <a href="http://handlebarsjs.com">Handlebars.js</a> <code>&lt;h1&gt;&lt;/h1&gt;</code></li>
-    </ul>
-  </li>
-  <li>
-    <p>Data for that in JSON would look like:</p>
-
-    <p>{
-      “person”: {
-          “name”: “Lara”,
-          “location”: “NYC”
-      }
-  }</p>
   </li>
 </ul>
 
-<h4 id="span-classpost-title-predemospan-handlebars-templating"><span class="post-title-pre">Demo:</span> Handlebars templating</h4>
+<h4 id="work-time-and-qa">Work Time and Q/A</h4>
 
-<h4 id="span-classpost-title-pretogetherspan-php-includes"><span class="post-title-pre">Together:</span> PHP includes</h4>
-
-<p>Separate your header and footer code into separate files.</p>
-
-<div class="notice post-todos">
+<div class="post-todos notice">
 
   <h3 id="for-next-time">For Next Time</h3>
 
-  <h4 id="todo">Todo:</h4>
-
-  <ul>
-    <li>Keep working!</li>
-  </ul>
+  <p>Keep working on projects! Email questions if you have them. You should have a nice markup skeleton, all of your pages in place, and have started styling.</p>
 
 </div>
 
@@ -154,10 +185,10 @@
    <div class="post-nav">
     <br>
      
-      <a class="prev" href="/uipic-fall15/class/2015/11/11/class-6.html">&larr; Class 6: jQuery</a> 
+      <a class="prev" href="/uipic-fall15/class/2015/11/18/class-6.html">&larr; Class 6: jQuery and Plugins</a> 
      
     
-      <a class="next right" href="/uipic-fall15/class/2015/12/02/class-8.html">Class 8: Forms and States &rarr;</a> 
+      <a class="next right" href="/uipic-fall15/class/2015/12/09/class-8.html">Class 8: Forms and States &rarr;</a> 
      
     <br>
     <br>

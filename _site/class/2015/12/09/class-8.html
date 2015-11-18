@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>jQuery - UIPIC, Fall 15</title>
-  <meta name="description" content="Work time and go through jQuery concepts.">
+  <title>Forms and States - UIPIC, Fall 15</title>
+  <meta name="description" content="Form functionality and types of inputs.">
 	
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/uipic-fall15/css/main.css">
-  <link rel="canonical" href="http://laras126.github.io//uipic-fall15/class/2015/11/11/class-6.html">
+  <link rel="canonical" href="http://laras126.github.io//uipic-fall15/class/2015/12/09/class-8.html">
   <link rel="alternate" type="application/rss+xml" title="UIPIC, Fall 15" href="http://laras126.github.io//uipic-fall15/feed.xml" />
 </head>
 
@@ -71,46 +71,110 @@
  
   <div class="post-nav">
      
-      <a class="prev" href="/uipic-fall15/class/2015/11/04/class-5.html">&larr; Class 5: Review + WTF JS</a> 
+      <a class="prev" href="/uipic-fall15/class/2015/12/02/class-7.html">&larr; Class 7: Forms and States</a> 
      
-    
-      <a class="next right" href="/uipic-fall15/class/2015/11/18/class-7.html">Class 7: Templating &rarr;</a> 
      
   </div>
 
   <header class="post-header">
-    <h1 class="post-title"><span class="post-title-pre">Class 6: </span>jQuery</h1>
-    <p class="post-meta">Nov 11, 2015</p>
+    <h1 class="post-title"><span class="post-title-pre">Class 8: </span>Forms and States</h1>
+    <p class="post-meta">Dec 9, 2015</p>
   </header>
   
   <article class="post-content">
     <h2 id="the-plan">The Plan</h2>
 
-<h4 id="span-classpost-title-prefinal-projectsspan-work-time-and-discuss"><span class="post-title-pre">Final Projects:</span> Work Time and Discuss</h4>
-
-<p>For the first half of class, I’ll walk around and check in on projects and general questions. You can work on your project or the extra practice exercises.</p>
-
-<h4 id="span-classpost-title-prelecturespan-jquery"><span class="post-title-pre">Lecture:</span> jQuery</h4>
-
+<h4 id="span-classpost-title-prelecturespan-forms-vs-inputs"><span class="post-title-pre">Lecture:</span> Forms vs. Inputs</h4>
 <ul>
-  <li>Discuss fundamental programming concepts</li>
-  <li>What is jQuery and what does it do?</li>
-  <li>Basic syntax</li>
-  <li>Snow White demo</li>
+  <li><code>&lt;form&gt;</code> vs. <code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>Posting the values with <code>action=""</code></li>
+      <li>Look at Google</li>
+    </ul>
+  </li>
+  <li><code>&lt;input type=""&gt;</code>
+    <ul>
+      <li>text</li>
+      <li>radio</li>
+      <li>submit</li>
+      <li>number</li>
+      <li>phone</li>
+      <li>password</li>
+      <li>range</li>
+      <li>file</li>
+      <li>…<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input#Attributes">and more</a>!</li>
+    </ul>
+  </li>
+  <li>Adding additional attributes
+    <ul>
+      <li>name</li>
+      <li>value</li>
+      <li>placeholder</li>
+      <li>disabled</li>
+      <li>…<a href="">and more</a>!</li>
+    </ul>
+  </li>
+  <li>How name and action attributes interact</li>
+  <li>Labels
+    <ul>
+      <li><code>&lt;label for="name"&gt;</code></li>
+    </ul>
+  </li>
+  <li>Common types
+    <ul>
+      <li>Radio = true/false</li>
+      <li>Checkbox = select mutliple</li>
+      <li>Dropdowns: <code>&lt;select&gt;</code> and <code>&lt;option&gt;</code>
+        <ul>
+          <li>A note about the UX - <a href="http://smarterware.org/7388/the-case-against-drop-down-identities">interesting article here</a>.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Examples
+    <ul>
+      <li><a href="https://www.taskrabbit.com/">Taskrabbit.com</a></li>
+      <li><a href="https://www.pittsburghfoodbank.org">Food bank donate form</a></li>
+    </ul>
+  </li>
+  <li>Basic <a href="http://www.w3schools.com/html/html_forms.asp">form tutorial here</a>.</li>
 </ul>
 
-<h4 id="span-classpost-title-prework-timespan"><span class="post-title-pre">Work time</span></h4>
+<h4 id="span-classpost-title-predemospan-php-form"><span class="post-title-pre">Demo:</span> PHP Form</h4>
+<ul>
+  <li>Look at form PHP code - <a href="http://stuff.notlaura.com/demos/php-form-demo.zip">files here</a>.
+    <ul>
+      <li>It’s kind of gross looking code, don’t be intimidated.</li>
+      <li>Show variable values in url, e.g. <code>?name=Lara</code></li>
+      <li>Writing to mood.txt</li>
+      <li>Example without method and action</li>
+    </ul>
+  </li>
+  <li>Add a new field</li>
+  <li>Styling forms (it kind of sucks)</li>
+</ul>
 
-<div class="notice post-todos">
+<h4 id="break">Break</h4>
+
+<h4 id="span-classpost-title-predemospan-jquery-plugin"><span class="post-title-pre">Demo:</span> jQuery Plugin</h4>
+
+<ul>
+  <li>Demo a JS plugin.
+    <ul>
+      <li><a href="http://theonion.github.io/fartscroll.js/">FartScroll</a>, lolz.</li>
+      <li>Something more useful: <a href="http://fittextjs.com/">Fittext.js</a></li>
+      <li>Lots of nice ones on <a href="http://unheap.com">Unheap</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="work-time-and-qa">Work Time and Q/A</h4>
+
+<div class="post-todos notice">
 
   <h3 id="for-next-time">For Next Time</h3>
 
-  <h4 id="todo">Todo:</h4>
-
-  <ul>
-    <li>Bring any Final Project questions</li>
-    <li>Work through the <a href="https://github.com/laras126/jquery_exercise">jQuery extra practice</a> tasks if you like</li>
-  </ul>
+  <p>Keep working on projects! Email questions if you have them. You should have a nice markup skeleton, all of your pages in place, and have started styling.</p>
 
 </div>
 
@@ -119,10 +183,8 @@
    <div class="post-nav">
     <br>
      
-      <a class="prev" href="/uipic-fall15/class/2015/11/04/class-5.html">&larr; Class 5: Review + WTF JS</a> 
+      <a class="prev" href="/uipic-fall15/class/2015/12/02/class-7.html">&larr; Class 7: Forms and States</a> 
      
-    
-      <a class="next right" href="/uipic-fall15/class/2015/11/18/class-7.html">Class 7: Templating &rarr;</a> 
      
     <br>
     <br>

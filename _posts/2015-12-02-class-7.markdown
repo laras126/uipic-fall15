@@ -1,6 +1,6 @@
 ---
 layout: post
-class: 8
+class: 7
 excerpt: "Form functionality and types of inputs."
 title:  "Forms and States"
 date:   2015-12-02
