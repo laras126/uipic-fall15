@@ -6,105 +6,24 @@
 </description>
     <link>http://laras126.github.io//uipic-fall15/</link>
     <atom:link href="http://laras126.github.io//uipic-fall15/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Nov 2015 17:49:14 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2015 17:49:14 -0500</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2015 17:52:13 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 17:52:13 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Forms and States</title>
+        <title>Work time + Show n Tell</title>
         <description>&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
 
-&lt;h4 id=&quot;span-classpost-title-prelecturespan-forms-vs-inputs&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Lecture:&lt;/span&gt; Forms vs. Inputs&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;&amp;lt;form&amp;gt;&lt;/code&gt; vs. &lt;code&gt;&amp;lt;input type=&quot;&quot;&amp;gt;&lt;/code&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Posting the values with &lt;code&gt;action=&quot;&quot;&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;Look at Google&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;&amp;lt;input type=&quot;&quot;&amp;gt;&lt;/code&gt;
-    &lt;ul&gt;
-      &lt;li&gt;text&lt;/li&gt;
-      &lt;li&gt;radio&lt;/li&gt;
-      &lt;li&gt;submit&lt;/li&gt;
-      &lt;li&gt;number&lt;/li&gt;
-      &lt;li&gt;phone&lt;/li&gt;
-      &lt;li&gt;password&lt;/li&gt;
-      &lt;li&gt;range&lt;/li&gt;
-      &lt;li&gt;file&lt;/li&gt;
-      &lt;li&gt;…&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Input#Attributes&quot;&gt;and more&lt;/a&gt;!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Adding additional attributes
-    &lt;ul&gt;
-      &lt;li&gt;name&lt;/li&gt;
-      &lt;li&gt;value&lt;/li&gt;
-      &lt;li&gt;placeholder&lt;/li&gt;
-      &lt;li&gt;disabled&lt;/li&gt;
-      &lt;li&gt;…&lt;a href=&quot;&quot;&gt;and more&lt;/a&gt;!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How name and action attributes interact&lt;/li&gt;
-  &lt;li&gt;Labels
-    &lt;ul&gt;
-      &lt;li&gt;&lt;code&gt;&amp;lt;label for=&quot;name&quot;&amp;gt;&lt;/code&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Common types
-    &lt;ul&gt;
-      &lt;li&gt;Radio = true/false&lt;/li&gt;
-      &lt;li&gt;Checkbox = select mutliple&lt;/li&gt;
-      &lt;li&gt;Dropdowns: &lt;code&gt;&amp;lt;select&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;option&amp;gt;&lt;/code&gt;
-        &lt;ul&gt;
-          &lt;li&gt;A note about the UX - &lt;a href=&quot;http://smarterware.org/7388/the-case-against-drop-down-identities&quot;&gt;interesting article here&lt;/a&gt;.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Examples
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.taskrabbit.com/&quot;&gt;Taskrabbit.com&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pittsburghfoodbank.org&quot;&gt;Food bank donate form&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Basic &lt;a href=&quot;http://www.w3schools.com/html/html_forms.asp&quot;&gt;form tutorial here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;span-classpost-title-predemospan-php-form&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; PHP Form&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Look at form PHP code - &lt;a href=&quot;http://stuff.notlaura.com/demos/php-form-demo.zip&quot;&gt;files here&lt;/a&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;It’s kind of gross looking code, don’t be intimidated.&lt;/li&gt;
-      &lt;li&gt;Show variable values in url, e.g. &lt;code&gt;?name=Lara&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;Writing to mood.txt&lt;/li&gt;
-      &lt;li&gt;Example without method and action&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Add a new field&lt;/li&gt;
-  &lt;li&gt;Styling forms (it kind of sucks)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;span-classpost-title-prework-timespan&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Work Time&lt;/span&gt;&lt;/h4&gt;
 
 &lt;h4 id=&quot;break&quot;&gt;Break&lt;/h4&gt;
 
-&lt;h4 id=&quot;span-classpost-title-predemospan-jquery-plugin&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Demo:&lt;/span&gt; jQuery Plugin&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Demo a JS plugin.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://theonion.github.io/fartscroll.js/&quot;&gt;FartScroll&lt;/a&gt;, lolz.&lt;/li&gt;
-      &lt;li&gt;Something more useful: &lt;a href=&quot;http://fittextjs.com/&quot;&gt;Fittext.js&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Lots of nice ones on &lt;a href=&quot;http://unheap.com&quot;&gt;Unheap&lt;/a&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;work-time-and-qa&quot;&gt;Work Time and Q/A&lt;/h4&gt;
+&lt;h4 id=&quot;span-classpost-title-preshow-n-tellspan&quot;&gt;&lt;span class=&quot;post-title-pre&quot;&gt;Show n Tell&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;#### &lt;span class=&quot;post-title-pre&quot;&gt;Lecture&lt;/span&gt;: Next Steps&lt;/p&gt;
 
 &lt;div class=&quot;post-todos notice&quot;&gt;
 
-  &lt;h3 id=&quot;for-next-time&quot;&gt;For Next Time&lt;/h3&gt;
-
-  &lt;p&gt;Keep working on projects! Email questions if you have them. You should have a nice markup skeleton, all of your pages in place, and have started styling.&lt;/p&gt;
+  &lt;h3 id=&quot;thanks&quot;&gt;Thanks!&lt;/h3&gt;
 
 &lt;/div&gt;
 </description>
