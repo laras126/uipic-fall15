@@ -9,15 +9,10 @@ categories: class
 
 ## The Plan
 
-#### <span class="post-title-pre">Work Time</span>
-
-#### Break
-
-#### <span class="post-title-pre">Show n Tell</span> 
-#### <span class="post-title-pre">Lecture</span>: Next Steps
+Work time and Show and Tell.
 
 <div class="post-todos notice" markdown="1">
-	
-### Thanks!
+
+### Thanks for a great class!
 
 </div>
